@@ -173962,6 +173962,976 @@
    "at": 1791114740043,
    "kickoff": 1791145500000,
    "overrides": []
+  },
+  "401872975|16737|recYds|usage-efficiency-v1.4": {
+   "prop": "401872975|16737|recYds",
+   "player": "Mike Evans",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 42.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1,
+   "projection": 42.8,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.26,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.43628293726486367,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.73,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    30.31,
+    53.77
+   ],
+   "interval80": [
+    18.83,
+    74.05
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|16737|recYds|yardage-scale-v2": {
+   "prop": "401872975|16737|recYds",
+   "player": "Mike Evans",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 42.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1,
+   "projection": 42.8,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.12,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4541344788877648,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.73,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    19.3,
+    63.12
+   ],
+   "interval80": [
+    7.02,
+    87.33
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|16737|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872975|16737|recYds",
+   "player": "Mike Evans",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 42.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1,
+   "projection": 42.8,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.26,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.43628293726486367,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.73,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    30.31,
+    53.77
+   ],
+   "interval80": [
+    18.83,
+    74.05
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|16737|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872975|16737|recYds",
+   "player": "Mike Evans",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 42.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1,
+   "projection": 42.8,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.02,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5071557129148323,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.73,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    31.34,
+    54.27
+   ],
+   "interval80": [
+    21.02,
+    64.59
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|16737|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872975|16737|recYds",
+   "player": "Mike Evans",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 42.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1,
+   "projection": 42.8,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.43628293726486367,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.73,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    30.31,
+    53.77
+   ],
+   "interval80": [
+    18.83,
+    74.05
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|16737|rec|usage-efficiency-v1.4": {
+   "prop": "401872975|16737|rec",
+   "player": "Mike Evans",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1.01,
+   "projection": 3.81,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5003855330675426,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|16737|rec|yardage-scale-v2": {
+   "prop": "401872975|16737|rec",
+   "player": "Mike Evans",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1.01,
+   "projection": 3.81,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5003855330675426,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|16737|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872975|16737|rec",
+   "player": "Mike Evans",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1.01,
+   "projection": 3.81,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.33,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.55314123136386,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|16737|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872975|16737|rec",
+   "player": "Mike Evans",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1.01,
+   "projection": 3.81,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5003855330675426,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|16737|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872975|16737|rec",
+   "player": "Mike Evans",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1.01,
+   "projection": 3.81,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5003855330675426,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872978|4360763|recYds|usage-efficiency-v1.4": {
+   "prop": "401872978|4360763|recYds",
+   "player": "Brycen Tremayne",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CAR",
+   "opp": "DET",
+   "opponentFactor": 1.05,
+   "projection": 17.14,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.86,
+   "guardReason": "6 targets last game, 0.7 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 0.7 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.19530336760241174,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.02,
+   "eligibilityWeight": 0.009,
+   "propEligible": false,
+   "interval50": [
+    4.65,
+    28.11
+   ],
+   "interval80": [
+    -6.83,
+    48.39
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791159600000,
+   "overrides": []
+  },
+  "401872978|4360763|recYds|yardage-scale-v2": {
+   "prop": "401872978|4360763|recYds",
+   "player": "Brycen Tremayne",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CAR",
+   "opp": "DET",
+   "opponentFactor": 1.05,
+   "projection": 17.14,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.86,
+   "guardReason": "6 targets last game, 0.7 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 0.7 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.19511903060363867,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.02,
+   "eligibilityWeight": 0.009,
+   "propEligible": false,
+   "interval50": [
+    4.66,
+    28.1
+   ],
+   "interval80": [
+    -6.77,
+    48.3
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791159600000,
+   "overrides": []
+  },
+  "401872978|4360763|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872978|4360763|recYds",
+   "player": "Brycen Tremayne",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CAR",
+   "opp": "DET",
+   "opponentFactor": 1.05,
+   "projection": 17.14,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.86,
+   "guardReason": "6 targets last game, 0.7 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 0.7 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.19530336760241174,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.02,
+   "eligibilityWeight": 0.009,
+   "propEligible": false,
+   "interval50": [
+    4.65,
+    28.11
+   ],
+   "interval80": [
+    -6.83,
+    48.39
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791159600000,
+   "overrides": []
+  },
+  "401872978|4360763|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872978|4360763|recYds",
+   "player": "Brycen Tremayne",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CAR",
+   "opp": "DET",
+   "opponentFactor": 1.05,
+   "projection": 17.14,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.96,
+   "guardReason": "6 targets last game, 0.7 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 0.7 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.16796101825304954,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.02,
+   "eligibilityWeight": 0.009,
+   "propEligible": false,
+   "interval50": [
+    5.68,
+    28.61
+   ],
+   "interval80": [
+    -4.65,
+    38.93
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791159600000,
+   "overrides": []
+  },
+  "401872978|4360763|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872978|4360763|recYds",
+   "player": "Brycen Tremayne",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CAR",
+   "opp": "DET",
+   "opponentFactor": 1.05,
+   "projection": 17.14,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.86,
+   "guardReason": "6 targets last game, 0.7 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 0.7 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.19530336760241174,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.02,
+   "eligibilityWeight": 0.009,
+   "propEligible": false,
+   "interval50": [
+    4.65,
+    28.11
+   ],
+   "interval80": [
+    -6.83,
+    48.39
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791159600000,
+   "overrides": []
+  },
+  "401872978|4360763|rec|usage-efficiency-v1.4": {
+   "prop": "401872978|4360763|rec",
+   "player": "Brycen Tremayne",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CAR",
+   "opp": "DET",
+   "opponentFactor": 1.03,
+   "projection": 1.41,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.92,
+   "guardReason": "6 targets last game, 0.7 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 0.7 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.17895705556976438,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791159600000,
+   "overrides": []
+  },
+  "401872978|4360763|rec|yardage-scale-v2": {
+   "prop": "401872978|4360763|rec",
+   "player": "Brycen Tremayne",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CAR",
+   "opp": "DET",
+   "opponentFactor": 1.03,
+   "projection": 1.41,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.92,
+   "guardReason": "6 targets last game, 0.7 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 0.7 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.17895705556976438,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791159600000,
+   "overrides": []
+  },
+  "401872978|4360763|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872978|4360763|rec",
+   "player": "Brycen Tremayne",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CAR",
+   "opp": "DET",
+   "opponentFactor": 1.03,
+   "projection": 1.41,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.74,
+   "guardReason": "6 targets last game, 0.7 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 0.7 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.2301070320497759,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791159600000,
+   "overrides": []
+  },
+  "401872978|4360763|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872978|4360763|rec",
+   "player": "Brycen Tremayne",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CAR",
+   "opp": "DET",
+   "opponentFactor": 1.03,
+   "projection": 1.41,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.92,
+   "guardReason": "6 targets last game, 0.7 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 0.7 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.17895705556976438,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791159600000,
+   "overrides": []
+  },
+  "401872978|4360763|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872978|4360763|rec",
+   "player": "Brycen Tremayne",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CAR",
+   "opp": "DET",
+   "opponentFactor": 1.03,
+   "projection": 1.41,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.92,
+   "guardReason": "6 targets last game, 0.7 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 0.7 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.17895705556976438,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791131509255,
+   "kickoff": 1791159600000,
+   "overrides": []
   }
  },
  "checks": [
@@ -174159,6 +175129,13 @@
    792,
    50,
    48,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1791131509255,
+   798,
+   20,
+   46,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
  ],
