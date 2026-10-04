@@ -171602,6 +171602,2366 @@
    "at": 1791088717264,
    "kickoff": 1791145500000,
    "overrides": []
+  },
+  "401872965|4575131|recYds|usage-efficiency-v1.4": {
+   "prop": "401872965|4575131|recYds",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 0.99,
+   "projection": 4.44,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.32,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3729029990737125,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.81,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -8.06,
+    15.4
+   ],
+   "interval80": [
+    -19.53,
+    35.68
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4575131|recYds|yardage-scale-v2": {
+   "prop": "401872965|4575131|recYds",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 0.99,
+   "projection": 4.44,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.32,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3729029990737125,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.81,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -8.06,
+    15.4
+   ],
+   "interval80": [
+    -19.53,
+    35.68
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4575131|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872965|4575131|recYds",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 0.99,
+   "projection": 4.44,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.32,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3729029990737125,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.81,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -8.06,
+    15.4
+   ],
+   "interval80": [
+    -19.53,
+    35.68
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4575131|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872965|4575131|recYds",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 0.99,
+   "projection": 4.44,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.12,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4516918174114908,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.81,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -7.03,
+    15.9
+   ],
+   "interval80": [
+    -17.35,
+    26.22
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4575131|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872965|4575131|recYds",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 0.99,
+   "projection": 4.44,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.32,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3729029990737125,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.81,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -8.06,
+    15.4
+   ],
+   "interval80": [
+    -19.53,
+    35.68
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4575131|rec|usage-efficiency-v1.4": {
+   "prop": "401872965|4575131|rec",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.01,
+   "projection": 0.8,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.87,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.1930369155214271,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4575131|rec|yardage-scale-v2": {
+   "prop": "401872965|4575131|rec",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.01,
+   "projection": 0.8,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.87,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.1930369155214271,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4575131|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872965|4575131|rec",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.01,
+   "projection": 0.8,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.55,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.29021346553447236,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4575131|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872965|4575131|rec",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.01,
+   "projection": 0.8,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.87,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.1930369155214271,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4575131|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872965|4575131|rec",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1.01,
+   "projection": 0.8,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.87,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.1930369155214271,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4575131|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401872965|4575131|rushRecYds",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 70.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1,
+   "projection": 70,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.03,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4575131|rushRecYds|yardage-scale-v2": {
+   "prop": "401872965|4575131|rushRecYds",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 70.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1,
+   "projection": 70,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.03,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4575131|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872965|4575131|rushRecYds",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 70.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1,
+   "projection": 70,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.03,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4575131|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872965|4575131|rushRecYds",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 70.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1,
+   "projection": 70,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.03,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872965|4575131|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872965|4575131|rushRecYds",
+   "player": "Jacory Croskey-Merritt",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 70.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "WAS",
+   "opp": "IND",
+   "opponentFactor": 1,
+   "projection": 70,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.03,
+   "guardReason": "Rachaad White is Out — he was seeing 7.3 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Rachaad White is Out — he was seeing 7.3 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791120600000,
+   "overrides": []
+  },
+  "401872969|3915511|car|usage-efficiency-v1.4": {
+   "prop": "401872969|3915511|car",
+   "player": "Joe Burrow",
+   "pos": "QB",
+   "stat": "car",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CIN",
+   "opp": "JAX",
+   "opponentFactor": 1.02,
+   "projection": 2.39,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.25,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.40176637721105934,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.39,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872969|3915511|car|yardage-scale-v2": {
+   "prop": "401872969|3915511|car",
+   "player": "Joe Burrow",
+   "pos": "QB",
+   "stat": "car",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CIN",
+   "opp": "JAX",
+   "opponentFactor": 1.02,
+   "projection": 2.39,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.25,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.40176637721105934,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.39,
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872969|3915511|car|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872969|3915511|car",
+   "player": "Joe Burrow",
+   "pos": "QB",
+   "stat": "car",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CIN",
+   "opp": "JAX",
+   "opponentFactor": 1.02,
+   "projection": 2.39,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.39,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.34935946367150383,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.39,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872969|3915511|car|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872969|3915511|car",
+   "player": "Joe Burrow",
+   "pos": "QB",
+   "stat": "car",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CIN",
+   "opp": "JAX",
+   "opponentFactor": 1.02,
+   "projection": 2.39,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.25,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.40176637721105934,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.39,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872969|3915511|car|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872969|3915511|car",
+   "player": "Joe Burrow",
+   "pos": "QB",
+   "stat": "car",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "CIN",
+   "opp": "JAX",
+   "opponentFactor": 1.02,
+   "projection": 2.39,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.25,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.40176637721105934,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.39,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872970|2573401|recYds|usage-efficiency-v1.4": {
+   "prop": "401872970|2573401|recYds",
+   "player": "Tyler Higbee",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 29.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "LAR",
+   "opp": "PHI",
+   "opponentFactor": 0.9,
+   "projection": 37.72,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.57,
+   "guardReason": "11 targets last game, 3.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 targets last game, 3.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6583267907485172,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.89,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    25.23,
+    48.69
+   ],
+   "interval80": [
+    13.75,
+    68.97
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872970|2573401|recYds|yardage-scale-v2": {
+   "prop": "401872970|2573401|recYds",
+   "player": "Tyler Higbee",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 29.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "LAR",
+   "opp": "PHI",
+   "opponentFactor": 0.9,
+   "projection": 37.72,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.18,
+   "guardReason": "11 targets last game, 3.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 targets last game, 3.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5702642375325515,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.89,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    16.47,
+    56.09
+   ],
+   "interval80": [
+    5.36,
+    77.99
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872970|2573401|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872970|2573401|recYds",
+   "player": "Tyler Higbee",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 29.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "LAR",
+   "opp": "PHI",
+   "opponentFactor": 0.9,
+   "projection": 37.72,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.57,
+   "guardReason": "11 targets last game, 3.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 targets last game, 3.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6583267907485172,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.89,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    25.23,
+    48.69
+   ],
+   "interval80": [
+    13.75,
+    68.97
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872970|2573401|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872970|2573401|recYds",
+   "player": "Tyler Higbee",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 29.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "LAR",
+   "opp": "PHI",
+   "opponentFactor": 0.9,
+   "projection": 37.72,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.48,
+   "guardReason": "11 targets last game, 3.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 targets last game, 3.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6856827287305706,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.89,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    26.26,
+    49.19
+   ],
+   "interval80": [
+    15.93,
+    59.51
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872970|2573401|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872970|2573401|recYds",
+   "player": "Tyler Higbee",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 29.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "LAR",
+   "opp": "PHI",
+   "opponentFactor": 0.9,
+   "projection": 37.72,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.41,
+   "guardReason": "11 targets last game, 3.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 targets last game, 3.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6583267907485172,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.89,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    25.23,
+    48.69
+   ],
+   "interval80": [
+    13.75,
+    68.97
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872970|2573401|rec|usage-efficiency-v1.4": {
+   "prop": "401872970|2573401|rec",
+   "player": "Tyler Higbee",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "LAR",
+   "opp": "PHI",
+   "opponentFactor": 0.94,
+   "projection": 4.17,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.15,
+   "guardReason": "11 targets last game, 3.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 targets last game, 3.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5593691853685053,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872970|2573401|rec|yardage-scale-v2": {
+   "prop": "401872970|2573401|rec",
+   "player": "Tyler Higbee",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "LAR",
+   "opp": "PHI",
+   "opponentFactor": 0.94,
+   "projection": 4.17,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.15,
+   "guardReason": "11 targets last game, 3.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 targets last game, 3.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5593691853685053,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872970|2573401|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872970|2573401|rec",
+   "player": "Tyler Higbee",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "LAR",
+   "opp": "PHI",
+   "opponentFactor": 0.94,
+   "projection": 4.17,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.53,
+   "guardReason": "11 targets last game, 3.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 targets last game, 3.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6588023040365127,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872970|2573401|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872970|2573401|rec",
+   "player": "Tyler Higbee",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "LAR",
+   "opp": "PHI",
+   "opponentFactor": 0.94,
+   "projection": 4.17,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.15,
+   "guardReason": "11 targets last game, 3.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 targets last game, 3.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5593691853685053,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872970|2573401|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872970|2573401|rec",
+   "player": "Tyler Higbee",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "LAR",
+   "opp": "PHI",
+   "opponentFactor": 0.94,
+   "projection": 4.17,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.15,
+   "guardReason": "11 targets last game, 3.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 targets last game, 3.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5593691853685053,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791133200000,
+   "overrides": []
+  },
+  "401872975|3126486|recYds|usage-efficiency-v1.4": {
+   "prop": "401872975|3126486|recYds",
+   "player": "Deebo Samuel Sr.",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1,
+   "projection": 33.13,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.3,
+   "guardReason": "0 targets last game, 5.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 targets last game, 5.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3831556452239786,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.78,
+   "eligibilityWeight": 0.89,
+   "propEligible": false,
+   "interval50": [
+    20.64,
+    44.1
+   ],
+   "interval80": [
+    9.16,
+    64.38
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|3126486|recYds|yardage-scale-v2": {
+   "prop": "401872975|3126486|recYds",
+   "player": "Deebo Samuel Sr.",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1,
+   "projection": 33.13,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.17,
+   "guardReason": "0 targets last game, 5.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 targets last game, 5.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4330005760365617,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.78,
+   "eligibilityWeight": 0.89,
+   "propEligible": false,
+   "interval50": [
+    16.2,
+    47.79
+   ],
+   "interval80": [
+    6.81,
+    66.05
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|3126486|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872975|3126486|recYds",
+   "player": "Deebo Samuel Sr.",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1,
+   "projection": 33.13,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.3,
+   "guardReason": "0 targets last game, 5.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 targets last game, 5.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3831556452239786,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.78,
+   "eligibilityWeight": 0.89,
+   "propEligible": false,
+   "interval50": [
+    20.64,
+    44.1
+   ],
+   "interval80": [
+    9.16,
+    64.38
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|3126486|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872975|3126486|recYds",
+   "player": "Deebo Samuel Sr.",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1,
+   "projection": 33.13,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.08,
+   "guardReason": "0 targets last game, 5.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 targets last game, 5.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.46796847613148085,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.78,
+   "eligibilityWeight": 0.89,
+   "propEligible": false,
+   "interval50": [
+    21.67,
+    44.6
+   ],
+   "interval80": [
+    11.35,
+    54.92
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|3126486|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872975|3126486|recYds",
+   "player": "Deebo Samuel Sr.",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1,
+   "projection": 33.13,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.3,
+   "guardReason": "0 targets last game, 5.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 targets last game, 5.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3831556452239786,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.78,
+   "eligibilityWeight": 0.89,
+   "propEligible": false,
+   "interval50": [
+    20.64,
+    44.1
+   ],
+   "interval80": [
+    9.16,
+    64.38
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|3126486|rec|usage-efficiency-v1.4": {
+   "prop": "401872975|3126486|rec",
+   "player": "Deebo Samuel Sr.",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1.01,
+   "projection": 2.86,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.46,
+   "guardReason": "0 targets last game, 5.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 targets last game, 5.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3240051958713738,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|3126486|rec|yardage-scale-v2": {
+   "prop": "401872975|3126486|rec",
+   "player": "Deebo Samuel Sr.",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1.01,
+   "projection": 2.86,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.46,
+   "guardReason": "0 targets last game, 5.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 targets last game, 5.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3240051958713738,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|3126486|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872975|3126486|rec",
+   "player": "Deebo Samuel Sr.",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1.01,
+   "projection": 2.86,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.52,
+   "guardReason": "0 targets last game, 5.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 targets last game, 5.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.302922189093338,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|3126486|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872975|3126486|rec",
+   "player": "Deebo Samuel Sr.",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1.01,
+   "projection": 2.86,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.46,
+   "guardReason": "0 targets last game, 5.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 targets last game, 5.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3240051958713738,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872975|3126486|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872975|3126486|rec",
+   "player": "Deebo Samuel Sr.",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SF",
+   "opp": "DEN",
+   "opponentFactor": 1.01,
+   "projection": 2.86,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.46,
+   "guardReason": "0 targets last game, 5.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "0 targets last game, 5.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3240051958713738,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872977|4429835|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401872977|4429835|rushRecYds",
+   "player": "George Holani",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 51.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SEA",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 36.3,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872977|4429835|rushRecYds|yardage-scale-v2": {
+   "prop": "401872977|4429835|rushRecYds",
+   "player": "George Holani",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 51.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SEA",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 36.3,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872977|4429835|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872977|4429835|rushRecYds",
+   "player": "George Holani",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 51.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SEA",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 36.3,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872977|4429835|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872977|4429835|rushRecYds",
+   "player": "George Holani",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 51.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SEA",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 36.3,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872977|4429835|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872977|4429835|rushRecYds",
+   "player": "George Holani",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 51.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SEA",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 36.3,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872977|4887558|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401872977|4887558|rushRecYds",
+   "player": "Emanuel Wilson",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 63.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SEA",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 53.68,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.52,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872977|4887558|rushRecYds|yardage-scale-v2": {
+   "prop": "401872977|4887558|rushRecYds",
+   "player": "Emanuel Wilson",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 63.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SEA",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 53.68,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.52,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872977|4887558|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872977|4887558|rushRecYds",
+   "player": "Emanuel Wilson",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 63.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SEA",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 53.68,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.52,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872977|4887558|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872977|4887558|rushRecYds",
+   "player": "Emanuel Wilson",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 63.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SEA",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 53.68,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.52,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
+  },
+  "401872977|4887558|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872977|4887558|rushRecYds",
+   "player": "Emanuel Wilson",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 63.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "SEA",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 53.68,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.52,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791114740043,
+   "kickoff": 1791145500000,
+   "overrides": []
   }
  },
  "checks": [
@@ -171791,6 +174151,13 @@
    1791088717264,
    782,
    28,
+   48,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1791114740043,
+   792,
+   50,
    48,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
