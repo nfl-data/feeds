@@ -175397,6 +175397,997 @@
    "at": 1791152250674,
    "kickoff": 1791159600000,
    "overrides": []
+  },
+  "401872979|4360689|car|usage-efficiency-v1.4": {
+   "prop": "401872979|4360689|car",
+   "player": "Tyler Shough",
+   "pos": "QB",
+   "stat": "car",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1.02,
+   "projection": 4.52,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.18,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4302432322897669,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.52,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4360689|car|yardage-scale-v2": {
+   "prop": "401872979|4360689|car",
+   "player": "Tyler Shough",
+   "pos": "QB",
+   "stat": "car",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1.02,
+   "projection": 4.52,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.18,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4302432322897669,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.52,
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4360689|car|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872979|4360689|car",
+   "player": "Tyler Shough",
+   "pos": "QB",
+   "stat": "car",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1.02,
+   "projection": 4.52,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.37,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3646116860694507,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.52,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4360689|car|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872979|4360689|car",
+   "player": "Tyler Shough",
+   "pos": "QB",
+   "stat": "car",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1.02,
+   "projection": 4.52,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.18,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4302432322897669,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.52,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4360689|car|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872979|4360689|car",
+   "player": "Tyler Shough",
+   "pos": "QB",
+   "stat": "car",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1.02,
+   "projection": 4.52,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.18,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4302432322897669,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.52,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|car|usage-efficiency-v1.4": {
+   "prop": "401872979|4599739|car",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "car",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 0.98,
+   "projection": 6.21,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.48,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.31631302681544393,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.21,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|car|yardage-scale-v2": {
+   "prop": "401872979|4599739|car",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "car",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 0.98,
+   "projection": 6.21,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.48,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.31631302681544393,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.21,
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|car|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872979|4599739|car",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "car",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 0.98,
+   "projection": 6.21,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.8,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.21074355424925073,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.21,
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|car|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872979|4599739|car",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "car",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 0.98,
+   "projection": 6.21,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.48,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.31631302681544393,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.21,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|car|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872979|4599739|car",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "car",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 0.98,
+   "projection": 6.21,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.48,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.31631302681544393,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.21,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|car|pool-share-v2": {
+   "prop": "401872979|4599739|car",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "car",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 0.98,
+   "projection": 6.34,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.45,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.32805938573565785,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.34,
+   "beyondCalibration": false,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|recYds|usage-efficiency-v1.4": {
+   "prop": "401872979|4599739|recYds",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1,
+   "projection": 8.21,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.31,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.47500722383177174,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.34,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -4.29,
+    19.17
+   ],
+   "interval80": [
+    -15.76,
+    39.45
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|recYds|yardage-scale-v2": {
+   "prop": "401872979|4599739|recYds",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1,
+   "projection": 8.21,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.31,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.47500722383177174,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.34,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -4.29,
+    19.17
+   ],
+   "interval80": [
+    -15.76,
+    39.45
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872979|4599739|recYds",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1,
+   "projection": 8.21,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.31,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.47500722383177174,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.34,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -4.29,
+    19.17
+   ],
+   "interval80": [
+    -15.76,
+    39.45
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872979|4599739|recYds",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1,
+   "projection": 8.21,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.1,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5400318133890609,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.34,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -3.26,
+    19.68
+   ],
+   "interval80": [
+    -13.58,
+    30
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872979|4599739|recYds",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1,
+   "projection": 8.21,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0,
+   "guardReason": null,
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.47500722383177174,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.34,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -4.29,
+    19.17
+   ],
+   "interval80": [
+    -15.76,
+    39.45
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|rec|usage-efficiency-v1.4": {
+   "prop": "401872979|4599739|rec",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1.03,
+   "projection": 0.99,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.64,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.26127974361232575,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|rec|yardage-scale-v2": {
+   "prop": "401872979|4599739|rec",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1.03,
+   "projection": 0.99,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.64,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.26127974361232575,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872979|4599739|rec",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1.03,
+   "projection": 0.99,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.43,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3337627503465842,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872979|4599739|rec",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1.03,
+   "projection": 0.99,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.64,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.26127974361232575,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
+  },
+  "401872979|4599739|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872979|4599739|rec",
+   "player": "Kendre Miller",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 4
+   },
+   "team": "NO",
+   "opp": "ATL",
+   "opponentFactor": 1.03,
+   "projection": 0.99,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.64,
+   "guardReason": "Travis Etienne Jr. is IR — he was seeing 10.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Travis Etienne Jr. is IR — he was seeing 10.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.26127974361232575,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "600bdde",
+   "at": 1791244120137,
+   "kickoff": 1791245700000,
+   "overrides": []
   }
  },
  "checks": [
@@ -175678,6 +176669,13 @@
    804,
    0,
    4,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1791244120137,
+   810,
+   21,
+   6,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
  ],
