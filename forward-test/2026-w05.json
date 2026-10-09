@@ -140479,6 +140479,976 @@
    "at": 1791521593902,
    "kickoff": 1791764400000,
    "overrides": []
+  },
+  "401872986|4695193|recYds|usage-efficiency-v1.4": {
+   "prop": "401872986|4695193|recYds",
+   "player": "Efton Chism III",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "NE",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 14.97,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.27,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3954442221087414,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.09,
+   "eligibilityWeight": 0.046,
+   "propEligible": false,
+   "interval50": [
+    2.47,
+    25.93
+   ],
+   "interval80": [
+    -9,
+    46.22
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872986|4695193|recYds|yardage-scale-v2": {
+   "prop": "401872986|4695193|recYds",
+   "player": "Efton Chism III",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "NE",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 14.97,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.26,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.39700357834892086,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.09,
+   "eligibilityWeight": 0.046,
+   "propEligible": false,
+   "interval50": [
+    2.51,
+    25.89
+   ],
+   "interval80": [
+    -8.71,
+    45.79
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872986|4695193|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872986|4695193|recYds",
+   "player": "Efton Chism III",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "NE",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 14.97,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.27,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3954442221087414,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.09,
+   "eligibilityWeight": 0.046,
+   "propEligible": false,
+   "interval50": [
+    2.47,
+    25.93
+   ],
+   "interval80": [
+    -9,
+    46.22
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872986|4695193|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872986|4695193|recYds",
+   "player": "Efton Chism III",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "NE",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 14.97,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.03,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.48754574979056775,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.09,
+   "eligibilityWeight": 0.046,
+   "propEligible": false,
+   "interval50": [
+    3.5,
+    26.44
+   ],
+   "interval80": [
+    -6.82,
+    36.76
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872986|4695193|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872986|4695193|recYds",
+   "player": "Efton Chism III",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "NE",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 14.97,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.27,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3954442221087414,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.09,
+   "eligibilityWeight": 0.046,
+   "propEligible": false,
+   "interval50": [
+    2.47,
+    25.93
+   ],
+   "interval80": [
+    -9,
+    46.22
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872986|4695193|rec|usage-efficiency-v1.4": {
+   "prop": "401872986|4695193|rec",
+   "player": "Efton Chism III",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "NE",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 1.22,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.41,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3403465415832325,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872986|4695193|rec|yardage-scale-v2": {
+   "prop": "401872986|4695193|rec",
+   "player": "Efton Chism III",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "NE",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 1.22,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.41,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3403465415832325,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872986|4695193|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872986|4695193|rec",
+   "player": "Efton Chism III",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "NE",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 1.22,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.31,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3797754060274059,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872986|4695193|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872986|4695193|rec",
+   "player": "Efton Chism III",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "NE",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 1.22,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.41,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3403465415832325,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872986|4695193|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872986|4695193|rec",
+   "player": "Efton Chism III",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "NE",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 1.22,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.41,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3403465415832325,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872987|4036133|recYds|usage-efficiency-v1.4": {
+   "prop": "401872987|4036133|recYds",
+   "player": "T.J. Hockenson",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 40.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "MIN",
+   "opp": "NO",
+   "opponentFactor": 1.02,
+   "projection": 49.06,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.58,
+   "guardReason": "13 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "13 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6657718926571567,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.51,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    36.57,
+    60.03
+   ],
+   "interval80": [
+    25.09,
+    80.31
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872987|4036133|recYds|yardage-scale-v2": {
+   "prop": "401872987|4036133|recYds",
+   "player": "T.J. Hockenson",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 40.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "MIN",
+   "opp": "NO",
+   "opponentFactor": 1.02,
+   "projection": 49.06,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.16,
+   "guardReason": "13 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "13 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5649409981408869,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.51,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    26.19,
+    68.83
+   ],
+   "interval80": [
+    14.24,
+    92.4
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872987|4036133|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872987|4036133|recYds",
+   "player": "T.J. Hockenson",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 40.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "MIN",
+   "opp": "NO",
+   "opponentFactor": 1.02,
+   "projection": 49.06,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.58,
+   "guardReason": "13 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "13 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6657718926571567,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.51,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    36.57,
+    60.03
+   ],
+   "interval80": [
+    25.09,
+    80.31
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872987|4036133|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872987|4036133|recYds",
+   "player": "T.J. Hockenson",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 40.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "MIN",
+   "opp": "NO",
+   "opponentFactor": 1.02,
+   "projection": 49.06,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.5,
+   "guardReason": "13 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "13 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6927231728974351,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.51,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    37.59,
+    60.53
+   ],
+   "interval80": [
+    27.27,
+    70.85
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872987|4036133|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872987|4036133|recYds",
+   "player": "T.J. Hockenson",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 40.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "MIN",
+   "opp": "NO",
+   "opponentFactor": 1.02,
+   "projection": 49.06,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.43,
+   "guardReason": "13 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "13 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6657718926571567,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.51,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    36.57,
+    60.03
+   ],
+   "interval80": [
+    25.09,
+    80.31
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872987|4036133|rec|usage-efficiency-v1.4": {
+   "prop": "401872987|4036133|rec",
+   "player": "T.J. Hockenson",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "MIN",
+   "opp": "NO",
+   "opponentFactor": 1,
+   "projection": 5.63,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.27,
+   "guardReason": "13 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "13 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6062357810882089,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872987|4036133|rec|yardage-scale-v2": {
+   "prop": "401872987|4036133|rec",
+   "player": "T.J. Hockenson",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "MIN",
+   "opp": "NO",
+   "opponentFactor": 1,
+   "projection": 5.63,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.27,
+   "guardReason": "13 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "13 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6062357810882089,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872987|4036133|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872987|4036133|rec",
+   "player": "T.J. Hockenson",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "MIN",
+   "opp": "NO",
+   "opponentFactor": 1,
+   "projection": 5.63,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.76,
+   "guardReason": "13 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "13 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7710815267849824,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872987|4036133|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872987|4036133|rec",
+   "player": "T.J. Hockenson",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "MIN",
+   "opp": "NO",
+   "opponentFactor": 1,
+   "projection": 5.63,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.27,
+   "guardReason": "13 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "13 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6062357810882089,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872987|4036133|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872987|4036133|rec",
+   "player": "T.J. Hockenson",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "MIN",
+   "opp": "NO",
+   "opponentFactor": 1,
+   "projection": 5.63,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.27,
+   "guardReason": "13 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "13 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6062357810882089,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791549701564,
+   "kickoff": 1791738000000,
+   "overrides": []
   }
  },
  "checks": [
@@ -140613,6 +141583,13 @@
    610,
    0,
    4,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1791549701564,
+   618,
+   20,
+   8,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
  ],
