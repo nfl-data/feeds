@@ -161258,6 +161258,1236 @@
    "at": 1791692624613,
    "kickoff": 1791764400000,
    "overrides": []
+  },
+  "401872986|4401805|recYds|usage-efficiency-v1.4": {
+   "prop": "401872986|4401805|recYds",
+   "player": "Dareke Young",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "LV",
+   "opp": "NE",
+   "opponentFactor": 0.98,
+   "projection": 4.98,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.26,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.44126012918161306,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.79,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -7.52,
+    15.94
+   ],
+   "interval80": [
+    -18.99,
+    36.22
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872986|4401805|recYds|yardage-scale-v2": {
+   "prop": "401872986|4401805|recYds",
+   "player": "Dareke Young",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "LV",
+   "opp": "NE",
+   "opponentFactor": 0.98,
+   "projection": 4.98,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.26,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.44126012918161306,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.79,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -7.52,
+    15.94
+   ],
+   "interval80": [
+    -18.99,
+    36.22
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872986|4401805|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872986|4401805|recYds",
+   "player": "Dareke Young",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "LV",
+   "opp": "NE",
+   "opponentFactor": 0.98,
+   "projection": 4.98,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.26,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.44126012918161306,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.79,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -7.52,
+    15.94
+   ],
+   "interval80": [
+    -18.99,
+    36.22
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872986|4401805|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872986|4401805|recYds",
+   "player": "Dareke Young",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "LV",
+   "opp": "NE",
+   "opponentFactor": 0.98,
+   "projection": 4.98,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.03,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5111786699397267,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.79,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -6.49,
+    16.44
+   ],
+   "interval80": [
+    -16.81,
+    26.76
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872986|4401805|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872986|4401805|recYds",
+   "player": "Dareke Young",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "LV",
+   "opp": "NE",
+   "opponentFactor": 0.98,
+   "projection": 4.98,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.44126012918161306,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 0.79,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -7.52,
+    15.94
+   ],
+   "interval80": [
+    -18.99,
+    36.22
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872988|5081432|recYds|usage-efficiency-v1.4": {
+   "prop": "401872988|5081432|recYds",
+   "player": "Antonio Williams",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1.01,
+   "projection": 35.34,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.29,
+   "guardReason": "Stefon Diggs is Out — he was seeing 7.8 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Stefon Diggs is Out — he was seeing 7.8 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.38624396927283056,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.09,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    22.85,
+    46.31
+   ],
+   "interval80": [
+    11.37,
+    66.59
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872988|5081432|recYds|yardage-scale-v2": {
+   "prop": "401872988|5081432|recYds",
+   "player": "Antonio Williams",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1.01,
+   "projection": 35.34,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.15,
+   "guardReason": "Stefon Diggs is Out — he was seeing 7.8 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Stefon Diggs is Out — he was seeing 7.8 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.44113548748584885,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.09,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    13.74,
+    54.01
+   ],
+   "interval80": [
+    2.45,
+    76.28
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872988|5081432|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872988|5081432|recYds",
+   "player": "Antonio Williams",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1.01,
+   "projection": 35.34,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.29,
+   "guardReason": "Stefon Diggs is Out — he was seeing 7.8 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Stefon Diggs is Out — he was seeing 7.8 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.38624396927283056,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.09,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    22.85,
+    46.31
+   ],
+   "interval80": [
+    11.37,
+    66.59
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872988|5081432|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872988|5081432|recYds",
+   "player": "Antonio Williams",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1.01,
+   "projection": 35.34,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.07,
+   "guardReason": "Stefon Diggs is Out — he was seeing 7.8 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Stefon Diggs is Out — he was seeing 7.8 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4728831462423513,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.09,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    23.88,
+    46.81
+   ],
+   "interval80": [
+    13.56,
+    57.13
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872988|5081432|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872988|5081432|recYds",
+   "player": "Antonio Williams",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1.01,
+   "projection": 35.34,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.29,
+   "guardReason": "Stefon Diggs is Out — he was seeing 7.8 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Stefon Diggs is Out — he was seeing 7.8 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.38624396927283056,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.09,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    22.85,
+    46.31
+   ],
+   "interval80": [
+    11.37,
+    66.59
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872988|5081432|rec|usage-efficiency-v1.4": {
+   "prop": "401872988|5081432|rec",
+   "player": "Antonio Williams",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1.01,
+   "projection": 2.93,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.42,
+   "guardReason": "Stefon Diggs is Out — he was seeing 7.8 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Stefon Diggs is Out — he was seeing 7.8 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.337210671081285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872988|5081432|rec|yardage-scale-v2": {
+   "prop": "401872988|5081432|rec",
+   "player": "Antonio Williams",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1.01,
+   "projection": 2.93,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.42,
+   "guardReason": "Stefon Diggs is Out — he was seeing 7.8 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Stefon Diggs is Out — he was seeing 7.8 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.337210671081285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872988|5081432|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872988|5081432|rec",
+   "player": "Antonio Williams",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1.01,
+   "projection": 2.93,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.47,
+   "guardReason": "Stefon Diggs is Out — he was seeing 7.8 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Stefon Diggs is Out — he was seeing 7.8 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3204438608752418,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872988|5081432|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872988|5081432|rec",
+   "player": "Antonio Williams",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1.01,
+   "projection": 2.93,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.42,
+   "guardReason": "Stefon Diggs is Out — he was seeing 7.8 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Stefon Diggs is Out — he was seeing 7.8 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.337210671081285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872988|5081432|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872988|5081432|rec",
+   "player": "Antonio Williams",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1.01,
+   "projection": 2.93,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.42,
+   "guardReason": "Stefon Diggs is Out — he was seeing 7.8 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Stefon Diggs is Out — he was seeing 7.8 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.337210671081285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791738000000,
+   "overrides": []
+  },
+  "401872989|4686612|recYds|usage-efficiency-v1.4": {
+   "prop": "401872989|4686612|recYds",
+   "player": "Tre' Harris",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 51.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "LAC",
+   "opp": "DEN",
+   "opponentFactor": 0.99,
+   "projection": 40.67,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.67,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.2514534837357658,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.92,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    28.18,
+    51.64
+   ],
+   "interval80": [
+    16.7,
+    71.92
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791749100000,
+   "overrides": []
+  },
+  "401872989|4686612|recYds|yardage-scale-v2": {
+   "prop": "401872989|4686612|recYds",
+   "player": "Tre' Harris",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 51.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "LAC",
+   "opp": "DEN",
+   "opponentFactor": 0.99,
+   "projection": 40.67,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.43,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.33214398898985154,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.92,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    19.6,
+    58.88
+   ],
+   "interval80": [
+    8.59,
+    80.59
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791749100000,
+   "overrides": []
+  },
+  "401872989|4686612|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872989|4686612|recYds",
+   "player": "Tre' Harris",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 51.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "LAC",
+   "opp": "DEN",
+   "opponentFactor": 0.99,
+   "projection": 40.67,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.67,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.2514534837357658,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.92,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    28.18,
+    51.64
+   ],
+   "interval80": [
+    16.7,
+    71.92
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791749100000,
+   "overrides": []
+  },
+  "401872989|4686612|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872989|4686612|recYds",
+   "player": "Tre' Harris",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 51.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "LAC",
+   "opp": "DEN",
+   "opponentFactor": 0.99,
+   "projection": 40.67,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.64,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.2620604606761514,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.92,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    29.2,
+    52.14
+   ],
+   "interval80": [
+    18.88,
+    62.46
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791749100000,
+   "overrides": []
+  },
+  "401872989|4686612|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872989|4686612|recYds",
+   "player": "Tre' Harris",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 51.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "LAC",
+   "opp": "DEN",
+   "opponentFactor": 0.99,
+   "projection": 40.67,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.67,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.2514534837357658,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.92,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    28.18,
+    51.64
+   ],
+   "interval80": [
+    16.7,
+    71.92
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791749100000,
+   "overrides": []
+  },
+  "401872993|3043275|rec|usage-efficiency-v1.4": {
+   "prop": "401872993|3043275|rec",
+   "player": "Austin Hooper",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "ATL",
+   "opp": "BAL",
+   "opponentFactor": 0.99,
+   "projection": 1.59,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7707375211255159,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791764400000,
+   "overrides": []
+  },
+  "401872993|3043275|rec|yardage-scale-v2": {
+   "prop": "401872993|3043275|rec",
+   "player": "Austin Hooper",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "ATL",
+   "opp": "BAL",
+   "opponentFactor": 0.99,
+   "projection": 1.59,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7707375211255159,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791764400000,
+   "overrides": []
+  },
+  "401872993|3043275|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872993|3043275|rec",
+   "player": "Austin Hooper",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "ATL",
+   "opp": "BAL",
+   "opponentFactor": 0.99,
+   "projection": 1.59,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7622175527168196,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791764400000,
+   "overrides": []
+  },
+  "401872993|3043275|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872993|3043275|rec",
+   "player": "Austin Hooper",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "ATL",
+   "opp": "BAL",
+   "opponentFactor": 0.99,
+   "projection": 1.59,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7707375211255159,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791764400000,
+   "overrides": []
+  },
+  "401872993|3043275|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872993|3043275|rec",
+   "player": "Austin Hooper",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "ATL",
+   "opp": "BAL",
+   "opponentFactor": 0.99,
+   "projection": 1.59,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7707375211255159,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791720803433,
+   "kickoff": 1791764400000,
+   "overrides": []
   }
  },
  "checks": [
@@ -161433,6 +162663,13 @@
    1791692624613,
    700,
    126,
+   8,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1791720803433,
+   705,
+   25,
    8,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
