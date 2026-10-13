@@ -165322,6 +165322,342 @@
    "at": 1791815807446,
    "kickoff": 1791850500000,
    "overrides": []
+  },
+  "401872994|4429501|rushYds|usage-efficiency-v1.4": {
+   "prop": "401872994|4429501|rushYds",
+   "player": "Ray Davis",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "BUF",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 8.46,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.76,
+   "guardReason": "1 carries last game, 7.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 carries last game, 7.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7107260075764804,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.96,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    0.7,
+    13.04
+   ],
+   "interval80": [
+    -11.45,
+    32.19
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "a4fb6c0",
+   "at": 1791850414085,
+   "kickoff": 1791850500000,
+   "overrides": []
+  },
+  "401872994|4429501|rushYds|yardage-scale-v2": {
+   "prop": "401872994|4429501|rushYds",
+   "player": "Ray Davis",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "BUF",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 8.46,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.76,
+   "guardReason": "1 carries last game, 7.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 carries last game, 7.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7107260075764804,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.96,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    0.7,
+    13.04
+   ],
+   "interval80": [
+    -11.45,
+    32.19
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791850414085,
+   "kickoff": 1791850500000,
+   "overrides": []
+  },
+  "401872994|4429501|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872994|4429501|rushYds",
+   "player": "Ray Davis",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "BUF",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 8.46,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.76,
+   "guardReason": "1 carries last game, 7.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 carries last game, 7.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7107260075764804,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.96,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    0.7,
+    13.04
+   ],
+   "interval80": [
+    -11.45,
+    32.19
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791850414085,
+   "kickoff": 1791850500000,
+   "overrides": []
+  },
+  "401872994|4429501|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872994|4429501|rushYds",
+   "player": "Ray Davis",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "BUF",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 8.46,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.52,
+   "guardReason": "1 carries last game, 7.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 carries last game, 7.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6995805362669247,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.96,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    0.78,
+    16.15
+   ],
+   "interval80": [
+    -6.15,
+    23.07
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791850414085,
+   "kickoff": 1791850500000,
+   "overrides": []
+  },
+  "401872994|4429501|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872994|4429501|rushYds",
+   "player": "Ray Davis",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "BUF",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 8.46,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.56,
+   "guardReason": "1 carries last game, 7.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 carries last game, 7.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7107260075764804,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.96,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    0.7,
+    13.04
+   ],
+   "interval80": [
+    -11.45,
+    32.19
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791850414085,
+   "kickoff": 1791850500000,
+   "overrides": []
+  },
+  "401872994|4429501|rushYds|pool-share-v2": {
+   "prop": "401872994|4429501|rushYds",
+   "player": "Ray Davis",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 5
+   },
+   "team": "BUF",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 5.7,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.6,
+   "guardReason": "1 carries last game, 7.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 carries last game, 7.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6423770087346663,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.96,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -2.06,
+    10.27
+   ],
+   "interval80": [
+    -14.22,
+    29.42
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "a4fb6c0",
+   "at": 1791850414085,
+   "kickoff": 1791850500000,
+   "overrides": []
   }
  },
  "checks": [
@@ -165582,6 +165918,13 @@
    719,
    52,
    2,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1791850414085,
+   722,
+   6,
+   4,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
  ],
