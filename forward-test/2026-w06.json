@@ -140754,6 +140754,5793 @@
    "at": 1792182924687,
    "kickoff": 1792355100000,
    "overrides": []
+  },
+  "401872997|4035671|passYds|usage-efficiency-v1.4": {
+   "prop": "401872997|4035671|passYds",
+   "player": "Tyler Huntley",
+   "pos": "QB",
+   "stat": "passYds",
+   "line": 164.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "BAL",
+   "opp": "CLE",
+   "opponentFactor": 0.98,
+   "projection": 126.76,
+   "typicalError": 51.5,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.73,
+   "guardReason": "32 pass attempts last game, 13.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "32 pass attempts last game, 13.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872997|4035671|passYds|yardage-scale-v2": {
+   "prop": "401872997|4035671|passYds",
+   "player": "Tyler Huntley",
+   "pos": "QB",
+   "stat": "passYds",
+   "line": 164.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "BAL",
+   "opp": "CLE",
+   "opponentFactor": 0.98,
+   "projection": 126.76,
+   "typicalError": 51.5,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.73,
+   "guardReason": "32 pass attempts last game, 13.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "32 pass attempts last game, 13.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872997|4035671|passYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872997|4035671|passYds",
+   "player": "Tyler Huntley",
+   "pos": "QB",
+   "stat": "passYds",
+   "line": 164.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "BAL",
+   "opp": "CLE",
+   "opponentFactor": 0.98,
+   "projection": 126.76,
+   "typicalError": 51.5,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.73,
+   "guardReason": "32 pass attempts last game, 13.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "32 pass attempts last game, 13.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872997|4035671|passYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872997|4035671|passYds",
+   "player": "Tyler Huntley",
+   "pos": "QB",
+   "stat": "passYds",
+   "line": 164.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "BAL",
+   "opp": "CLE",
+   "opponentFactor": 0.98,
+   "projection": 126.76,
+   "typicalError": 51.5,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.73,
+   "guardReason": "32 pass attempts last game, 13.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "32 pass attempts last game, 13.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872997|4035671|passYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872997|4035671|passYds",
+   "player": "Tyler Huntley",
+   "pos": "QB",
+   "stat": "passYds",
+   "line": 164.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "BAL",
+   "opp": "CLE",
+   "opponentFactor": 0.98,
+   "projection": 126.76,
+   "typicalError": 51.5,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.73,
+   "guardReason": "32 pass attempts last game, 13.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "32 pass attempts last game, 13.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401873001|4431452|car|usage-efficiency-v1.4": {
+   "prop": "401873001|4431452|car",
+   "player": "Drake Maye",
+   "pos": "QB",
+   "stat": "car",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "NE",
+   "opp": "NYJ",
+   "opponentFactor": 1.01,
+   "projection": 6.19,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.49915804382807705,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.19,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401873001|4431452|car|yardage-scale-v2": {
+   "prop": "401873001|4431452|car",
+   "player": "Drake Maye",
+   "pos": "QB",
+   "stat": "car",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "NE",
+   "opp": "NYJ",
+   "opponentFactor": 1.01,
+   "projection": 6.19,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.49915804382807705,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.19,
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401873001|4431452|car|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873001|4431452|car",
+   "player": "Drake Maye",
+   "pos": "QB",
+   "stat": "car",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "NE",
+   "opp": "NYJ",
+   "opponentFactor": 1.01,
+   "projection": 6.19,
+   "typicalError": 1.9,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.6,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6827834319787485,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.19,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401873001|4431452|car|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873001|4431452|car",
+   "player": "Drake Maye",
+   "pos": "QB",
+   "stat": "car",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "NE",
+   "opp": "NYJ",
+   "opponentFactor": 1.01,
+   "projection": 6.19,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.49915804382807705,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.19,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401873001|4431452|car|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873001|4431452|car",
+   "player": "Drake Maye",
+   "pos": "QB",
+   "stat": "car",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "NE",
+   "opp": "NYJ",
+   "opponentFactor": 1.01,
+   "projection": 6.19,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.49915804382807705,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 6.19,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|car|usage-efficiency-v1.4": {
+   "prop": "401872998|4360238|car",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "car",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.04,
+   "projection": 8.93,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.18,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.11844477480911109,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.93,
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|car|yardage-scale-v2": {
+   "prop": "401872998|4360238|car",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "car",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.04,
+   "projection": 8.93,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.18,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.11844477480911109,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.93,
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|car|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|4360238|car",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "car",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.04,
+   "projection": 8.93,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.7,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.04431441122696156,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.93,
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|car|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|4360238|car",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "car",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.04,
+   "projection": 8.93,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.18,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.11844477480911109,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.93,
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|car|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|4360238|car",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "car",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.04,
+   "projection": 8.93,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.18,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.11844477480911109,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.93,
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|car|pool-share-v2": {
+   "prop": "401872998|4360238|car",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "car",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.04,
+   "projection": 10.73,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.84,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.20148194719122703,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 10.73,
+   "beyondCalibration": true,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rushYds|usage-efficiency-v1.4": {
+   "prop": "401872998|4360238|rushYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 58.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.09,
+   "projection": 33.6,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.31,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.09471600055627494,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.57,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    25.84,
+    38.17
+   ],
+   "interval80": [
+    13.69,
+    57.33
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rushYds|yardage-scale-v2": {
+   "prop": "401872998|4360238|rushYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 58.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.09,
+   "projection": 33.6,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.95,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.171684619906035,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.57,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    13.18,
+    47.65
+   ],
+   "interval80": [
+    3.09,
+    70.42
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|4360238|rushYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 58.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.09,
+   "projection": 33.6,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.31,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.09471600055627494,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.57,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    25.84,
+    38.17
+   ],
+   "interval80": [
+    13.69,
+    57.33
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|4360238|rushYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 58.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.09,
+   "projection": 33.6,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 2.18,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.014479677554049664,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.57,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    25.91,
+    41.29
+   ],
+   "interval80": [
+    18.99,
+    48.21
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|4360238|rushYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 58.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.09,
+   "projection": 33.6,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.31,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.09471600055627494,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.57,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    25.84,
+    38.17
+   ],
+   "interval80": [
+    13.69,
+    57.33
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rushYds|pool-share-v2": {
+   "prop": "401872998|4360238|rushYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 58.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.09,
+   "projection": 40.35,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.15,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.12515805226548737,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.57,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    32.59,
+    44.92
+   ],
+   "interval80": [
+    20.43,
+    64.07
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4685201|rushYds|usage-efficiency-v1.4": {
+   "prop": "401872998|4685201|rushYds",
+   "player": "Tanner McKee",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.02,
+   "projection": 7.35,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.5,
+   "guardReason": "Jalen Hurts is Out — he was seeing 32.3 att a game; 40 pass attempts last game, 1.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Jalen Hurts is Out — he was seeing 32.3 att a game",
+    "40 pass attempts last game, 1.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.31027581279223115,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -0.42,
+    11.92
+   ],
+   "interval80": [
+    -12.57,
+    31.07
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4685201|rushYds|yardage-scale-v2": {
+   "prop": "401872998|4685201|rushYds",
+   "player": "Tanner McKee",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.02,
+   "projection": 7.35,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.5,
+   "guardReason": "Jalen Hurts is Out — he was seeing 32.3 att a game; 40 pass attempts last game, 1.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Jalen Hurts is Out — he was seeing 32.3 att a game",
+    "40 pass attempts last game, 1.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.31027581279223115,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -0.42,
+    11.92
+   ],
+   "interval80": [
+    -12.57,
+    31.07
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4685201|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|4685201|rushYds",
+   "player": "Tanner McKee",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.02,
+   "projection": 7.35,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.5,
+   "guardReason": "Jalen Hurts is Out — he was seeing 32.3 att a game; 40 pass attempts last game, 1.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Jalen Hurts is Out — he was seeing 32.3 att a game",
+    "40 pass attempts last game, 1.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.31027581279223115,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -0.42,
+    11.92
+   ],
+   "interval80": [
+    -12.57,
+    31.07
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4685201|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|4685201|rushYds",
+   "player": "Tanner McKee",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.02,
+   "projection": 7.35,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.1,
+   "guardReason": "Jalen Hurts is Out — he was seeing 32.3 att a game; 40 pass attempts last game, 1.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Jalen Hurts is Out — he was seeing 32.3 att a game",
+    "40 pass attempts last game, 1.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4597367162880266,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -0.34,
+    15.04
+   ],
+   "interval80": [
+    -7.26,
+    21.96
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4685201|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|4685201|rushYds",
+   "player": "Tanner McKee",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.02,
+   "projection": 7.35,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.5,
+   "guardReason": "Jalen Hurts is Out — he was seeing 32.3 att a game; 40 pass attempts last game, 1.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Jalen Hurts is Out — he was seeing 32.3 att a game",
+    "40 pass attempts last game, 1.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.31027581279223115,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -0.42,
+    11.92
+   ],
+   "interval80": [
+    -12.57,
+    31.07
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|3121023|recYds|usage-efficiency-v1.4": {
+   "prop": "401872998|3121023|recYds",
+   "player": "Dallas Goedert",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.02,
+   "projection": 41.16,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.55,
+   "guardReason": "9 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "9 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6454061631569266,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.58,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    28.66,
+    52.12
+   ],
+   "interval80": [
+    17.19,
+    72.4
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|3121023|recYds|yardage-scale-v2": {
+   "prop": "401872998|3121023|recYds",
+   "player": "Dallas Goedert",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.02,
+   "projection": 41.16,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.16,
+   "guardReason": "9 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "9 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5652057696736688,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.58,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    20.73,
+    58.81
+   ],
+   "interval80": [
+    10.05,
+    79.87
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|3121023|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|3121023|recYds",
+   "player": "Dallas Goedert",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.02,
+   "projection": 41.16,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.55,
+   "guardReason": "9 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "9 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6454061631569266,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.58,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    28.66,
+    52.12
+   ],
+   "interval80": [
+    17.19,
+    72.4
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|3121023|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|3121023|recYds",
+   "player": "Dallas Goedert",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.02,
+   "projection": 41.16,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.45,
+   "guardReason": "9 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "9 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6738305514597711,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.58,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    29.69,
+    52.63
+   ],
+   "interval80": [
+    19.37,
+    62.95
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|3121023|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|3121023|recYds",
+   "player": "Dallas Goedert",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.02,
+   "projection": 41.16,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.37,
+   "guardReason": "9 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "9 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6454061631569266,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.58,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    28.66,
+    52.12
+   ],
+   "interval80": [
+    17.19,
+    72.4
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4241478|recYds|usage-efficiency-v1.4": {
+   "prop": "401872998|4241478|recYds",
+   "player": "DeVonta Smith",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 57.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 66.77,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.61,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6794296505320444,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.32,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    54.27,
+    77.73
+   ],
+   "interval80": [
+    42.8,
+    98.01
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4241478|recYds|yardage-scale-v2": {
+   "prop": "401872998|4241478|recYds",
+   "player": "DeVonta Smith",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 57.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 66.77,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.1,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5409819466694581,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.32,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    35.98,
+    93.37
+   ],
+   "interval80": [
+    19.9,
+    125.1
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4241478|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|4241478|recYds",
+   "player": "DeVonta Smith",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 57.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 66.77,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.61,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6794296505320444,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.32,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    54.27,
+    77.73
+   ],
+   "interval80": [
+    42.8,
+    98.01
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4241478|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|4241478|recYds",
+   "player": "DeVonta Smith",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 57.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 66.77,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.55,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7071834020388581,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.32,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    55.3,
+    78.23
+   ],
+   "interval80": [
+    44.98,
+    88.56
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4241478|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|4241478|recYds",
+   "player": "DeVonta Smith",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 57.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 66.77,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.47,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6794296505320444,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 8.32,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    54.27,
+    77.73
+   ],
+   "interval80": [
+    42.8,
+    98.01
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|recYds|usage-efficiency-v1.4": {
+   "prop": "401872998|4360238|recYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 21.43,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.67,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7207255489763073,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.44,
+   "eligibilityWeight": 0.72,
+   "propEligible": false,
+   "interval50": [
+    8.93,
+    32.39
+   ],
+   "interval80": [
+    -2.54,
+    52.67
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|recYds|yardage-scale-v2": {
+   "prop": "401872998|4360238|recYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 21.43,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.52,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6980015384817784,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.44,
+   "eligibilityWeight": 0.72,
+   "propEligible": false,
+   "interval50": [
+    8.15,
+    32.95
+   ],
+   "interval80": [
+    -0.18,
+    48.71
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|4360238|recYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 21.43,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.67,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7207255489763073,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.44,
+   "eligibilityWeight": 0.72,
+   "propEligible": false,
+   "interval50": [
+    8.93,
+    32.39
+   ],
+   "interval80": [
+    -2.54,
+    52.67
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|4360238|recYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 21.43,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.64,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7398327369324635,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.44,
+   "eligibilityWeight": 0.72,
+   "propEligible": false,
+   "interval50": [
+    9.96,
+    32.89
+   ],
+   "interval80": [
+    -0.36,
+    43.22
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|4360238|recYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 21.43,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.58,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7207255489763073,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.44,
+   "eligibilityWeight": 0.72,
+   "propEligible": false,
+   "interval50": [
+    8.93,
+    32.39
+   ],
+   "interval80": [
+    -2.54,
+    52.67
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4428850|recYds|usage-efficiency-v1.4": {
+   "prop": "401872998|4428850|recYds",
+   "player": "Dontayvion Wicks",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 29.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 42.9,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.76,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7636769331411781,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.49,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    30.4,
+    53.86
+   ],
+   "interval80": [
+    18.93,
+    74.14
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4428850|recYds|yardage-scale-v2": {
+   "prop": "401872998|4428850|recYds",
+   "player": "Dontayvion Wicks",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 29.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 42.9,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.32,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6250330121591203,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.49,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    20.11,
+    62.6
+   ],
+   "interval80": [
+    8.19,
+    86.08
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4428850|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|4428850|recYds",
+   "player": "Dontayvion Wicks",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 29.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 42.9,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.76,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7636769331411781,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.49,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    30.4,
+    53.86
+   ],
+   "interval80": [
+    18.93,
+    74.14
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4428850|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|4428850|recYds",
+   "player": "Dontayvion Wicks",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 29.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 42.9,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.79,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7846737682671232,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.49,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    31.43,
+    54.36
+   ],
+   "interval80": [
+    21.11,
+    64.68
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4428850|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|4428850|recYds",
+   "player": "Dontayvion Wicks",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 29.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 42.9,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.72,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7636769331411781,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.49,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    30.4,
+    53.86
+   ],
+   "interval80": [
+    18.93,
+    74.14
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4870795|recYds|usage-efficiency-v1.4": {
+   "prop": "401872998|4870795|recYds",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 30.93,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.84,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7930166793215974,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.85,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    18.44,
+    41.9
+   ],
+   "interval80": [
+    6.96,
+    62.18
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4870795|recYds|yardage-scale-v2": {
+   "prop": "401872998|4870795|recYds",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 30.93,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.42,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6630405163022224,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.85,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    10.06,
+    48.97
+   ],
+   "interval80": [
+    -0.85,
+    70.48
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4870795|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|4870795|recYds",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 30.93,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.84,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7930166793215974,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.85,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    18.44,
+    41.9
+   ],
+   "interval80": [
+    6.96,
+    62.18
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4870795|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|4870795|recYds",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 30.93,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.91,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8179693336053497,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.85,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    19.46,
+    42.4
+   ],
+   "interval80": [
+    9.14,
+    52.72
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4870795|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|4870795|recYds",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 30.93,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.82,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7930166793215974,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.85,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    18.44,
+    41.9
+   ],
+   "interval80": [
+    6.96,
+    62.18
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|3121023|rec|usage-efficiency-v1.4": {
+   "prop": "401872998|3121023|rec",
+   "player": "Dallas Goedert",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.81,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0,
+   "guardReason": "9 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "9 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5003068314425629,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|3121023|rec|yardage-scale-v2": {
+   "prop": "401872998|3121023|rec",
+   "player": "Dallas Goedert",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.81,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0,
+   "guardReason": "9 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "9 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5003068314425629,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|3121023|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|3121023|rec",
+   "player": "Dallas Goedert",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.81,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.33,
+   "guardReason": "9 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "9 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5530233388892019,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|3121023|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|3121023|rec",
+   "player": "Dallas Goedert",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.81,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0,
+   "guardReason": "9 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "9 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5003068314425629,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|3121023|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|3121023|rec",
+   "player": "Dallas Goedert",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.81,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0,
+   "guardReason": "9 targets last game, 4.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "9 targets last game, 4.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5003068314425629,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4241478|rec|usage-efficiency-v1.4": {
+   "prop": "401872998|4241478|rec",
+   "player": "DeVonta Smith",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 5.75,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.31,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.621470766161023,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4241478|rec|yardage-scale-v2": {
+   "prop": "401872998|4241478|rec",
+   "player": "DeVonta Smith",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 5.75,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.31,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.621470766161023,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4241478|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|4241478|rec",
+   "player": "DeVonta Smith",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 5.75,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.81,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8018175890878587,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4241478|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|4241478|rec",
+   "player": "DeVonta Smith",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 5.75,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.31,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.621470766161023,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4241478|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|4241478|rec",
+   "player": "DeVonta Smith",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 5.75,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.31,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.621470766161023,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rec|usage-efficiency-v1.4": {
+   "prop": "401872998|4360238|rec",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.01,
+   "projection": 1.38,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.28,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3915415652926285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rec|yardage-scale-v2": {
+   "prop": "401872998|4360238|rec",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.01,
+   "projection": 1.38,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.28,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3915415652926285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|4360238|rec",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.01,
+   "projection": 1.38,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.22,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4117526907115473,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|4360238|rec",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.01,
+   "projection": 1.38,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.28,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3915415652926285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|4360238|rec",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1.01,
+   "projection": 1.38,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.28,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3915415652926285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4428850|rec|usage-efficiency-v1.4": {
+   "prop": "401872998|4428850|rec",
+   "player": "Dontayvion Wicks",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.33,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.27,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6073412892470336,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4428850|rec|yardage-scale-v2": {
+   "prop": "401872998|4428850|rec",
+   "player": "Dontayvion Wicks",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.33,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.27,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6073412892470336,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4428850|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|4428850|rec",
+   "player": "Dontayvion Wicks",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.33,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.61,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.702503087864069,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4428850|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|4428850|rec",
+   "player": "Dontayvion Wicks",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.33,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.27,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6073412892470336,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4428850|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|4428850|rec",
+   "player": "Dontayvion Wicks",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.33,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.27,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6073412892470336,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4870795|rec|usage-efficiency-v1.4": {
+   "prop": "401872998|4870795|rec",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.22,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7877915731236986,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4870795|rec|yardage-scale-v2": {
+   "prop": "401872998|4870795|rec",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.22,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7877915731236986,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4870795|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|4870795|rec",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.22,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.01,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8755584849749254,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4870795|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|4870795|rec",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.22,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7877915731236986,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4870795|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|4870795|rec",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 0.99,
+   "projection": 3.22,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7877915731236986,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4685201|passRushYds|usage-efficiency-v1.4": {
+   "prop": "401872998|4685201|passRushYds",
+   "player": "Tanner McKee",
+   "pos": "QB",
+   "stat": "passRushYds",
+   "line": 213.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 106.86,
+   "typicalError": 55,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.94,
+   "guardReason": "Jalen Hurts is Out — he was seeing 32.3 att a game; 40 pass attempts last game, 1.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Jalen Hurts is Out — he was seeing 32.3 att a game",
+    "40 pass attempts last game, 1.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4685201|passRushYds|yardage-scale-v2": {
+   "prop": "401872998|4685201|passRushYds",
+   "player": "Tanner McKee",
+   "pos": "QB",
+   "stat": "passRushYds",
+   "line": 213.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 106.86,
+   "typicalError": 55,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.94,
+   "guardReason": "Jalen Hurts is Out — he was seeing 32.3 att a game; 40 pass attempts last game, 1.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Jalen Hurts is Out — he was seeing 32.3 att a game",
+    "40 pass attempts last game, 1.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4685201|passRushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|4685201|passRushYds",
+   "player": "Tanner McKee",
+   "pos": "QB",
+   "stat": "passRushYds",
+   "line": 213.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 106.86,
+   "typicalError": 55,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.94,
+   "guardReason": "Jalen Hurts is Out — he was seeing 32.3 att a game; 40 pass attempts last game, 1.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Jalen Hurts is Out — he was seeing 32.3 att a game",
+    "40 pass attempts last game, 1.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4685201|passRushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|4685201|passRushYds",
+   "player": "Tanner McKee",
+   "pos": "QB",
+   "stat": "passRushYds",
+   "line": 213.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 106.86,
+   "typicalError": 55,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.94,
+   "guardReason": "Jalen Hurts is Out — he was seeing 32.3 att a game; 40 pass attempts last game, 1.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Jalen Hurts is Out — he was seeing 32.3 att a game",
+    "40 pass attempts last game, 1.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4685201|passRushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|4685201|passRushYds",
+   "player": "Tanner McKee",
+   "pos": "QB",
+   "stat": "passRushYds",
+   "line": 213.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 106.86,
+   "typicalError": 55,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.94,
+   "guardReason": "Jalen Hurts is Out — he was seeing 32.3 att a game; 40 pass attempts last game, 1.0 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Jalen Hurts is Out — he was seeing 32.3 att a game",
+    "40 pass attempts last game, 1.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401872998|4360238|rushRecYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 73.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 58.76,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.78,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rushRecYds|yardage-scale-v2": {
+   "prop": "401872998|4360238|rushRecYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 73.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 58.76,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.78,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401872998|4360238|rushRecYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 73.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 58.76,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.78,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401872998|4360238|rushRecYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 73.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 58.76,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.78,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401872998|4360238|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401872998|4360238|rushRecYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 73.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "PHI",
+   "opp": "CAR",
+   "opponentFactor": 1,
+   "projection": 58.76,
+   "typicalError": 19,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.78,
+   "guardReason": "11 carries last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792342800000,
+   "overrides": []
+  },
+  "401873006|4430968|recYds|usage-efficiency-v1.4": {
+   "prop": "401873006|4430968|recYds",
+   "player": "Kimani Vidal",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 0.97,
+   "projection": 11.75,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.38,
+   "guardReason": "8 carries last game, 2.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "8 carries last game, 2.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5202305629818701,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.98,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -0.74,
+    22.72
+   ],
+   "interval80": [
+    -12.22,
+    43
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4430968|recYds|yardage-scale-v2": {
+   "prop": "401873006|4430968|recYds",
+   "player": "Kimani Vidal",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 0.97,
+   "projection": 11.75,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.38,
+   "guardReason": "8 carries last game, 2.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "8 carries last game, 2.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5202305629818701,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.98,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -0.74,
+    22.72
+   ],
+   "interval80": [
+    -12.22,
+    43
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4430968|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873006|4430968|recYds",
+   "player": "Kimani Vidal",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 0.97,
+   "projection": 11.75,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.38,
+   "guardReason": "8 carries last game, 2.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "8 carries last game, 2.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5202305629818701,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.98,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -0.74,
+    22.72
+   ],
+   "interval80": [
+    -12.22,
+    43
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4430968|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873006|4430968|recYds",
+   "player": "Kimani Vidal",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 0.97,
+   "projection": 11.75,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.19,
+   "guardReason": "8 carries last game, 2.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "8 carries last game, 2.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.575890721372015,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.98,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    0.29,
+    23.22
+   ],
+   "interval80": [
+    -10.03,
+    33.54
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4430968|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873006|4430968|recYds",
+   "player": "Kimani Vidal",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 0.97,
+   "projection": 11.75,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.05,
+   "guardReason": "8 carries last game, 2.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "8 carries last game, 2.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5202305629818701,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.98,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -0.74,
+    22.72
+   ],
+   "interval80": [
+    -12.22,
+    43
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4430968|rec|usage-efficiency-v1.4": {
+   "prop": "401873006|4430968|rec",
+   "player": "Kimani Vidal",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 0.97,
+   "projection": 1.04,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.59,
+   "guardReason": "8 carries last game, 2.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "8 carries last game, 2.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.27838158300668725,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4430968|rec|yardage-scale-v2": {
+   "prop": "401873006|4430968|rec",
+   "player": "Kimani Vidal",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 0.97,
+   "projection": 1.04,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.59,
+   "guardReason": "8 carries last game, 2.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "8 carries last game, 2.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.27838158300668725,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4430968|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873006|4430968|rec",
+   "player": "Kimani Vidal",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 0.97,
+   "projection": 1.04,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.4,
+   "guardReason": "8 carries last game, 2.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "8 carries last game, 2.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3438099063645391,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4430968|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873006|4430968|rec",
+   "player": "Kimani Vidal",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 0.97,
+   "projection": 1.04,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.59,
+   "guardReason": "8 carries last game, 2.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "8 carries last game, 2.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.27838158300668725,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4430968|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873006|4430968|rec",
+   "player": "Kimani Vidal",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 0.97,
+   "projection": 1.04,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.59,
+   "guardReason": "8 carries last game, 2.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "8 carries last game, 2.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.27838158300668725,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4832955|rec|usage-efficiency-v1.4": {
+   "prop": "401873006|4832955|rec",
+   "player": "Emmett Johnson",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "KC",
+   "opp": "LAC",
+   "opponentFactor": 0.99,
+   "projection": 1.12,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.5,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3069054410971438,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4832955|rec|yardage-scale-v2": {
+   "prop": "401873006|4832955|rec",
+   "player": "Emmett Johnson",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "KC",
+   "opp": "LAC",
+   "opponentFactor": 0.99,
+   "projection": 1.12,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.5,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3069054410971438,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4832955|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873006|4832955|rec",
+   "player": "Emmett Johnson",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "KC",
+   "opp": "LAC",
+   "opponentFactor": 0.99,
+   "projection": 1.12,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.36,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.35823091812606134,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4832955|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873006|4832955|rec",
+   "player": "Emmett Johnson",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "KC",
+   "opp": "LAC",
+   "opponentFactor": 0.99,
+   "projection": 1.12,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.5,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3069054410971438,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4832955|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873006|4832955|rec",
+   "player": "Emmett Johnson",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "KC",
+   "opp": "LAC",
+   "opponentFactor": 0.99,
+   "projection": 1.12,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.5,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3069054410971438,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4596334|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401873006|4596334|rushRecYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 50.47,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4596334|rushRecYds|yardage-scale-v2": {
+   "prop": "401873006|4596334|rushRecYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 50.47,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4596334|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873006|4596334|rushRecYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 50.47,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4596334|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873006|4596334|rushRecYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 50.47,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4596334|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873006|4596334|rushRecYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 50.47,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4685382|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401873006|4685382|rushRecYds",
+   "player": "Omarion Hampton",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 42.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 75.46,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "unexplained",
+   "gapSd": 1.73,
+   "guardReason": "The market disagrees sharply and nothing in the data explains why — more likely a gap in our data than an edge.",
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4685382|rushRecYds|yardage-scale-v2": {
+   "prop": "401873006|4685382|rushRecYds",
+   "player": "Omarion Hampton",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 42.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 75.46,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "unexplained",
+   "gapSd": 1.73,
+   "guardReason": "The market disagrees sharply and nothing in the data explains why — more likely a gap in our data than an edge.",
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4685382|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873006|4685382|rushRecYds",
+   "player": "Omarion Hampton",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 42.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 75.46,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "unexplained",
+   "gapSd": 1.73,
+   "guardReason": "The market disagrees sharply and nothing in the data explains why — more likely a gap in our data than an edge.",
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4685382|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873006|4685382|rushRecYds",
+   "player": "Omarion Hampton",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 42.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 75.46,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "unexplained",
+   "gapSd": 1.73,
+   "guardReason": "The market disagrees sharply and nothing in the data explains why — more likely a gap in our data than an edge.",
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873006|4685382|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873006|4685382|rushRecYds",
+   "player": "Omarion Hampton",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 42.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LAC",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 75.46,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "unexplained",
+   "gapSd": 1.73,
+   "guardReason": "The market disagrees sharply and nothing in the data explains why — more likely a gap in our data than an edge.",
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873005|4382466|recYds|usage-efficiency-v1.4": {
+   "prop": "401873005|4382466|recYds",
+   "player": "Jalen Nailor",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 23.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LV",
+   "opp": "BUF",
+   "opponentFactor": 0.99,
+   "projection": 22.44,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.29,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3876566326928489,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.3,
+   "eligibilityWeight": 0.648,
+   "propEligible": false,
+   "interval50": [
+    9.94,
+    33.4
+   ],
+   "interval80": [
+    -1.53,
+    53.69
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873005|4382466|recYds|yardage-scale-v2": {
+   "prop": "401873005|4382466|recYds",
+   "player": "Jalen Nailor",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 23.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LV",
+   "opp": "BUF",
+   "opponentFactor": 0.99,
+   "projection": 22.44,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.18,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4286467822050285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.3,
+   "eligibilityWeight": 0.648,
+   "propEligible": false,
+   "interval50": [
+    7.74,
+    35.2
+   ],
+   "interval80": [
+    -1.67,
+    52.95
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873005|4382466|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873005|4382466|recYds",
+   "player": "Jalen Nailor",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 23.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LV",
+   "opp": "BUF",
+   "opponentFactor": 0.99,
+   "projection": 22.44,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.29,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3876566326928489,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.3,
+   "eligibilityWeight": 0.648,
+   "propEligible": false,
+   "interval50": [
+    9.94,
+    33.4
+   ],
+   "interval80": [
+    -1.53,
+    53.69
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873005|4382466|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873005|4382466|recYds",
+   "player": "Jalen Nailor",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 23.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LV",
+   "opp": "BUF",
+   "opponentFactor": 0.99,
+   "projection": 22.44,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.06,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4751326414877557,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.3,
+   "eligibilityWeight": 0.648,
+   "propEligible": false,
+   "interval50": [
+    10.97,
+    33.91
+   ],
+   "interval80": [
+    0.65,
+    44.23
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873005|4382466|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873005|4382466|recYds",
+   "player": "Jalen Nailor",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 23.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LV",
+   "opp": "BUF",
+   "opponentFactor": 0.99,
+   "projection": 22.44,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.29,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3876566326928489,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.3,
+   "eligibilityWeight": 0.648,
+   "propEligible": false,
+   "interval50": [
+    9.94,
+    33.4
+   ],
+   "interval80": [
+    -1.53,
+    53.69
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873005|4382466|rec|usage-efficiency-v1.4": {
+   "prop": "401873005|4382466|rec",
+   "player": "Jalen Nailor",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LV",
+   "opp": "BUF",
+   "opponentFactor": 1,
+   "projection": 1.55,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.21161200211075082,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873005|4382466|rec|yardage-scale-v2": {
+   "prop": "401873005|4382466|rec",
+   "player": "Jalen Nailor",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LV",
+   "opp": "BUF",
+   "opponentFactor": 1,
+   "projection": 1.55,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.21161200211075082,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873005|4382466|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873005|4382466|rec",
+   "player": "Jalen Nailor",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LV",
+   "opp": "BUF",
+   "opponentFactor": 1,
+   "projection": 1.55,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.68,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.24804969787090547,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873005|4382466|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873005|4382466|rec",
+   "player": "Jalen Nailor",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LV",
+   "opp": "BUF",
+   "opponentFactor": 1,
+   "projection": 1.55,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.21161200211075082,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
+  },
+  "401873005|4382466|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873005|4382466|rec",
+   "player": "Jalen Nailor",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "LV",
+   "opp": "BUF",
+   "opponentFactor": 1,
+   "projection": 1.55,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.8,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.21161200211075082,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792206978751,
+   "kickoff": 1792355100000,
+   "overrides": []
   }
  },
  "checks": [
@@ -140923,6 +146710,13 @@
    612,
    151,
    12,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1792206978751,
+   638,
+   122,
+   14,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
  ],
