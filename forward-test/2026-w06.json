@@ -167631,6 +167631,511 @@
    "at": 1792362117913,
    "kickoff": 1792369200000,
    "overrides": []
+  },
+  "401873008|3068267|recYds|usage-efficiency-v1.4": {
+   "prop": "401873008|3068267|recYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1.05,
+   "projection": 14.53,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.52,
+   "guardReason": "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6312580995514117,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.96,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    2.03,
+    25.49
+   ],
+   "interval80": [
+    -9.44,
+    45.77
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792412393843,
+   "kickoff": 1792455300000,
+   "overrides": []
+  },
+  "401873008|3068267|recYds|yardage-scale-v2": {
+   "prop": "401873008|3068267|recYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1.05,
+   "projection": 14.53,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.52,
+   "guardReason": "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6312580995514117,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.96,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    2.03,
+    25.49
+   ],
+   "interval80": [
+    -9.44,
+    45.77
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792412393843,
+   "kickoff": 1792455300000,
+   "overrides": []
+  },
+  "401873008|3068267|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873008|3068267|recYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1.05,
+   "projection": 14.53,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.52,
+   "guardReason": "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6312580995514117,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.96,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    2.03,
+    25.49
+   ],
+   "interval80": [
+    -9.44,
+    45.77
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792412393843,
+   "kickoff": 1792455300000,
+   "overrides": []
+  },
+  "401873008|3068267|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873008|3068267|recYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1.05,
+   "projection": 14.53,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.41,
+   "guardReason": "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6603420223796195,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.96,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    3.06,
+    25.99
+   ],
+   "interval80": [
+    -7.26,
+    36.31
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792412393843,
+   "kickoff": 1792455300000,
+   "overrides": []
+  },
+  "401873008|3068267|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873008|3068267|recYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1.05,
+   "projection": 14.53,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.34,
+   "guardReason": "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6312580995514117,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.96,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    2.03,
+    25.49
+   ],
+   "interval80": [
+    -9.44,
+    45.77
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792412393843,
+   "kickoff": 1792455300000,
+   "overrides": []
+  },
+  "401873008|3068267|rec|usage-efficiency-v1.4": {
+   "prop": "401873008|3068267|rec",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1.07,
+   "projection": 1.49,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.19,
+   "guardReason": "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.42556581867065146,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792412393843,
+   "kickoff": 1792455300000,
+   "overrides": []
+  },
+  "401873008|3068267|rec|yardage-scale-v2": {
+   "prop": "401873008|3068267|rec",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1.07,
+   "projection": 1.49,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.19,
+   "guardReason": "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.42556581867065146,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792412393843,
+   "kickoff": 1792455300000,
+   "overrides": []
+  },
+  "401873008|3068267|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873008|3068267|rec",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1.07,
+   "projection": 1.49,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.17,
+   "guardReason": "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4333476610999488,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792412393843,
+   "kickoff": 1792455300000,
+   "overrides": []
+  },
+  "401873008|3068267|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873008|3068267|rec",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1.07,
+   "projection": 1.49,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.19,
+   "guardReason": "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.42556581867065146,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792412393843,
+   "kickoff": 1792455300000,
+   "overrides": []
+  },
+  "401873008|3068267|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873008|3068267|rec",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1.07,
+   "projection": 1.49,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.19,
+   "guardReason": "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Out — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.42556581867065146,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792412393843,
+   "kickoff": 1792455300000,
+   "overrides": []
   }
  },
  "checks": [
@@ -167918,6 +168423,13 @@
    1792384461780,
    736,
    0,
+   0,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1792412393843,
+   738,
+   10,
    0,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
