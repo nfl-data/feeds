@@ -168136,6 +168136,231 @@
    "at": 1792412393843,
    "kickoff": 1792455300000,
    "overrides": []
+  },
+  "401873008|3068267|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401873008|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1,
+   "projection": 38.9,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.28,
+   "guardReason": "Jacory Croskey-Merritt is Injured Reserve — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Injured Reserve — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "f901a2d",
+   "at": 1792447413556,
+   "kickoff": 1792455300000,
+   "overrides": []
+  },
+  "401873008|3068267|rushRecYds|yardage-scale-v2": {
+   "prop": "401873008|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1,
+   "projection": 38.9,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.28,
+   "guardReason": "Jacory Croskey-Merritt is Injured Reserve — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Injured Reserve — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792447413556,
+   "kickoff": 1792455300000,
+   "overrides": []
+  },
+  "401873008|3068267|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873008|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1,
+   "projection": 38.9,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.28,
+   "guardReason": "Jacory Croskey-Merritt is Injured Reserve — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Injured Reserve — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792447413556,
+   "kickoff": 1792455300000,
+   "overrides": []
+  },
+  "401873008|3068267|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873008|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1,
+   "projection": 38.9,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.28,
+   "guardReason": "Jacory Croskey-Merritt is Injured Reserve — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Injured Reserve — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792447413556,
+   "kickoff": 1792455300000,
+   "overrides": []
+  },
+  "401873008|3068267|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873008|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 33.5,
+   "asOf": {
+    "season": 2026,
+    "week": 6
+   },
+   "team": "WAS",
+   "opp": "SF",
+   "opponentFactor": 1,
+   "projection": 38.9,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.28,
+   "guardReason": "Jacory Croskey-Merritt is Injured Reserve — he was seeing 12.8 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jacory Croskey-Merritt is Injured Reserve — he was seeing 12.8 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "f901a2d",
+   "at": 1792447413556,
+   "kickoff": 1792455300000,
+   "overrides": []
   }
  },
  "checks": [
@@ -168430,6 +168655,13 @@
    1792412393843,
    738,
    10,
+   0,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1792447413556,
+   739,
+   5,
    0,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
