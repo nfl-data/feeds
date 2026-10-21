@@ -1,552 +1,551 @@
 {
- "captured": "2026-10-20T22:22:55.775Z",
- "capturedAt": 1792534975776,
+ "captured": "2026-10-21T00:52:35.038Z",
+ "capturedAt": 1792543955038,
  "files": {
   "api-sleeper-app-v1-players-nfl.json": {
    "url": "https://api.sleeper.app/v1/players/nfl",
-   "bytes": 639678,
-   "capturedAt": 1792458820149,
-   "cadenceMs": 86400000,
-   "carried": true
+   "bytes": 640018,
+   "capturedAt": 1792543955491,
+   "cadenceMs": 86400000
   },
   "api-sleeper-app-v1-state-nfl.json": {
    "url": "https://api.sleeper.app/v1/state/nfl",
    "bytes": 267,
-   "capturedAt": 1792534976011,
+   "capturedAt": 1792543955597,
    "cadenceMs": 3600000
   },
   "api-sleeper-app-v1-players-nfl-trending-add-lookback-hours-24-limit-100.json": {
    "url": "https://api.sleeper.app/v1/players/nfl/trending/add?lookback_hours=24&limit=100",
-   "bytes": 3631,
-   "capturedAt": 1792534976048,
-   "cadenceMs": 3600000
-  },
-  "api-sleeper-app-v1-players-nfl-trending-add-lookback-hours-48-limit-100.json": {
-   "url": "https://api.sleeper.app/v1/players/nfl/trending/add?lookback_hours=48&limit=100",
-   "bytes": 3643,
-   "capturedAt": 1792534976057,
-   "cadenceMs": 3600000
-  },
-  "api-sleeper-app-v1-players-nfl-trending-add-lookback-hours-168-limit-100.json": {
-   "url": "https://api.sleeper.app/v1/players/nfl/trending/add?lookback_hours=168&limit=100",
-   "bytes": 3696,
-   "capturedAt": 1792534976060,
+   "bytes": 3638,
+   "capturedAt": 1792543955621,
    "cadenceMs": 3600000
   },
   "api-sleeper-app-v1-players-nfl-trending-drop-lookback-hours-48-limit-100.json": {
    "url": "https://api.sleeper.app/v1/players/nfl/trending/drop?lookback_hours=48&limit=100",
-   "bytes": 3639,
-   "capturedAt": 1792534976072,
+   "bytes": 3642,
+   "capturedAt": 1792543955646,
    "cadenceMs": 3600000
   },
   "api-sleeper-app-v1-players-nfl-trending-drop-lookback-hours-24-limit-100.json": {
    "url": "https://api.sleeper.app/v1/players/nfl/trending/drop?lookback_hours=24&limit=100",
-   "bytes": 3626,
-   "capturedAt": 1792534976075,
+   "bytes": 3633,
+   "capturedAt": 1792543955650,
+   "cadenceMs": 3600000
+  },
+  "api-sleeper-app-v1-players-nfl-trending-add-lookback-hours-48-limit-100.json": {
+   "url": "https://api.sleeper.app/v1/players/nfl/trending/add?lookback_hours=48&limit=100",
+   "bytes": 3644,
+   "capturedAt": 1792543955668,
+   "cadenceMs": 3600000
+  },
+  "api-sleeper-app-v1-players-nfl-trending-add-lookback-hours-168-limit-100.json": {
+   "url": "https://api.sleeper.app/v1/players/nfl/trending/add?lookback_hours=168&limit=100",
+   "bytes": 3695,
+   "capturedAt": 1792543955679,
    "cadenceMs": 3600000
   },
   "api-sleeper-app-v1-players-nfl-trending-drop-lookback-hours-168-limit-100.json": {
    "url": "https://api.sleeper.app/v1/players/nfl/trending/drop?lookback_hours=168&limit=100",
-   "bytes": 3698,
-   "capturedAt": 1792534976566,
+   "bytes": 3699,
+   "capturedAt": 1792543955709,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard",
-   "bytes": 170948,
-   "capturedAt": 1792534976700,
+   "bytes": 144272,
+   "capturedAt": 1792543955873,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-1-seasontype-2-dates-2026.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=1&seasontype=2&dates=2026",
    "bytes": 140847,
-   "capturedAt": 1792534976734,
+   "capturedAt": 1792543955918,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-7-seasontype-2-dates-2026.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=7&seasontype=2&dates=2026",
-   "bytes": 254033,
-   "capturedAt": 1792534976771,
-   "cadenceMs": 3600000
-  },
-  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-8-seasontype-2-dates-2026.json": {
-   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=8&seasontype=2&dates=2026",
-   "bytes": 249117,
-   "capturedAt": 1792534976808,
+   "bytes": 254027,
+   "capturedAt": 1792543955965,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-5-seasontype-2-dates-2026.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=5&seasontype=2&dates=2026",
    "bytes": 136019,
-   "capturedAt": 1792534976835,
+   "capturedAt": 1792543956145,
+   "cadenceMs": 3600000
+  },
+  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-8-seasontype-2-dates-2026.json": {
+   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=8&seasontype=2&dates=2026",
+   "bytes": 249117,
+   "capturedAt": 1792543956178,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-2-seasontype-2-dates-2026.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=2&seasontype=2&dates=2026",
    "bytes": 140708,
-   "capturedAt": 1792534976841,
-   "cadenceMs": 3600000
-  },
-  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-3-seasontype-2-dates-2026.json": {
-   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=3&seasontype=2&dates=2026",
-   "bytes": 140052,
-   "capturedAt": 1792534976847,
+   "capturedAt": 1792543956190,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-4-seasontype-2-dates-2026.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=4&seasontype=2&dates=2026",
    "bytes": 143190,
-   "capturedAt": 1792534976856,
-   "cadenceMs": 3600000
-  },
-  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-6-seasontype-2-dates-2026.json": {
-   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=6&seasontype=2&dates=2026",
-   "bytes": 170948,
-   "capturedAt": 1792534976862,
-   "cadenceMs": 3600000
-  },
-  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-11-seasontype-2-dates-2026.json": {
-   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=11&seasontype=2&dates=2026",
-   "bytes": 151447,
-   "capturedAt": 1792534976875,
+   "capturedAt": 1792543956195,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-9-seasontype-2-dates-2026.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=9&seasontype=2&dates=2026",
    "bytes": 172568,
-   "capturedAt": 1792534976881,
+   "capturedAt": 1792543956200,
+   "cadenceMs": 3600000
+  },
+  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-6-seasontype-2-dates-2026.json": {
+   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=6&seasontype=2&dates=2026",
+   "bytes": 144272,
+   "capturedAt": 1792543956214,
+   "cadenceMs": 3600000
+  },
+  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-3-seasontype-2-dates-2026.json": {
+   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=3&seasontype=2&dates=2026",
+   "bytes": 140052,
+   "capturedAt": 1792543956218,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-10-seasontype-2-dates-2026.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=10&seasontype=2&dates=2026",
    "bytes": 162002,
-   "capturedAt": 1792534976888,
+   "capturedAt": 1792543956224,
    "cadenceMs": 3600000
   },
-  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-13-seasontype-2-dates-2026.json": {
-   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=13&seasontype=2&dates=2026",
-   "bytes": 162174,
-   "capturedAt": 1792534976903,
+  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-11-seasontype-2-dates-2026.json": {
+   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=11&seasontype=2&dates=2026",
+   "bytes": 151447,
+   "capturedAt": 1792543956233,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-12-seasontype-2-dates-2026.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=12&seasontype=2&dates=2026",
    "bytes": 181987,
-   "capturedAt": 1792534976910,
+   "capturedAt": 1792543956239,
+   "cadenceMs": 3600000
+  },
+  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-13-seasontype-2-dates-2026.json": {
+   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=13&seasontype=2&dates=2026",
+   "bytes": 162174,
+   "capturedAt": 1792543956245,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-14-seasontype-2-dates-2026.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=14&seasontype=2&dates=2026",
    "bytes": 171932,
-   "capturedAt": 1792534976915,
+   "capturedAt": 1792543956256,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-15-seasontype-2-dates-2026.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=15&seasontype=2&dates=2026",
    "bytes": 182338,
-   "capturedAt": 1792534976927,
+   "capturedAt": 1792543956270,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-16-seasontype-2-dates-2026.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=16&seasontype=2&dates=2026",
    "bytes": 181246,
-   "capturedAt": 1792534976935,
+   "capturedAt": 1792543956275,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-17-seasontype-2-dates-2026.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=17&seasontype=2&dates=2026",
    "bytes": 181652,
-   "capturedAt": 1792534976945,
+   "capturedAt": 1792543956279,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-scoreboard-week-18-seasontype-2-dates-2026.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/scoreboard?week=18&seasontype=2&dates=2026",
    "bytes": 178821,
-   "capturedAt": 1792534976952,
+   "capturedAt": 1792543956285,
    "cadenceMs": 3600000
   },
   "api-sleeper-app-projections-nfl-2026-6-season-type-regular-position-qb-position-rb-position-wr-position-te-order-by-ppr.json": {
    "url": "https://api.sleeper.app/projections/nfl/2026/6?season_type=regular&position[]=QB&position[]=RB&position[]=WR&position[]=TE&order_by=ppr",
    "bytes": 63274,
-   "capturedAt": 1792534977021,
+   "capturedAt": 1792543956590,
    "cadenceMs": 3600000
   },
   "api-sleeper-app-projections-nfl-2026-7-season-type-regular-position-qb-position-rb-position-wr-position-te-order-by-ppr.json": {
    "url": "https://api.sleeper.app/projections/nfl/2026/7?season_type=regular&position[]=QB&position[]=RB&position[]=WR&position[]=TE&order_by=ppr",
-   "bytes": 68716,
-   "capturedAt": 1792534977158,
-   "cadenceMs": 3600000
-  },
-  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-den-roster.json": {
-   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/DEN/roster",
-   "bytes": 6424,
-   "capturedAt": 1792534977210,
+   "bytes": 68750,
+   "capturedAt": 1792543956946,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-atl-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/ATL/roster",
-   "bytes": 6493,
-   "capturedAt": 1792534977217,
+   "bytes": 6489,
+   "capturedAt": 1792543956999,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-jax-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/JAX/roster",
    "bytes": 6577,
-   "capturedAt": 1792534977221,
+   "capturedAt": 1792543957003,
    "cadenceMs": 3600000
   },
-  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-hou-roster.json": {
-   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/HOU/roster",
-   "bytes": 6923,
-   "capturedAt": 1792534977224,
-   "cadenceMs": 3600000
-  },
-  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-chi-roster.json": {
-   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/CHI/roster",
-   "bytes": 6711,
-   "capturedAt": 1792534977227,
+  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-den-roster.json": {
+   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/DEN/roster",
+   "bytes": 6424,
+   "capturedAt": 1792543957005,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-sea-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/SEA/roster",
    "bytes": 6766,
-   "capturedAt": 1792534977230,
+   "capturedAt": 1792543957008,
+   "cadenceMs": 3600000
+  },
+  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-hou-roster.json": {
+   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/HOU/roster",
+   "bytes": 6923,
+   "capturedAt": 1792543957010,
+   "cadenceMs": 3600000
+  },
+  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-chi-roster.json": {
+   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/CHI/roster",
+   "bytes": 6711,
+   "capturedAt": 1792543957013,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-cle-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/CLE/roster",
    "bytes": 6579,
-   "capturedAt": 1792534977241,
+   "capturedAt": 1792543957042,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-bal-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/BAL/roster",
    "bytes": 6363,
-   "capturedAt": 1792534977248,
+   "capturedAt": 1792543957047,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-ind-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/IND/roster",
    "bytes": 6313,
-   "capturedAt": 1792534977258,
+   "capturedAt": 1792543957059,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-ten-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/TEN/roster",
    "bytes": 6668,
-   "capturedAt": 1792534977298,
+   "capturedAt": 1792543957063,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-ne-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/NE/roster",
    "bytes": 6791,
-   "capturedAt": 1792534977302,
+   "capturedAt": 1792543957065,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-nyj-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/NYJ/roster",
    "bytes": 6710,
-   "capturedAt": 1792534977308,
+   "capturedAt": 1792543957068,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-nyg-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/NYG/roster",
    "bytes": 6629,
-   "capturedAt": 1792534977313,
+   "capturedAt": 1792543957085,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-no-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/NO/roster",
    "bytes": 6633,
-   "capturedAt": 1792534977317,
+   "capturedAt": 1792543957095,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-phi-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/PHI/roster",
    "bytes": 6673,
-   "capturedAt": 1792534977321,
+   "capturedAt": 1792543957100,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-car-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/CAR/roster",
    "bytes": 6492,
-   "capturedAt": 1792534977333,
+   "capturedAt": 1792543957104,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-tb-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/TB/roster",
    "bytes": 6056,
-   "capturedAt": 1792534977341,
+   "capturedAt": 1792543957113,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-pit-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/PIT/roster",
    "bytes": 6548,
-   "capturedAt": 1792534977346,
+   "capturedAt": 1792543957115,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-lar-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/LAR/roster",
-   "bytes": 6535,
-   "capturedAt": 1792534977351,
+   "bytes": 6615,
+   "capturedAt": 1792543957126,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-ari-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/ARI/roster",
    "bytes": 6877,
-   "capturedAt": 1792534977360,
+   "capturedAt": 1792543957138,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-kc-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/KC/roster",
    "bytes": 6342,
-   "capturedAt": 1792534977364,
+   "capturedAt": 1792543957153,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-lac-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/LAC/roster",
    "bytes": 6442,
-   "capturedAt": 1792534977371,
-   "cadenceMs": 3600000
-  },
-  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-lv-roster.json": {
-   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/LV/roster",
-   "bytes": 6534,
-   "capturedAt": 1792534977420,
+   "capturedAt": 1792543957157,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-buf-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/BUF/roster",
    "bytes": 6135,
-   "capturedAt": 1792534977433,
+   "capturedAt": 1792543957160,
+   "cadenceMs": 3600000
+  },
+  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-lv-roster.json": {
+   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/LV/roster",
+   "bytes": 6534,
+   "capturedAt": 1792543957163,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-gb-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/GB/roster",
-   "bytes": 6629,
-   "capturedAt": 1792534977439,
+   "bytes": 6625,
+   "capturedAt": 1792543957167,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-dal-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/DAL/roster",
    "bytes": 6462,
-   "capturedAt": 1792534977445,
+   "capturedAt": 1792543957178,
+   "cadenceMs": 3600000
+  },
+  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-sf-roster.json": {
+   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/SF/roster",
+   "bytes": 7265,
+   "capturedAt": 1792543957196,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-wsh-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/WSH/roster",
    "bytes": 6268,
-   "capturedAt": 1792534977451,
-   "cadenceMs": 3600000
-  },
-  "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-sf-roster.json": {
-   "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/SF/roster",
-   "bytes": 7344,
-   "capturedAt": 1792534977455,
+   "capturedAt": 1792543957201,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-min-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/MIN/roster",
    "bytes": 6233,
-   "capturedAt": 1792534977460,
+   "capturedAt": 1792543957204,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-mia-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/MIA/roster",
    "bytes": 6385,
-   "capturedAt": 1792534977465,
+   "capturedAt": 1792543957207,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-cin-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/CIN/roster",
    "bytes": 6097,
-   "capturedAt": 1792534977471,
+   "capturedAt": 1792543957210,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-teams-det-roster.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/teams/DET/roster",
    "bytes": 6677,
-   "capturedAt": 1792534977476,
-   "cadenceMs": 3600000
-  },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401872995-competitions-401872995-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401872995/competitions/401872995/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 182203,
-   "capturedAt": 1792534977635,
-   "cadenceMs": 3600000
-  },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401872999-competitions-401872999-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401872999/competitions/401872999/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 150717,
-   "capturedAt": 1792534977655,
-   "cadenceMs": 3600000
-  },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401872996-competitions-401872996-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401872996/competitions/401872996/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 175180,
-   "capturedAt": 1792534977666,
+   "capturedAt": 1792543957230,
    "cadenceMs": 3600000
   },
   "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873001-competitions-401873001-odds-100-propbets-limit-1000-lang-en-region-us.json": {
    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873001/competitions/401873001/odds/100/propBets?limit=1000&lang=en&region=us",
    "bytes": 158703,
-   "capturedAt": 1792534977681,
+   "capturedAt": 1792543957513,
    "cadenceMs": 3600000
   },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401872997-competitions-401872997-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401872997/competitions/401872997/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 174165,
-   "capturedAt": 1792534977697,
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401872995-competitions-401872995-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401872995/competitions/401872995/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 182203,
+   "capturedAt": 1792543957519,
    "cadenceMs": 3600000
   },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873003-competitions-401873003-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873003/competitions/401873003/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 181668,
-   "capturedAt": 1792534977704,
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401872999-competitions-401872999-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401872999/competitions/401872999/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 150717,
+   "capturedAt": 1792543957608,
    "cadenceMs": 3600000
   },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401872998-competitions-401872998-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401872998/competitions/401872998/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 170990,
-   "capturedAt": 1792534977738,
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401872996-competitions-401872996-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401872996/competitions/401872996/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 175180,
+   "capturedAt": 1792543957617,
    "cadenceMs": 3600000
   },
   "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873000-competitions-401873000-odds-100-propbets-limit-1000-lang-en-region-us.json": {
    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873000/competitions/401873000/odds/100/propBets?limit=1000&lang=en&region=us",
    "bytes": 166880,
-   "capturedAt": 1792534977756,
+   "capturedAt": 1792543957628,
    "cadenceMs": 3600000
   },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873004-competitions-401873004-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873004/competitions/401873004/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 159702,
-   "capturedAt": 1792534977763,
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401872997-competitions-401872997-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401872997/competitions/401872997/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 174165,
+   "capturedAt": 1792543957636,
    "cadenceMs": 3600000
   },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873006-competitions-401873006-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873006/competitions/401873006/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 176923,
-   "capturedAt": 1792534977798,
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873003-competitions-401873003-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873003/competitions/401873003/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 181668,
+   "capturedAt": 1792543957643,
    "cadenceMs": 3600000
   },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873007-competitions-401873007-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873007/competitions/401873007/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 152896,
-   "capturedAt": 1792534977824,
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401872998-competitions-401872998-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401872998/competitions/401872998/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 170990,
+   "capturedAt": 1792543957647,
    "cadenceMs": 3600000
   },
   "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873002-competitions-401873002-odds-100-propbets-limit-1000-lang-en-region-us.json": {
    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873002/competitions/401873002/odds/100/propBets?limit=1000&lang=en&region=us",
    "bytes": 164435,
-   "capturedAt": 1792534977842,
+   "capturedAt": 1792543957703,
    "cadenceMs": 3600000
   },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873008-competitions-401873008-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873008/competitions/401873008/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 168947,
-   "capturedAt": 1792534977856,
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873004-competitions-401873004-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873004/competitions/401873004/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 159702,
+   "capturedAt": 1792543957717,
    "cadenceMs": 3600000
   },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873010-competitions-401873010-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873010/competitions/401873010/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 229394,
-   "capturedAt": 1792534977875,
-   "cadenceMs": 3600000
-  },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873017-competitions-401873017-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873017/competitions/401873017/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 10957,
-   "capturedAt": 1792534977889,
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873006-competitions-401873006-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873006/competitions/401873006/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 176923,
+   "capturedAt": 1792543957724,
    "cadenceMs": 3600000
   },
   "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873005-competitions-401873005-odds-100-propbets-limit-1000-lang-en-region-us.json": {
    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873005/competitions/401873005/odds/100/propBets?limit=1000&lang=en&region=us",
    "bytes": 160969,
-   "capturedAt": 1792534977893,
+   "capturedAt": 1792543957740,
+   "cadenceMs": 3600000
+  },
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873008-competitions-401873008-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873008/competitions/401873008/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 168947,
+   "capturedAt": 1792543957745,
+   "cadenceMs": 3600000
+  },
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873007-competitions-401873007-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873007/competitions/401873007/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 152896,
+   "capturedAt": 1792543957749,
+   "cadenceMs": 3600000
+  },
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873017-competitions-401873017-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873017/competitions/401873017/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 28205,
+   "capturedAt": 1792543957779,
    "cadenceMs": 3600000
   },
   "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873011-competitions-401873011-odds-100-propbets-limit-1000-lang-en-region-us.json": {
    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873011/competitions/401873011/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 199942,
-   "capturedAt": 1792534977900,
+   "bytes": 201643,
+   "capturedAt": 1792543957803,
    "cadenceMs": 3600000
   },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873013-competitions-401873013-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873013/competitions/401873013/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 85946,
-   "capturedAt": 1792534977909,
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873015-competitions-401873015-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873015/competitions/401873015/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 14760,
+   "capturedAt": 1792543957811,
    "cadenceMs": 3600000
   },
   "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873014-competitions-401873014-odds-100-propbets-limit-1000-lang-en-region-us.json": {
    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873014/competitions/401873014/odds/100/propBets?limit=1000&lang=en&region=us",
    "bytes": 59332,
-   "capturedAt": 1792534977911,
+   "capturedAt": 1792543957813,
    "cadenceMs": 3600000
   },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873015-competitions-401873015-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873015/competitions/401873015/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 14995,
-   "capturedAt": 1792534977917,
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873013-competitions-401873013-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873013/competitions/401873013/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 88188,
+   "capturedAt": 1792543957821,
+   "cadenceMs": 3600000
+  },
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873010-competitions-401873010-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873010/competitions/401873010/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 229404,
+   "capturedAt": 1792543957825,
    "cadenceMs": 3600000
   },
   "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873018-competitions-401873018-odds-100-propbets-limit-1000-lang-en-region-us.json": {
    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873018/competitions/401873018/odds/100/propBets?limit=1000&lang=en&region=us",
    "bytes": 15322,
-   "capturedAt": 1792534977928,
+   "capturedAt": 1792543957831,
    "cadenceMs": 3600000
   },
   "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873016-competitions-401873016-odds-100-propbets-limit-1000-lang-en-region-us.json": {
    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873016/competitions/401873016/odds/100/propBets?limit=1000&lang=en&region=us",
    "bytes": 14124,
-   "capturedAt": 1792534977941,
+   "capturedAt": 1792543957867,
    "cadenceMs": 3600000
   },
   "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873019-competitions-401873019-odds-100-propbets-limit-1000-lang-en-region-us.json": {
    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873019/competitions/401873019/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 12686,
-   "capturedAt": 1792534977949,
+   "bytes": 12807,
+   "capturedAt": 1792543957868,
    "cadenceMs": 3600000
   },
   "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873012-competitions-401873012-odds-100-propbets-limit-1000-lang-en-region-us.json": {
    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873012/competitions/401873012/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 71188,
-   "capturedAt": 1792534977952,
+   "bytes": 77865,
+   "capturedAt": 1792543957872,
    "cadenceMs": 3600000
   },
   "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873021-competitions-401873021-odds-100-propbets-limit-1000-lang-en-region-us.json": {
    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873021/competitions/401873021/odds/100/propBets?limit=1000&lang=en&region=us",
    "bytes": 14861,
-   "capturedAt": 1792534977959,
+   "capturedAt": 1792543957880,
+   "cadenceMs": 3600000
+  },
+  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873020-competitions-401873020-odds-100-propbets-limit-1000-lang-en-region-us.json": {
+   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873020/competitions/401873020/odds/100/propBets?limit=1000&lang=en&region=us",
+   "bytes": 154008,
+   "capturedAt": 1792543957898,
    "cadenceMs": 3600000
   },
   "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873022-competitions-401873022-odds-100-propbets-limit-1000-lang-en-region-us.json": {
    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873022/competitions/401873022/odds/100/propBets?limit=1000&lang=en&region=us",
    "bytes": 74137,
-   "capturedAt": 1792534977982,
+   "capturedAt": 1792543957903,
    "cadenceMs": 3600000
   },
   "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873009-competitions-401873009-odds-100-propbets-limit-1000-lang-en-region-us.json": {
    "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873009/competitions/401873009/odds/100/propBets?limit=1000&lang=en&region=us",
    "bytes": 105718,
-   "capturedAt": 1792534977999,
-   "cadenceMs": 3600000
-  },
-  "sports-core-api-espn-com-v2-sports-football-leagues-nfl-events-401873020-competitions-401873020-odds-100-propbets-limit-1000-lang-en-region-us.json": {
-   "url": "https://sports.core.api.espn.com/v2/sports/football/leagues/nfl/events/401873020/competitions/401873020/odds/100/propBets?limit=1000&lang=en&region=us",
-   "bytes": 154256,
-   "capturedAt": 1792534978003,
+   "capturedAt": 1792543957940,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-news-limit-50.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/news?limit=50",
-   "bytes": 158483,
-   "capturedAt": 1792534978031,
+   "bytes": 158176,
+   "capturedAt": 1792543957982,
    "cadenceMs": 3600000
   },
   "site-web-api-espn-com-apis-site-v2-sports-football-nfl-injuries.json": {
    "url": "https://site.web.api.espn.com/apis/site/v2/sports/football/nfl/injuries",
-   "bytes": 411009,
-   "capturedAt": 1792534978166,
+   "bytes": 417530,
+   "capturedAt": 1792543958159,
    "cadenceMs": 3600000
   }
  },
