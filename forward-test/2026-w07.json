@@ -134740,6 +134740,318 @@
    "at": 1792718681190,
    "kickoff": 1792947600000,
    "overrides": []
+  },
+  "401873013|4428557|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873013|4428557|rushYds",
+   "player": "Tyjae Spears",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "TEN",
+   "opp": "CLE",
+   "opponentFactor": 1,
+   "projection": 11.45,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.49,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5233776412827206,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.92,
+   "eligibilityWeight": 0.458,
+   "propEligible": false,
+   "interval50": [
+    3.68,
+    16.02
+   ],
+   "interval80": [
+    -8.47,
+    35.17
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1792726755833,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873013|4428557|rushYds|yardage-scale-v2": {
+   "prop": "401873013|4428557|rushYds",
+   "player": "Tyjae Spears",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "TEN",
+   "opp": "CLE",
+   "opponentFactor": 1,
+   "projection": 11.45,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.12,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.452379764338774,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.92,
+   "eligibilityWeight": 0.458,
+   "propEligible": false,
+   "interval50": [
+    1.51,
+    17.86
+   ],
+   "interval80": [
+    -7.9,
+    34.62
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792726755833,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873013|4428557|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873013|4428557|rushYds",
+   "player": "Tyjae Spears",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "TEN",
+   "opp": "CLE",
+   "opponentFactor": 1,
+   "projection": 11.45,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.49,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5233776412827206,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.92,
+   "eligibilityWeight": 0.458,
+   "propEligible": false,
+   "interval50": [
+    3.68,
+    16.02
+   ],
+   "interval80": [
+    -8.47,
+    35.17
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792726755833,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873013|4428557|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873013|4428557|rushYds",
+   "player": "Tyjae Spears",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "TEN",
+   "opp": "CLE",
+   "opponentFactor": 1,
+   "projection": 11.45,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.08,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5330901499151532,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.92,
+   "eligibilityWeight": 0.458,
+   "propEligible": false,
+   "interval50": [
+    3.76,
+    19.14
+   ],
+   "interval80": [
+    -3.16,
+    26.06
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792726755833,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873013|4428557|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873013|4428557|rushYds",
+   "player": "Tyjae Spears",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "TEN",
+   "opp": "CLE",
+   "opponentFactor": 1,
+   "projection": 11.45,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.06,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5233776412827206,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.92,
+   "eligibilityWeight": 0.458,
+   "propEligible": false,
+   "interval50": [
+    3.68,
+    16.02
+   ],
+   "interval80": [
+    -8.47,
+    35.17
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792726755833,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873013|4428557|rushYds|pool-share-v2": {
+   "prop": "401873013|4428557|rushYds",
+   "player": "Tyjae Spears",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "TEN",
+   "opp": "CLE",
+   "opponentFactor": 1,
+   "projection": 8.96,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.52,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.301525090396521,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.92,
+   "eligibilityWeight": 0.458,
+   "propEligible": false,
+   "interval50": [
+    1.2,
+    13.53
+   ],
+   "interval80": [
+    -10.96,
+    32.68
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792726755833,
+   "kickoff": 1792947600000,
+   "overrides": []
   }
  },
  "checks": [
@@ -134880,6 +135192,13 @@
    1792718681190,
    577,
    76,
+   2,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1792726755833,
+   578,
+   6,
    2,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
