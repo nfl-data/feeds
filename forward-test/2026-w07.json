@@ -154645,6 +154645,3223 @@
    "at": 1792873247635,
    "kickoff": 1792947600000,
    "overrides": []
+  },
+  "401873017|4035886|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873017|4035886|rushYds",
+   "player": "Khalil Herbert",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "ATL",
+   "opp": "SF",
+   "opponentFactor": 1,
+   "projection": 17.69,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.9,
+   "guardReason": "Brian Robinson Jr. is Out — he was seeing 8.3 car a game; 12 carries last game, 1.3 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Brian Robinson Jr. is Out — he was seeing 8.3 car a game",
+    "12 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7928471680820105,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.48,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    9.92,
+    22.26
+   ],
+   "interval80": [
+    -2.23,
+    41.41
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873017|4035886|rushYds|yardage-scale-v2": {
+   "prop": "401873017|4035886|rushYds",
+   "player": "Khalil Herbert",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "ATL",
+   "opp": "SF",
+   "opponentFactor": 1,
+   "projection": 17.69,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.3,
+   "guardReason": "Brian Robinson Jr. is Out — he was seeing 8.3 car a game; 12 carries last game, 1.3 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Brian Robinson Jr. is Out — he was seeing 8.3 car a game",
+    "12 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6177434544444829,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.48,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    2.65,
+    28.03
+   ],
+   "interval80": [
+    -4.78,
+    44.79
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873017|4035886|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873017|4035886|rushYds",
+   "player": "Khalil Herbert",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "ATL",
+   "opp": "SF",
+   "opponentFactor": 1,
+   "projection": 17.69,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.9,
+   "guardReason": "Brian Robinson Jr. is Out — he was seeing 8.3 car a game; 12 carries last game, 1.3 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Brian Robinson Jr. is Out — he was seeing 8.3 car a game",
+    "12 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7928471680820105,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.48,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    9.92,
+    22.26
+   ],
+   "interval80": [
+    -2.23,
+    41.41
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873017|4035886|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873017|4035886|rushYds",
+   "player": "Khalil Herbert",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "ATL",
+   "opp": "SF",
+   "opponentFactor": 1,
+   "projection": 17.69,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.89,
+   "guardReason": "Brian Robinson Jr. is Out — he was seeing 8.3 car a game; 12 carries last game, 1.3 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Brian Robinson Jr. is Out — he was seeing 8.3 car a game",
+    "12 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8142126661689911,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.48,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    10,
+    25.38
+   ],
+   "interval80": [
+    3.08,
+    32.3
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873017|4035886|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873017|4035886|rushYds",
+   "player": "Khalil Herbert",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "ATL",
+   "opp": "SF",
+   "opponentFactor": 1,
+   "projection": 17.69,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.82,
+   "guardReason": "Brian Robinson Jr. is Out — he was seeing 8.3 car a game; 12 carries last game, 1.3 a game before it",
+   "flags": [
+    "teammate",
+    "usage"
+   ],
+   "flagReasons": [
+    "Brian Robinson Jr. is Out — he was seeing 8.3 car a game",
+    "12 carries last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7928471680820105,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.48,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    9.92,
+    22.26
+   ],
+   "interval80": [
+    -2.23,
+    41.41
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873018|4239934|car|usage-efficiency-v1.4": {
+   "prop": "401873018|4239934|car",
+   "player": "AJ Dillon",
+   "pos": "RB",
+   "stat": "car",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "CAR",
+   "opp": "TB",
+   "opponentFactor": 0.96,
+   "projection": 3.72,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.1,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.45894947060166635,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.72,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873018|4239934|car|yardage-scale-v2": {
+   "prop": "401873018|4239934|car",
+   "player": "AJ Dillon",
+   "pos": "RB",
+   "stat": "car",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "CAR",
+   "opp": "TB",
+   "opponentFactor": 0.96,
+   "projection": 3.72,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.1,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.45894947060166635,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.72,
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873018|4239934|car|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873018|4239934|car",
+   "player": "AJ Dillon",
+   "pos": "RB",
+   "stat": "car",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "CAR",
+   "opp": "TB",
+   "opponentFactor": 0.96,
+   "projection": 3.72,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.42,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5435935946175776,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.72,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873018|4239934|car|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873018|4239934|car",
+   "player": "AJ Dillon",
+   "pos": "RB",
+   "stat": "car",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "CAR",
+   "opp": "TB",
+   "opponentFactor": 0.96,
+   "projection": 3.72,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.1,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.45894947060166635,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.72,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873018|4239934|car|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873018|4239934|car",
+   "player": "AJ Dillon",
+   "pos": "RB",
+   "stat": "car",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "CAR",
+   "opp": "TB",
+   "opponentFactor": 0.96,
+   "projection": 3.72,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.1,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.45894947060166635,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.72,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873018|4239934|car|pool-share-v2": {
+   "prop": "401873018|4239934|car",
+   "player": "AJ Dillon",
+   "pos": "RB",
+   "stat": "car",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "CAR",
+   "opp": "TB",
+   "opponentFactor": 0.96,
+   "projection": 4.35,
+   "typicalError": 1.9,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.11,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5422720083316666,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.35,
+   "beyondCalibration": false,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4035671|car|usage-efficiency-v1.4": {
+   "prop": "401873012|4035671|car",
+   "player": "Tyler Huntley",
+   "pos": "QB",
+   "stat": "car",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.06,
+   "projection": 5.33,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.23,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.41009555597804437,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.33,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4035671|car|yardage-scale-v2": {
+   "prop": "401873012|4035671|car",
+   "player": "Tyler Huntley",
+   "pos": "QB",
+   "stat": "car",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.06,
+   "projection": 5.33,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.23,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.41009555597804437,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.33,
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4035671|car|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873012|4035671|car",
+   "player": "Tyler Huntley",
+   "pos": "QB",
+   "stat": "car",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.06,
+   "projection": 5.33,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.41,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3426896581793767,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.33,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4035671|car|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873012|4035671|car",
+   "player": "Tyler Huntley",
+   "pos": "QB",
+   "stat": "car",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.06,
+   "projection": 5.33,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.23,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.41009555597804437,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.33,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4035671|car|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873012|4035671|car",
+   "player": "Tyler Huntley",
+   "pos": "QB",
+   "stat": "car",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.06,
+   "projection": 5.33,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.23,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.41009555597804437,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.33,
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4876132|recYds|usage-efficiency-v1.4": {
+   "prop": "401873012|4876132|recYds",
+   "player": "Josh Cuevas",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.12,
+   "projection": 20.39,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.82,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7849529199412681,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.36,
+   "eligibilityWeight": 0.181,
+   "propEligible": false,
+   "interval50": [
+    7.89,
+    31.35
+   ],
+   "interval80": [
+    -3.58,
+    51.63
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4876132|recYds|yardage-scale-v2": {
+   "prop": "401873012|4876132|recYds",
+   "player": "Josh Cuevas",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.12,
+   "projection": 20.39,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.81,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7908891275555721,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.36,
+   "eligibilityWeight": 0.181,
+   "propEligible": false,
+   "interval50": [
+    8.06,
+    31.18
+   ],
+   "interval80": [
+    -2.43,
+    49.94
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4876132|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873012|4876132|recYds",
+   "player": "Josh Cuevas",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.12,
+   "projection": 20.39,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.82,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7849529199412681,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.36,
+   "eligibilityWeight": 0.181,
+   "propEligible": false,
+   "interval50": [
+    7.89,
+    31.35
+   ],
+   "interval80": [
+    -3.58,
+    51.63
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4876132|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873012|4876132|recYds",
+   "player": "Josh Cuevas",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.12,
+   "projection": 20.39,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.88,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8094287084887793,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.36,
+   "eligibilityWeight": 0.181,
+   "propEligible": false,
+   "interval50": [
+    8.92,
+    31.85
+   ],
+   "interval80": [
+    -1.4,
+    42.18
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4876132|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873012|4876132|recYds",
+   "player": "Josh Cuevas",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.12,
+   "projection": 20.39,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.79,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7849529199412681,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.36,
+   "eligibilityWeight": 0.181,
+   "propEligible": false,
+   "interval50": [
+    7.89,
+    31.35
+   ],
+   "interval80": [
+    -3.58,
+    51.63
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4876132|rec|usage-efficiency-v1.4": {
+   "prop": "401873012|4876132|rec",
+   "player": "Josh Cuevas",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.07,
+   "projection": 2.18,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.08,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8591319094453681,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4876132|rec|yardage-scale-v2": {
+   "prop": "401873012|4876132|rec",
+   "player": "Josh Cuevas",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.07,
+   "projection": 2.18,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.08,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8591319094453681,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4876132|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873012|4876132|rec",
+   "player": "Josh Cuevas",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.07,
+   "projection": 2.18,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.99,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8701074320384141,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4876132|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873012|4876132|rec",
+   "player": "Josh Cuevas",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.07,
+   "projection": 2.18,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.08,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8591319094453681,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873012|4876132|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873012|4876132|rec",
+   "player": "Josh Cuevas",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "BAL",
+   "opp": "CIN",
+   "opponentFactor": 1.07,
+   "projection": 2.18,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.08,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8591319094453681,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792947600000,
+   "overrides": []
+  },
+  "401873022|4035693|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873022|4035693|rushYds",
+   "player": "Velus Jones Jr.",
+   "pos": "WR",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "SEA",
+   "opp": "KC",
+   "opponentFactor": 1.05,
+   "projection": 10.67,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.5,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5398451617544795,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.26,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    2.91,
+    15.24
+   ],
+   "interval80": [
+    -9.24,
+    34.4
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792974000000,
+   "overrides": []
+  },
+  "401873022|4035693|rushYds|yardage-scale-v2": {
+   "prop": "401873022|4035693|rushYds",
+   "player": "Velus Jones Jr.",
+   "pos": "WR",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "SEA",
+   "opp": "KC",
+   "opponentFactor": 1.05,
+   "projection": 10.67,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.5,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5398451617544795,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.26,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    2.91,
+    15.24
+   ],
+   "interval80": [
+    -9.24,
+    34.4
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792974000000,
+   "overrides": []
+  },
+  "401873022|4035693|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873022|4035693|rushYds",
+   "player": "Velus Jones Jr.",
+   "pos": "WR",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "SEA",
+   "opp": "KC",
+   "opponentFactor": 1.05,
+   "projection": 10.67,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.5,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5398451617544795,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.26,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    2.91,
+    15.24
+   ],
+   "interval80": [
+    -9.24,
+    34.4
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792974000000,
+   "overrides": []
+  },
+  "401873022|4035693|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873022|4035693|rushYds",
+   "player": "Velus Jones Jr.",
+   "pos": "WR",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "SEA",
+   "opp": "KC",
+   "opponentFactor": 1.05,
+   "projection": 10.67,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.1,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5409325463029087,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.26,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    2.98,
+    18.36
+   ],
+   "interval80": [
+    -3.94,
+    25.28
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792974000000,
+   "overrides": []
+  },
+  "401873022|4035693|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873022|4035693|rushYds",
+   "player": "Velus Jones Jr.",
+   "pos": "WR",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "SEA",
+   "opp": "KC",
+   "opponentFactor": 1.05,
+   "projection": 10.67,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.1,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5398451617544795,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.26,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    2.91,
+    15.24
+   ],
+   "interval80": [
+    -9.24,
+    34.4
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1792974000000,
+   "overrides": []
+  },
+  "401873009|3929630|recYds|usage-efficiency-v1.4": {
+   "prop": "401873009|3929630|recYds",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.05,
+   "projection": 10.96,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.34,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3650907650749453,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.82,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -1.53,
+    21.93
+   ],
+   "interval80": [
+    -13.01,
+    42.21
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|3929630|recYds|yardage-scale-v2": {
+   "prop": "401873009|3929630|recYds",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.05,
+   "projection": 10.96,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.34,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3650907650749453,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.82,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -1.53,
+    21.93
+   ],
+   "interval80": [
+    -13.01,
+    42.21
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|3929630|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873009|3929630|recYds",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.05,
+   "projection": 10.96,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.34,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3650907650749453,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.82,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -1.53,
+    21.93
+   ],
+   "interval80": [
+    -13.01,
+    42.21
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|3929630|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873009|3929630|recYds",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.05,
+   "projection": 10.96,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.15,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.44069770454940693,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.82,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -0.5,
+    22.43
+   ],
+   "interval80": [
+    -10.82,
+    32.75
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|3929630|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873009|3929630|recYds",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.05,
+   "projection": 10.96,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.34,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3650907650749453,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.82,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -1.53,
+    21.93
+   ],
+   "interval80": [
+    -13.01,
+    42.21
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4715355|recYds|usage-efficiency-v1.4": {
+   "prop": "401873009|4715355|recYds",
+   "player": "Darius Cooper",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 39.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 21.51,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.9,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.18418120277465522,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.68,
+   "eligibilityWeight": 0.34,
+   "propEligible": false,
+   "interval50": [
+    9.02,
+    32.48
+   ],
+   "interval80": [
+    -2.46,
+    52.76
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4715355|recYds|yardage-scale-v2": {
+   "prop": "401873009|4715355|recYds",
+   "player": "Darius Cooper",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 39.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 21.51,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.92,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.1782355520774488,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.68,
+   "eligibilityWeight": 0.34,
+   "propEligible": false,
+   "interval50": [
+    8.59,
+    32.8
+   ],
+   "interval80": [
+    -1.43,
+    51.01
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4715355|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873009|4715355|recYds",
+   "player": "Darius Cooper",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 39.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 21.51,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.9,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.18418120277465522,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.68,
+   "eligibilityWeight": 0.34,
+   "propEligible": false,
+   "interval50": [
+    9.02,
+    32.48
+   ],
+   "interval80": [
+    -2.46,
+    52.76
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4715355|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873009|4715355|recYds",
+   "player": "Darius Cooper",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 39.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 21.51,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.06,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.14503095701418156,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.68,
+   "eligibilityWeight": 0.34,
+   "propEligible": false,
+   "interval50": [
+    10.05,
+    32.98
+   ],
+   "interval80": [
+    -0.27,
+    43.3
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4715355|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873009|4715355|recYds",
+   "player": "Darius Cooper",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 39.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 21.51,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.9,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.18418120277465522,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.68,
+   "eligibilityWeight": 0.34,
+   "propEligible": false,
+   "interval50": [
+    9.02,
+    32.48
+   ],
+   "interval80": [
+    -2.46,
+    52.76
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4870795|recYds|usage-efficiency-v1.4": {
+   "prop": "401873009|4870795|recYds",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 38.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 32.6,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.48,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3156402670542766,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.15,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    20.1,
+    43.56
+   ],
+   "interval80": [
+    8.63,
+    63.84
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4870795|recYds|yardage-scale-v2": {
+   "prop": "401873009|4870795|recYds",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 38.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 32.6,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.29,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3865816916476017,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.15,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    10.82,
+    51.41
+   ],
+   "interval80": [
+    -0.56,
+    73.85
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4870795|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873009|4870795|recYds",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 38.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 32.6,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.48,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3156402670542766,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.15,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    20.1,
+    43.56
+   ],
+   "interval80": [
+    8.63,
+    63.84
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4870795|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873009|4870795|recYds",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 38.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 32.6,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.35,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.36417895525355837,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.15,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    21.13,
+    44.06
+   ],
+   "interval80": [
+    10.81,
+    54.38
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4870795|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873009|4870795|recYds",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 38.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 32.6,
+   "typicalError": 17,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.48,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3156402670542766,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.15,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    20.1,
+    43.56
+   ],
+   "interval80": [
+    8.63,
+    63.84
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|3929630|rec|usage-efficiency-v1.4": {
+   "prop": "401873009|3929630|rec",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.01,
+   "projection": 1.09,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.24,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.10753080396190617,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|3929630|rec|yardage-scale-v2": {
+   "prop": "401873009|3929630|rec",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.01,
+   "projection": 1.09,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.24,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.10753080396190617,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|3929630|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873009|3929630|rec",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.01,
+   "projection": 1.09,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.87,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.1912913739720581,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|3929630|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873009|3929630|rec",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.01,
+   "projection": 1.09,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.24,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.10753080396190617,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|3929630|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873009|3929630|rec",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.01,
+   "projection": 1.09,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.24,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.10753080396190617,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4715355|rec|usage-efficiency-v1.4": {
+   "prop": "401873009|4715355|rec",
+   "player": "Darius Cooper",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.49,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.42,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.0772285420552904,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4715355|rec|yardage-scale-v2": {
+   "prop": "401873009|4715355|rec",
+   "player": "Darius Cooper",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.49,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.42,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.0772285420552904,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4715355|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873009|4715355|rec",
+   "player": "Darius Cooper",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.49,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.14,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.1278816442476689,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4715355|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873009|4715355|rec",
+   "player": "Darius Cooper",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.49,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.42,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.0772285420552904,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4715355|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873009|4715355|rec",
+   "player": "Darius Cooper",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.49,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.42,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.0772285420552904,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4870795|rec|usage-efficiency-v1.4": {
+   "prop": "401873009|4870795|rec",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 3.25,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.69,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.24473286530494176,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4870795|rec|yardage-scale-v2": {
+   "prop": "401873009|4870795|rec",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 3.25,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.69,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.24473286530494176,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4870795|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873009|4870795|rec",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 3.25,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.81,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.20885049430710012,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4870795|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873009|4870795|rec",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 3.25,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.69,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.24473286530494176,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4870795|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873009|4870795|rec",
+   "player": "Makai Lemon",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 3.25,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.69,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.24473286530494176,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|3929630|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401873009|3929630|rushRecYds",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 87.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1,
+   "projection": 62.28,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.33,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|3929630|rushRecYds|yardage-scale-v2": {
+   "prop": "401873009|3929630|rushRecYds",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 87.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1,
+   "projection": 62.28,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.33,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|3929630|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873009|3929630|rushRecYds",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 87.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1,
+   "projection": 62.28,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.33,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|3929630|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873009|3929630|rushRecYds",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 87.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1,
+   "projection": 62.28,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.33,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|3929630|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873009|3929630|rushRecYds",
+   "player": "Saquon Barkley",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 87.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1,
+   "projection": 62.28,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.33,
+   "guardReason": "2 carries last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1792898999085,
+   "kickoff": 1793060100000,
+   "overrides": []
   }
  },
  "checks": [
@@ -154848,6 +158065,13 @@
    1792873247635,
    671,
    85,
+   13,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1792898999085,
+   684,
+   66,
    13,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
