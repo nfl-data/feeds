@@ -161958,6 +161958,654 @@
    "at": 1792989625301,
    "kickoff": 1793060100000,
    "overrides": []
+  },
+  "401873009|4360238|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873009|4360238|rushYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.01,
+   "projection": 35.81,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.22,
+   "guardReason": "12 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "12 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9050539808513078,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 10.12,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    28.04,
+    40.38
+   ],
+   "interval80": [
+    15.89,
+    59.53
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1793017355120,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4360238|rushYds|yardage-scale-v2": {
+   "prop": "401873009|4360238|rushYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.01,
+   "projection": 35.81,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.52,
+   "guardReason": "12 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "12 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6985984711376488,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 10.12,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    13.62,
+    51.07
+   ],
+   "interval80": [
+    2.66,
+    75.81
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793017355120,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4360238|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873009|4360238|rushYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.01,
+   "projection": 35.81,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.22,
+   "guardReason": "12 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "12 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9050539808513078,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 10.12,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    28.04,
+    40.38
+   ],
+   "interval80": [
+    15.89,
+    59.53
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793017355120,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4360238|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873009|4360238|rushYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.01,
+   "projection": 35.81,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.78,
+   "guardReason": "12 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "12 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9625737965922667,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 10.12,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    28.12,
+    43.5
+   ],
+   "interval80": [
+    21.2,
+    50.42
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793017355120,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4360238|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873009|4360238|rushYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.01,
+   "projection": 35.81,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.31,
+   "guardReason": "12 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "12 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9050539808513078,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 10.12,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    28.04,
+    40.38
+   ],
+   "interval80": [
+    15.89,
+    59.53
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793017355120,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4360238|rushYds|pool-share-v2": {
+   "prop": "401873009|4360238|rushYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.01,
+   "projection": 35.58,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.21,
+   "guardReason": "12 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "12 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9021518384873042,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 10.12,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    27.82,
+    40.15
+   ],
+   "interval80": [
+    15.67,
+    59.31
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793017355120,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4429676|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873009|4429676|rushYds",
+   "player": "Tyler Goodson",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "DAL",
+   "opp": "PHI",
+   "opponentFactor": 0.99,
+   "projection": 10.86,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.51,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5574940925081628,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.81,
+   "eligibilityWeight": 0.403,
+   "propEligible": false,
+   "interval50": [
+    3.1,
+    15.43
+   ],
+   "interval80": [
+    -9.05,
+    34.59
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1793017355120,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4429676|rushYds|yardage-scale-v2": {
+   "prop": "401873009|4429676|rushYds",
+   "player": "Tyler Goodson",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "DAL",
+   "opp": "PHI",
+   "opponentFactor": 0.99,
+   "projection": 10.86,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.07,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4737533516165062,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.81,
+   "eligibilityWeight": 0.403,
+   "propEligible": false,
+   "interval50": [
+    1.27,
+    17
+   ],
+   "interval80": [
+    -8.43,
+    33.96
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793017355120,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4429676|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873009|4429676|rushYds",
+   "player": "Tyler Goodson",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "DAL",
+   "opp": "PHI",
+   "opponentFactor": 0.99,
+   "projection": 10.86,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.51,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5574940925081628,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.81,
+   "eligibilityWeight": 0.403,
+   "propEligible": false,
+   "interval50": [
+    3.1,
+    15.43
+   ],
+   "interval80": [
+    -9.05,
+    34.59
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793017355120,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4429676|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873009|4429676|rushYds",
+   "player": "Tyler Goodson",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "DAL",
+   "opp": "PHI",
+   "opponentFactor": 0.99,
+   "projection": 10.86,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.12,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5475580832298794,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.81,
+   "eligibilityWeight": 0.403,
+   "propEligible": false,
+   "interval50": [
+    3.17,
+    18.55
+   ],
+   "interval80": [
+    -3.75,
+    25.47
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793017355120,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4429676|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873009|4429676|rushYds",
+   "player": "Tyler Goodson",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "DAL",
+   "opp": "PHI",
+   "opponentFactor": 0.99,
+   "projection": 10.86,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.14,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5574940925081628,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.81,
+   "eligibilityWeight": 0.403,
+   "propEligible": false,
+   "interval50": [
+    3.1,
+    15.43
+   ],
+   "interval80": [
+    -9.05,
+    34.59
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793017355120,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4429676|rushYds|pool-share-v2": {
+   "prop": "401873009|4429676|rushYds",
+   "player": "Tyler Goodson",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "DAL",
+   "opp": "PHI",
+   "opponentFactor": 0.99,
+   "projection": 10.06,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.47,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.47533068237716913,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.81,
+   "eligibilityWeight": 0.403,
+   "propEligible": false,
+   "interval50": [
+    2.3,
+    14.63
+   ],
+   "interval80": [
+    -9.86,
+    33.78
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793017355120,
+   "kickoff": 1793060100000,
+   "overrides": []
   }
  },
  "checks": [
@@ -162253,6 +162901,13 @@
    701,
    10,
    0,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1793017355120,
+   705,
+   12,
+   2,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
  ],
