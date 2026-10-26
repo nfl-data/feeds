@@ -162606,6 +162606,791 @@
    "at": 1793017355120,
    "kickoff": 1793060100000,
    "overrides": []
+  },
+  "401873009|4360238|recYds|usage-efficiency-v1.4": {
+   "prop": "401873009|4360238|recYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.05,
+   "projection": 25.73,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.13,
+   "guardReason": "12 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "12 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9092614272890538,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.15,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    13.23,
+    36.69
+   ],
+   "interval80": [
+    1.76,
+    56.98
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4360238|recYds|yardage-scale-v2": {
+   "prop": "401873009|4360238|recYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.05,
+   "projection": 25.73,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.41,
+   "guardReason": "12 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "12 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9212369040612973,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.15,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    10.35,
+    39.02
+   ],
+   "interval80": [
+    2.32,
+    54.87
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4360238|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873009|4360238|recYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.05,
+   "projection": 25.73,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.13,
+   "guardReason": "12 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "12 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9092614272890538,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.15,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    13.23,
+    36.69
+   ],
+   "interval80": [
+    1.76,
+    56.98
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4360238|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873009|4360238|recYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.05,
+   "projection": 25.73,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.48,
+   "guardReason": "12 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "12 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9311076310295177,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.15,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    14.26,
+    37.2
+   ],
+   "interval80": [
+    3.94,
+    47.52
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4360238|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873009|4360238|recYds",
+   "player": "Dameon Pierce",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.05,
+   "projection": 25.73,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.34,
+   "guardReason": "12 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "12 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9092614272890538,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.15,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    13.23,
+    36.69
+   ],
+   "interval80": [
+    1.76,
+    56.98
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4372414|recYds|usage-efficiency-v1.4": {
+   "prop": "401873009|4372414|recYds",
+   "player": "Elijah Moore",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 14.71,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.45,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5777604738140376,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.18,
+   "eligibilityWeight": 0.091,
+   "propEligible": false,
+   "interval50": [
+    2.21,
+    25.67
+   ],
+   "interval80": [
+    -9.26,
+    45.96
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4372414|recYds|yardage-scale-v2": {
+   "prop": "401873009|4372414|recYds",
+   "player": "Elijah Moore",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 14.71,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.2,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5783534323317567,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.18,
+   "eligibilityWeight": 0.091,
+   "propEligible": false,
+   "interval50": [
+    2.26,
+    25.62
+   ],
+   "interval80": [
+    -8.74,
+    45.18
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4372414|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873009|4372414|recYds",
+   "player": "Elijah Moore",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 14.71,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.45,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5777604738140376,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.18,
+   "eligibilityWeight": 0.091,
+   "propEligible": false,
+   "interval50": [
+    2.21,
+    25.67
+   ],
+   "interval80": [
+    -9.26,
+    45.96
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4372414|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873009|4372414|recYds",
+   "player": "Elijah Moore",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 14.71,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.31,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.620356256013181,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.18,
+   "eligibilityWeight": 0.091,
+   "propEligible": false,
+   "interval50": [
+    3.24,
+    26.18
+   ],
+   "interval80": [
+    -7.08,
+    36.5
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4372414|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873009|4372414|recYds",
+   "player": "Elijah Moore",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 14.71,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.2,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5777604738140376,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.18,
+   "eligibilityWeight": 0.091,
+   "propEligible": false,
+   "interval50": [
+    2.21,
+    25.67
+   ],
+   "interval80": [
+    -9.26,
+    45.96
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4372414|rec|usage-efficiency-v1.4": {
+   "prop": "401873009|4372414|rec",
+   "player": "Elijah Moore",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.12,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.51,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.30467284747383006,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4372414|rec|yardage-scale-v2": {
+   "prop": "401873009|4372414|rec",
+   "player": "Elijah Moore",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.12,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.51,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.30467284747383006,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4372414|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873009|4372414|rec",
+   "player": "Elijah Moore",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.12,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.37,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.35716742344413843,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4372414|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873009|4372414|rec",
+   "player": "Elijah Moore",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.12,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.51,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.30467284747383006,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
+  },
+  "401873009|4372414|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873009|4372414|rec",
+   "player": "Elijah Moore",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 7
+   },
+   "team": "PHI",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.12,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.51,
+   "guardReason": "DeVonta Smith is Out — he was seeing 11.0 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "DeVonta Smith is Out — he was seeing 11.0 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.30467284747383006,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "fb758af",
+   "at": 1793053321473,
+   "kickoff": 1793060100000,
+   "overrides": []
   }
  },
  "checks": [
@@ -162908,6 +163693,13 @@
    705,
    12,
    2,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1793053321473,
+   709,
+   15,
+   3,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
  ],
