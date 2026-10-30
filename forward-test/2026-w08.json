@@ -130757,6 +130757,4981 @@
    "at": 1793335234576,
    "kickoff": 1793668500000,
    "overrides": []
+  },
+  "401873031|3116389|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401873031|3116389|rushRecYds",
+   "player": "Samaje Perine",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 31.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "CIN",
+   "opp": "TEN",
+   "opponentFactor": 1,
+   "projection": 39.52,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.42,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873031|3116389|rushRecYds|yardage-scale-v2": {
+   "prop": "401873031|3116389|rushRecYds",
+   "player": "Samaje Perine",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 31.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "CIN",
+   "opp": "TEN",
+   "opponentFactor": 1,
+   "projection": 39.52,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.42,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873031|3116389|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873031|3116389|rushRecYds",
+   "player": "Samaje Perine",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 31.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "CIN",
+   "opp": "TEN",
+   "opponentFactor": 1,
+   "projection": 39.52,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.42,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873031|3116389|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873031|3116389|rushRecYds",
+   "player": "Samaje Perine",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 31.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "CIN",
+   "opp": "TEN",
+   "opponentFactor": 1,
+   "projection": 39.52,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.42,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873031|3116389|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873031|3116389|rushRecYds",
+   "player": "Samaje Perine",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 31.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "CIN",
+   "opp": "TEN",
+   "opponentFactor": 1,
+   "projection": 39.52,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.42,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873024|4426844|recYds|usage-efficiency-v1.4": {
+   "prop": "401873024|4426844|recYds",
+   "player": "Elijah Higgins",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "ARI",
+   "opp": "DAL",
+   "opponentFactor": 0.97,
+   "projection": 19.61,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.29,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4574138202025544,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.58,
+   "eligibilityWeight": 0.289,
+   "propEligible": false,
+   "interval50": [
+    7.12,
+    30.58
+   ],
+   "interval80": [
+    -4.36,
+    50.86
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873024|4426844|recYds|yardage-scale-v2": {
+   "prop": "401873024|4426844|recYds",
+   "player": "Elijah Higgins",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "ARI",
+   "opp": "DAL",
+   "opponentFactor": 0.97,
+   "projection": 19.61,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.09,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4633354344863353,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.58,
+   "eligibilityWeight": 0.289,
+   "propEligible": false,
+   "interval50": [
+    7.21,
+    30.45
+   ],
+   "interval80": [
+    -2.79,
+    48.5
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873024|4426844|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873024|4426844|recYds",
+   "player": "Elijah Higgins",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "ARI",
+   "opp": "DAL",
+   "opponentFactor": 0.97,
+   "projection": 19.61,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.29,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4574138202025544,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.58,
+   "eligibilityWeight": 0.289,
+   "propEligible": false,
+   "interval50": [
+    7.12,
+    30.58
+   ],
+   "interval80": [
+    -4.36,
+    50.86
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873024|4426844|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873024|4426844|recYds",
+   "player": "Elijah Higgins",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "ARI",
+   "opp": "DAL",
+   "opponentFactor": 0.97,
+   "projection": 19.61,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.07,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5260366404207968,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.58,
+   "eligibilityWeight": 0.289,
+   "propEligible": false,
+   "interval50": [
+    8.14,
+    31.08
+   ],
+   "interval80": [
+    -2.18,
+    41.4
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873024|4426844|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873024|4426844|recYds",
+   "player": "Elijah Higgins",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "ARI",
+   "opp": "DAL",
+   "opponentFactor": 0.97,
+   "projection": 19.61,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4574138202025544,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.58,
+   "eligibilityWeight": 0.289,
+   "propEligible": false,
+   "interval50": [
+    7.12,
+    30.58
+   ],
+   "interval80": [
+    -4.36,
+    50.86
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873024|4426844|rec|usage-efficiency-v1.4": {
+   "prop": "401873024|4426844|rec",
+   "player": "Elijah Higgins",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "ARI",
+   "opp": "DAL",
+   "opponentFactor": 0.97,
+   "projection": 2.45,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.18,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4286896675141558,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873024|4426844|rec|yardage-scale-v2": {
+   "prop": "401873024|4426844|rec",
+   "player": "Elijah Higgins",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "ARI",
+   "opp": "DAL",
+   "opponentFactor": 0.97,
+   "projection": 2.45,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.18,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4286896675141558,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873024|4426844|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873024|4426844|rec",
+   "player": "Elijah Higgins",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "ARI",
+   "opp": "DAL",
+   "opponentFactor": 0.97,
+   "projection": 2.45,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.19,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4235219668357285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873024|4426844|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873024|4426844|rec",
+   "player": "Elijah Higgins",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "ARI",
+   "opp": "DAL",
+   "opponentFactor": 0.97,
+   "projection": 2.45,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.18,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4286896675141558,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873024|4426844|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873024|4426844|rec",
+   "player": "Elijah Higgins",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "ARI",
+   "opp": "DAL",
+   "opponentFactor": 0.97,
+   "projection": 2.45,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.18,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4286896675141558,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873029|4427366|rushYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 57.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1.02,
+   "projection": 62.86,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.72,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.700184068790454,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 16.07,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    55.09,
+    67.43
+   ],
+   "interval80": [
+    42.94,
+    86.58
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rushYds|yardage-scale-v2": {
+   "prop": "401873029|4427366|rushYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 57.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1.02,
+   "projection": 62.86,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.08,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4685202286213943,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 16.07,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    34.77,
+    82.18
+   ],
+   "interval80": [
+    20.9,
+    113.48
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873029|4427366|rushYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 57.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1.02,
+   "projection": 62.86,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.72,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.700184068790454,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 16.07,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    55.09,
+    67.43
+   ],
+   "interval80": [
+    42.94,
+    86.58
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873029|4427366|rushYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 57.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1.02,
+   "projection": 62.86,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.47,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6808005963504329,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 16.07,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    55.17,
+    70.55
+   ],
+   "interval80": [
+    48.25,
+    77.47
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873029|4427366|rushYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 57.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1.02,
+   "projection": 62.86,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.52,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.700184068790454,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 16.07,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    55.09,
+    67.43
+   ],
+   "interval80": [
+    42.94,
+    86.58
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|recYds|usage-efficiency-v1.4": {
+   "prop": "401873029|4427366|recYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 19.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 0.98,
+   "projection": 24.08,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.43,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5573230485671983,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.18,
+   "eligibilityWeight": 0.588,
+   "propEligible": false,
+   "interval50": [
+    11.59,
+    35.05
+   ],
+   "interval80": [
+    0.11,
+    55.33
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|recYds|yardage-scale-v2": {
+   "prop": "401873029|4427366|recYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 19.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 0.98,
+   "projection": 24.08,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.14,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5573224046466032,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.18,
+   "eligibilityWeight": 0.588,
+   "propEligible": false,
+   "interval50": [
+    11.35,
+    35.16
+   ],
+   "interval80": [
+    2.66,
+    51.33
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873029|4427366|recYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 19.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 0.98,
+   "projection": 24.08,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.43,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5573230485671983,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.18,
+   "eligibilityWeight": 0.588,
+   "propEligible": false,
+   "interval50": [
+    11.59,
+    35.05
+   ],
+   "interval80": [
+    0.11,
+    55.33
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873029|4427366|recYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 19.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 0.98,
+   "projection": 24.08,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.27,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6062564417009861,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.18,
+   "eligibilityWeight": 0.588,
+   "propEligible": false,
+   "interval50": [
+    12.62,
+    35.55
+   ],
+   "interval80": [
+    2.3,
+    45.87
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873029|4427366|recYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 19.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 0.98,
+   "projection": 24.08,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.14,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5573230485671983,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.18,
+   "eligibilityWeight": 0.588,
+   "propEligible": false,
+   "interval50": [
+    11.59,
+    35.05
+   ],
+   "interval80": [
+    0.11,
+    55.33
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rec|usage-efficiency-v1.4": {
+   "prop": "401873029|4427366|rec",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 3,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.12,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5472406781580204,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rec|yardage-scale-v2": {
+   "prop": "401873029|4427366|rec",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 3,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.12,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5472406781580204,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873029|4427366|rec",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 3,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.43,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6132061658158345,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873029|4427366|rec",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 3,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.12,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5472406781580204,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873029|4427366|rec",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 3,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.12,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5472406781580204,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401873029|4427366|rushRecYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 81.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 98.58,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.9,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rushRecYds|yardage-scale-v2": {
+   "prop": "401873029|4427366|rushRecYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 81.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 98.58,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.9,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873029|4427366|rushRecYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 81.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 98.58,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.9,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873029|4427366|rushRecYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 81.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 98.58,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.9,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873029|4427366|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873029|4427366|rushRecYds",
+   "player": "Breece Hall",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 81.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NYJ",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 98.58,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.9,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873025|4371733|rushYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 14.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 0.99,
+   "projection": 25.7,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.93,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8080693195909304,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.77,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    17.93,
+    30.27
+   ],
+   "interval80": [
+    5.78,
+    49.42
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rushYds|yardage-scale-v2": {
+   "prop": "401873025|4371733|rushYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 14.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 0.99,
+   "projection": 25.7,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.29,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.613866685141406,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.77,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    8.81,
+    37.31
+   ],
+   "interval80": [
+    0.47,
+    56.14
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873025|4371733|rushYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 14.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 0.99,
+   "projection": 25.7,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.93,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8080693195909304,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.77,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    17.93,
+    30.27
+   ],
+   "interval80": [
+    5.78,
+    49.42
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873025|4371733|rushYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 14.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 0.99,
+   "projection": 25.7,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.98,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8370220313498393,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.77,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    18.01,
+    33.39
+   ],
+   "interval80": [
+    11.09,
+    40.31
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873025|4371733|rushYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 14.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 0.99,
+   "projection": 25.7,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.87,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8080693195909304,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.77,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    17.93,
+    30.27
+   ],
+   "interval80": [
+    5.78,
+    49.42
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rushYds|pool-share-v2": {
+   "prop": "401873025|4371733|rushYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 14.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 0.99,
+   "projection": 22.55,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.84,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7552428213266589,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.77,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    14.79,
+    27.12
+   ],
+   "interval80": [
+    2.63,
+    46.27
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rec|usage-efficiency-v1.4": {
+   "prop": "401873025|4371733|rec",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 1.04,
+   "projection": 1.89,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.1,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5408826167060289,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rec|yardage-scale-v2": {
+   "prop": "401873025|4371733|rec",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 1.04,
+   "projection": 1.89,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.1,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5408826167060289,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873025|4371733|rec",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 1.04,
+   "projection": 1.89,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.37,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5773769279731307,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873025|4371733|rec",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 1.04,
+   "projection": 1.89,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.1,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5408826167060289,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873025|4371733|rec",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 1.04,
+   "projection": 1.89,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.1,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5408826167060289,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401873025|4371733|rushRecYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 30.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 1,
+   "projection": 44.96,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.76,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rushRecYds|yardage-scale-v2": {
+   "prop": "401873025|4371733|rushRecYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 30.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 1,
+   "projection": 44.96,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.76,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873025|4371733|rushRecYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 30.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 1,
+   "projection": 44.96,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.76,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873025|4371733|rushRecYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 30.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 1,
+   "projection": 44.96,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.76,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873025|4371733|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873025|4371733|rushRecYds",
+   "player": "Kenny Gainwell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 30.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "TB",
+   "opp": "ATL",
+   "opponentFactor": 1,
+   "projection": 44.96,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.76,
+   "guardReason": "14 carries last game, 3.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "14 carries last game, 3.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873028|4686468|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873028|4686468|rushYds",
+   "player": "Seth McGowan",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 20.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "IND",
+   "opp": "JAX",
+   "opponentFactor": 0.96,
+   "projection": 23,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.57,
+   "guardReason": "11 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6178875770652065,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.63,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.24,
+    27.58
+   ],
+   "interval80": [
+    3.09,
+    46.73
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873028|4686468|rushYds|yardage-scale-v2": {
+   "prop": "401873028|4686468|rushYds",
+   "player": "Seth McGowan",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 20.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "IND",
+   "opp": "JAX",
+   "opponentFactor": 0.96,
+   "projection": 23,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.1,
+   "guardReason": "11 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4589912425561794,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.63,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    6.31,
+    34.49
+   ],
+   "interval80": [
+    -1.94,
+    53.11
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873028|4686468|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873028|4686468|rushYds",
+   "player": "Seth McGowan",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 20.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "IND",
+   "opp": "JAX",
+   "opponentFactor": 0.96,
+   "projection": 23,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.57,
+   "guardReason": "11 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6178875770652065,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.63,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.24,
+    27.58
+   ],
+   "interval80": [
+    3.09,
+    46.73
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873028|4686468|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873028|4686468|rushYds",
+   "player": "Seth McGowan",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 20.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "IND",
+   "opp": "JAX",
+   "opponentFactor": 0.96,
+   "projection": 23,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.22,
+   "guardReason": "11 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5869549359073374,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.63,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.32,
+    30.69
+   ],
+   "interval80": [
+    8.39,
+    37.62
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873028|4686468|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873028|4686468|rushYds",
+   "player": "Seth McGowan",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 20.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "IND",
+   "opp": "JAX",
+   "opponentFactor": 0.96,
+   "projection": 23,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.3,
+   "guardReason": "11 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6178875770652065,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.63,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.24,
+    27.58
+   ],
+   "interval80": [
+    3.09,
+    46.73
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873028|4686468|rushYds|pool-share-v2": {
+   "prop": "401873028|4686468|rushYds",
+   "player": "Seth McGowan",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 20.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "IND",
+   "opp": "JAX",
+   "opponentFactor": 0.96,
+   "projection": 23,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.57,
+   "guardReason": "11 carries last game, 5.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 5.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6177523537071319,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.63,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.24,
+    27.57
+   ],
+   "interval80": [
+    3.09,
+    46.72
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793556000000,
+   "overrides": []
+  },
+  "401873032|4596334|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873032|4596334|rushYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 23.51,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.84,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7545489647634335,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.75,
+    28.08
+   ],
+   "interval80": [
+    3.6,
+    47.24
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rushYds|yardage-scale-v2": {
+   "prop": "401873032|4596334|rushYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 23.51,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.14,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5571902896667549,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    6.85,
+    34.98
+   ],
+   "interval80": [
+    -1.39,
+    53.56
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873032|4596334|rushYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 23.51,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.84,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7545489647634335,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.75,
+    28.08
+   ],
+   "interval80": [
+    3.6,
+    47.24
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873032|4596334|rushYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 23.51,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.7,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7589207873920307,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.82,
+    31.2
+   ],
+   "interval80": [
+    8.9,
+    38.12
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873032|4596334|rushYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 23.51,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.69,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7545489647634335,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.75,
+    28.08
+   ],
+   "interval80": [
+    3.6,
+    47.24
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rushYds|pool-share-v2": {
+   "prop": "401873032|4596334|rushYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 20.7,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.71,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6969351298459502,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    12.93,
+    25.27
+   ],
+   "interval80": [
+    0.78,
+    44.42
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4595342|recYds|usage-efficiency-v1.4": {
+   "prop": "401873032|4595342|recYds",
+   "player": "Oronde Gadsden",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 24.74,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.61,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6789951212843384,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.77,
+   "eligibilityWeight": 0.884,
+   "propEligible": false,
+   "interval50": [
+    12.25,
+    35.71
+   ],
+   "interval80": [
+    0.77,
+    55.99
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4595342|recYds|yardage-scale-v2": {
+   "prop": "401873032|4595342|recYds",
+   "player": "Oronde Gadsden",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 24.74,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.34,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6320115580086121,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.77,
+   "eligibilityWeight": 0.884,
+   "propEligible": false,
+   "interval50": [
+    9.55,
+    37.89
+   ],
+   "interval80": [
+    1.04,
+    54.4
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4595342|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873032|4595342|recYds",
+   "player": "Oronde Gadsden",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 24.74,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.61,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6789951212843384,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.77,
+   "eligibilityWeight": 0.884,
+   "propEligible": false,
+   "interval50": [
+    12.25,
+    35.71
+   ],
+   "interval80": [
+    0.77,
+    55.99
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4595342|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873032|4595342|recYds",
+   "player": "Oronde Gadsden",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 24.74,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.54,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7067050974006808,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.77,
+   "eligibilityWeight": 0.884,
+   "propEligible": false,
+   "interval50": [
+    13.28,
+    36.21
+   ],
+   "interval80": [
+    2.96,
+    46.53
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4595342|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873032|4595342|recYds",
+   "player": "Oronde Gadsden",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 24.74,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.46,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6789951212843384,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.77,
+   "eligibilityWeight": 0.884,
+   "propEligible": false,
+   "interval50": [
+    12.25,
+    35.71
+   ],
+   "interval80": [
+    0.77,
+    55.99
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|recYds|usage-efficiency-v1.4": {
+   "prop": "401873032|4596334|recYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.04,
+   "projection": 15.29,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.59,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6706471896417752,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.5,
+   "eligibilityWeight": 0.249,
+   "propEligible": false,
+   "interval50": [
+    2.8,
+    26.26
+   ],
+   "interval80": [
+    -8.68,
+    46.54
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|recYds|yardage-scale-v2": {
+   "prop": "401873032|4596334|recYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.04,
+   "projection": 15.29,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.45,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6724720597304215,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.5,
+   "eligibilityWeight": 0.249,
+   "propEligible": false,
+   "interval50": [
+    3.15,
+    25.91
+   ],
+   "interval80": [
+    -6.91,
+    43.98
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873032|4596334|recYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.04,
+   "projection": 15.29,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.59,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6706471896417752,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.5,
+   "eligibilityWeight": 0.249,
+   "propEligible": false,
+   "interval50": [
+    2.8,
+    26.26
+   ],
+   "interval80": [
+    -8.68,
+    46.54
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873032|4596334|recYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.04,
+   "projection": 15.29,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.52,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6974467145226018,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.5,
+   "eligibilityWeight": 0.249,
+   "propEligible": false,
+   "interval50": [
+    3.82,
+    26.76
+   ],
+   "interval80": [
+    -6.5,
+    37.08
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873032|4596334|recYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.04,
+   "projection": 15.29,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.44,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6706471896417752,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.5,
+   "eligibilityWeight": 0.249,
+   "propEligible": false,
+   "interval50": [
+    2.8,
+    26.26
+   ],
+   "interval80": [
+    -8.68,
+    46.54
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4595342|rec|usage-efficiency-v1.4": {
+   "prop": "401873032|4595342|rec",
+   "player": "Oronde Gadsden",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.02,
+   "projection": 2.18,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.28,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6096025132956577,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4595342|rec|yardage-scale-v2": {
+   "prop": "401873032|4595342|rec",
+   "player": "Oronde Gadsden",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.02,
+   "projection": 2.18,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.28,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6096025132956577,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4595342|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873032|4595342|rec",
+   "player": "Oronde Gadsden",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.02,
+   "projection": 2.18,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.54,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6611934115759255,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4595342|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873032|4595342|rec",
+   "player": "Oronde Gadsden",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.02,
+   "projection": 2.18,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.28,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6096025132956577,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4595342|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873032|4595342|rec",
+   "player": "Oronde Gadsden",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.02,
+   "projection": 2.18,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.28,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6096025132956577,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rec|usage-efficiency-v1.4": {
+   "prop": "401873032|4596334|rec",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.01,
+   "projection": 1.93,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.13,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5497796482356295,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rec|yardage-scale-v2": {
+   "prop": "401873032|4596334|rec",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.01,
+   "projection": 1.93,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.13,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5497796482356295,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873032|4596334|rec",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.01,
+   "projection": 1.93,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.39,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5878277318302616,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873032|4596334|rec",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.01,
+   "projection": 1.93,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.13,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5497796482356295,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873032|4596334|rec",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1.01,
+   "projection": 1.93,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.13,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5497796482356295,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4430737|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401873032|4430737|rushRecYds",
+   "player": "Kyren Williams",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 85.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAR",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 108.99,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.24,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4430737|rushRecYds|yardage-scale-v2": {
+   "prop": "401873032|4430737|rushRecYds",
+   "player": "Kyren Williams",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 85.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAR",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 108.99,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.24,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4430737|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873032|4430737|rushRecYds",
+   "player": "Kyren Williams",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 85.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAR",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 108.99,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.24,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4430737|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873032|4430737|rushRecYds",
+   "player": "Kyren Williams",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 85.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAR",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 108.99,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.24,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4430737|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873032|4430737|rushRecYds",
+   "player": "Kyren Williams",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 85.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAR",
+   "opp": "LAC",
+   "opponentFactor": 1,
+   "projection": 108.99,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.24,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401873032|4596334|rushRecYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 25.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 41.52,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.84,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rushRecYds|yardage-scale-v2": {
+   "prop": "401873032|4596334|rushRecYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 25.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 41.52,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.84,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873032|4596334|rushRecYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 25.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 41.52,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.84,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873032|4596334|rushRecYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 25.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 41.52,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.84,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873032|4596334|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873032|4596334|rushRecYds",
+   "player": "Keaton Mitchell",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 25.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "LAC",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 41.52,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.84,
+   "guardReason": "2 carries last game, 8.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "2 carries last game, 8.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793567100000,
+   "overrides": []
+  },
+  "401873033|4832955|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873033|4832955|rushYds",
+   "player": "Emmett Johnson",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "KC",
+   "opp": "DEN",
+   "opponentFactor": 0.96,
+   "projection": 9.34,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.54,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5859193878548445,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.49,
+   "eligibilityWeight": 0.247,
+   "propEligible": false,
+   "interval50": [
+    1.57,
+    13.91
+   ],
+   "interval80": [
+    -10.58,
+    33.06
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873033|4832955|rushYds|yardage-scale-v2": {
+   "prop": "401873033|4832955|rushYds",
+   "player": "Emmett Johnson",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "KC",
+   "opp": "DEN",
+   "opponentFactor": 0.96,
+   "projection": 9.34,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.07,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5283291049814846,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.49,
+   "eligibilityWeight": 0.247,
+   "propEligible": false,
+   "interval50": [
+    0.59,
+    14.77
+   ],
+   "interval80": [
+    -9.99,
+    32.43
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873033|4832955|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873033|4832955|rushYds",
+   "player": "Emmett Johnson",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "KC",
+   "opp": "DEN",
+   "opponentFactor": 0.96,
+   "projection": 9.34,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.54,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5859193878548445,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.49,
+   "eligibilityWeight": 0.247,
+   "propEligible": false,
+   "interval50": [
+    1.57,
+    13.91
+   ],
+   "interval80": [
+    -10.58,
+    33.06
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873033|4832955|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873033|4832955|rushYds",
+   "player": "Emmett Johnson",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "KC",
+   "opp": "DEN",
+   "opponentFactor": 0.96,
+   "projection": 9.34,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.16,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5640505106908813,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.49,
+   "eligibilityWeight": 0.247,
+   "propEligible": false,
+   "interval50": [
+    1.65,
+    17.03
+   ],
+   "interval80": [
+    -5.27,
+    23.95
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873033|4832955|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873033|4832955|rushYds",
+   "player": "Emmett Johnson",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "KC",
+   "opp": "DEN",
+   "opponentFactor": 0.96,
+   "projection": 9.34,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.22,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5859193878548445,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.49,
+   "eligibilityWeight": 0.247,
+   "propEligible": false,
+   "interval50": [
+    1.57,
+    13.91
+   ],
+   "interval80": [
+    -10.58,
+    33.06
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873033|4832955|rushYds|pool-share-v2": {
+   "prop": "401873033|4832955|rushYds",
+   "player": "Emmett Johnson",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "KC",
+   "opp": "DEN",
+   "opponentFactor": 0.96,
+   "projection": 8.53,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.49,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5312440966647842,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.49,
+   "eligibilityWeight": 0.247,
+   "propEligible": false,
+   "interval50": [
+    0.77,
+    13.11
+   ],
+   "interval80": [
+    -11.38,
+    32.26
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873033|4568490|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401873033|4568490|rushRecYds",
+   "player": "RJ Harvey",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 31.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "DEN",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 53.25,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.14,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873033|4568490|rushRecYds|yardage-scale-v2": {
+   "prop": "401873033|4568490|rushRecYds",
+   "player": "RJ Harvey",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 31.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "DEN",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 53.25,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.14,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873033|4568490|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873033|4568490|rushRecYds",
+   "player": "RJ Harvey",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 31.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "DEN",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 53.25,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.14,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873033|4568490|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873033|4568490|rushRecYds",
+   "player": "RJ Harvey",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 31.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "DEN",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 53.25,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.14,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873033|4568490|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873033|4568490|rushRecYds",
+   "player": "RJ Harvey",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 31.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "DEN",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 53.25,
+   "typicalError": 19,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.14,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793362526494,
+   "kickoff": 1793568300000,
+   "overrides": []
   }
  },
  "checks": [
@@ -130897,6 +135872,13 @@
    1793338547981,
    573,
    0,
+   13,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1793362526494,
+   593,
+   104,
    13,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
