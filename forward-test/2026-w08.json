@@ -154909,6 +154909,342 @@
    "at": 1793465667624,
    "kickoff": 1793568300000,
    "overrides": []
+  },
+  "401873034|4431431|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873034|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NE",
+   "opp": "MIA",
+   "opponentFactor": 1.01,
+   "projection": 22.95,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.94,
+   "guardReason": "TreVeyon Henderson is Out — he was seeing 7.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "TreVeyon Henderson is Out — he was seeing 7.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.1732556267730112,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.23,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.19,
+    27.52
+   ],
+   "interval80": [
+    3.04,
+    46.68
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "04ad17e",
+   "at": 1793480697544,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873034|4431431|rushYds|yardage-scale-v2": {
+   "prop": "401873034|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NE",
+   "opp": "MIA",
+   "opponentFactor": 1.01,
+   "projection": 22.95,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.69,
+   "guardReason": "TreVeyon Henderson is Out — he was seeing 7.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "TreVeyon Henderson is Out — he was seeing 7.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.24474301368868656,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.23,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    6.82,
+    34.05
+   ],
+   "interval80": [
+    -1.15,
+    52.03
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793480697544,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873034|4431431|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873034|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NE",
+   "opp": "MIA",
+   "opponentFactor": 1.01,
+   "projection": 22.95,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.94,
+   "guardReason": "TreVeyon Henderson is Out — he was seeing 7.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "TreVeyon Henderson is Out — he was seeing 7.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.1732556267730112,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.23,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.19,
+    27.52
+   ],
+   "interval80": [
+    3.04,
+    46.68
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793480697544,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873034|4431431|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873034|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NE",
+   "opp": "MIA",
+   "opponentFactor": 1.01,
+   "projection": 22.95,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.01,
+   "guardReason": "TreVeyon Henderson is Out — he was seeing 7.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "TreVeyon Henderson is Out — he was seeing 7.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.15555735764023404,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.23,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.26,
+    30.64
+   ],
+   "interval80": [
+    8.34,
+    37.56
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793480697544,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873034|4431431|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873034|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NE",
+   "opp": "MIA",
+   "opponentFactor": 1.01,
+   "projection": 22.95,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.94,
+   "guardReason": "TreVeyon Henderson is Out — he was seeing 7.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "TreVeyon Henderson is Out — he was seeing 7.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.1732556267730112,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.23,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    15.19,
+    27.52
+   ],
+   "interval80": [
+    3.04,
+    46.68
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793480697544,
+   "kickoff": 1793568300000,
+   "overrides": []
+  },
+  "401873034|4431431|rushYds|pool-share-v2": {
+   "prop": "401873034|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 34.5,
+   "asOf": {
+    "season": 2026,
+    "week": 8
+   },
+   "team": "NE",
+   "opp": "MIA",
+   "opponentFactor": 1.01,
+   "projection": 24.47,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.89,
+   "guardReason": "TreVeyon Henderson is Out — he was seeing 7.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "TreVeyon Henderson is Out — he was seeing 7.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.18598796957865038,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.23,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    16.71,
+    29.04
+   ],
+   "interval80": [
+    4.56,
+    48.19
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "04ad17e",
+   "at": 1793480697544,
+   "kickoff": 1793568300000,
+   "overrides": []
   }
  },
  "checks": [
@@ -155084,6 +155420,13 @@
    1793465667624,
    676,
    26,
+   17,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1793480697544,
+   677,
+   6,
    17,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
