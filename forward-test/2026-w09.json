@@ -143900,6 +143900,1548 @@
    "at": 1793935310236,
    "kickoff": 1794273300000,
    "overrides": []
+  },
+  "401873049|4431431|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873049|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 21.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "NE",
+   "opp": "GB",
+   "opponentFactor": 0.99,
+   "projection": 24.78,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.61,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6446226606324419,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    17.02,
+    29.35
+   ],
+   "interval80": [
+    4.87,
+    48.5
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873049|4431431|rushYds|yardage-scale-v2": {
+   "prop": "401873049|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 21.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "NE",
+   "opp": "GB",
+   "opponentFactor": 0.99,
+   "projection": 24.78,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.08,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4699163350654566,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    8.11,
+    36.25
+   ],
+   "interval80": [
+    -0.12,
+    54.83
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873049|4431431|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873049|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 21.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "NE",
+   "opp": "GB",
+   "opponentFactor": 0.99,
+   "projection": 24.78,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.61,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6446226606324419,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    17.02,
+    29.35
+   ],
+   "interval80": [
+    4.87,
+    48.5
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873049|4431431|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873049|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 21.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "NE",
+   "opp": "GB",
+   "opponentFactor": 0.99,
+   "projection": 24.78,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.29,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6132471493664204,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    17.09,
+    32.47
+   ],
+   "interval80": [
+    10.17,
+    39.39
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873049|4431431|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873049|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 21.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "NE",
+   "opp": "GB",
+   "opponentFactor": 0.99,
+   "projection": 24.78,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.37,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6446226606324419,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    17.02,
+    29.35
+   ],
+   "interval80": [
+    4.87,
+    48.5
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873049|4431431|rushYds|pool-share-v2": {
+   "prop": "401873049|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 21.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "NE",
+   "opp": "GB",
+   "opponentFactor": 0.99,
+   "projection": 21.89,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.47,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.44607856583010763,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    14.13,
+    26.46
+   ],
+   "interval80": [
+    1.98,
+    45.62
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873047|4431466|recYds|usage-efficiency-v1.4": {
+   "prop": "401873047|4431466|recYds",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 20.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "SF",
+   "opp": "LV",
+   "opponentFactor": 1.01,
+   "projection": 27.49,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.52,
+   "guardReason": "6 targets last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6304957893308389,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.08,
+   "eligibilityWeight": 0.539,
+   "propEligible": false,
+   "interval50": [
+    15,
+    38.46
+   ],
+   "interval80": [
+    3.52,
+    58.74
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873047|4431466|recYds|yardage-scale-v2": {
+   "prop": "401873047|4431466|recYds",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 20.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "SF",
+   "opp": "LV",
+   "opponentFactor": 1.01,
+   "projection": 27.49,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.27,
+   "guardReason": "6 targets last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6056619270861285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.08,
+   "eligibilityWeight": 0.539,
+   "propEligible": false,
+   "interval50": [
+    13.57,
+    39.6
+   ],
+   "interval80": [
+    4.01,
+    57.37
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873047|4431466|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873047|4431466|recYds",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 20.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "SF",
+   "opp": "LV",
+   "opponentFactor": 1.01,
+   "projection": 27.49,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.52,
+   "guardReason": "6 targets last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6304957893308389,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.08,
+   "eligibilityWeight": 0.539,
+   "propEligible": false,
+   "interval50": [
+    15,
+    38.46
+   ],
+   "interval80": [
+    3.52,
+    58.74
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873047|4431466|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873047|4431466|recYds",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 20.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "SF",
+   "opp": "LV",
+   "opponentFactor": 1.01,
+   "projection": 27.49,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.41,
+   "guardReason": "6 targets last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6595878323769253,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.08,
+   "eligibilityWeight": 0.539,
+   "propEligible": false,
+   "interval50": [
+    16.03,
+    38.96
+   ],
+   "interval80": [
+    5.71,
+    49.28
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873047|4431466|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873047|4431466|recYds",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 20.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "SF",
+   "opp": "LV",
+   "opponentFactor": 1.01,
+   "projection": 27.49,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.33,
+   "guardReason": "6 targets last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6304957893308389,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.08,
+   "eligibilityWeight": 0.539,
+   "propEligible": false,
+   "interval50": [
+    15,
+    38.46
+   ],
+   "interval80": [
+    3.52,
+    58.74
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873047|4431466|rec|usage-efficiency-v1.4": {
+   "prop": "401873047|4431466|rec",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "SF",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 1.96,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.15,
+   "guardReason": "6 targets last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5590327818488285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873047|4431466|rec|yardage-scale-v2": {
+   "prop": "401873047|4431466|rec",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "SF",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 1.96,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.15,
+   "guardReason": "6 targets last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5590327818488285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873047|4431466|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873047|4431466|rec",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "SF",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 1.96,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.4,
+   "guardReason": "6 targets last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5989320915717655,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873047|4431466|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873047|4431466|rec",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "SF",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 1.96,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.15,
+   "guardReason": "6 targets last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5590327818488285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873047|4431466|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873047|4431466|rec",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "SF",
+   "opp": "LV",
+   "opponentFactor": 1,
+   "projection": 1.96,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.15,
+   "guardReason": "6 targets last game, 1.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "6 targets last game, 1.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5590327818488285,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794173100000,
+   "overrides": []
+  },
+  "401873051|3915411|recYds|usage-efficiency-v1.4": {
+   "prop": "401873051|3915411|recYds",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.92,
+   "projection": 22,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.5,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.617302866833743,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.85,
+   "eligibilityWeight": 0.424,
+   "propEligible": false,
+   "interval50": [
+    9.5,
+    32.96
+   ],
+   "interval80": [
+    -1.97,
+    53.24
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
+  },
+  "401873051|3915411|recYds|yardage-scale-v2": {
+   "prop": "401873051|3915411|recYds",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.92,
+   "projection": 22,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.29,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.615227033231875,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.85,
+   "eligibilityWeight": 0.424,
+   "propEligible": false,
+   "interval50": [
+    9.7,
+    32.72
+   ],
+   "interval80": [
+    0.43,
+    49.65
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
+  },
+  "401873051|3915411|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873051|3915411|recYds",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.92,
+   "projection": 22,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.5,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.617302866833743,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.85,
+   "eligibilityWeight": 0.424,
+   "propEligible": false,
+   "interval50": [
+    9.5,
+    32.96
+   ],
+   "interval80": [
+    -1.97,
+    53.24
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
+  },
+  "401873051|3915411|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873051|3915411|recYds",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.92,
+   "projection": 22,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.38,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6487938525926755,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.85,
+   "eligibilityWeight": 0.424,
+   "propEligible": false,
+   "interval50": [
+    10.53,
+    33.46
+   ],
+   "interval80": [
+    0.21,
+    43.78
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
+  },
+  "401873051|3915411|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873051|3915411|recYds",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 15.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.92,
+   "projection": 22,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.3,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.617302866833743,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.85,
+   "eligibilityWeight": 0.424,
+   "propEligible": false,
+   "interval50": [
+    9.5,
+    32.96
+   ],
+   "interval80": [
+    -1.97,
+    53.24
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
+  },
+  "401873051|3930086|recYds|usage-efficiency-v1.4": {
+   "prop": "401873051|3930086|recYds",
+   "player": "Dawson Knox",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.97,
+   "projection": 11.6,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.41,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5456252760508742,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.93,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -0.9,
+    22.56
+   ],
+   "interval80": [
+    -12.37,
+    42.84
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
+  },
+  "401873051|3930086|recYds|yardage-scale-v2": {
+   "prop": "401873051|3930086|recYds",
+   "player": "Dawson Knox",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.97,
+   "projection": 11.6,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.41,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5456252760508742,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.93,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -0.9,
+    22.56
+   ],
+   "interval80": [
+    -12.37,
+    42.84
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
+  },
+  "401873051|3930086|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873051|3930086|recYds",
+   "player": "Dawson Knox",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.97,
+   "projection": 11.6,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.41,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5456252760508742,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.93,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -0.9,
+    22.56
+   ],
+   "interval80": [
+    -12.37,
+    42.84
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
+  },
+  "401873051|3930086|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873051|3930086|recYds",
+   "player": "Dawson Knox",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.97,
+   "projection": 11.6,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.24,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5952468784151903,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.93,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    0.13,
+    23.06
+   ],
+   "interval80": [
+    -10.19,
+    33.39
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
+  },
+  "401873051|3930086|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873051|3930086|recYds",
+   "player": "Dawson Knox",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.97,
+   "projection": 11.6,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.11,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5456252760508742,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.93,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -0.9,
+    22.56
+   ],
+   "interval80": [
+    -12.37,
+    42.84
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
+  },
+  "401873051|3915411|rec|usage-efficiency-v1.4": {
+   "prop": "401873051|3915411|rec",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.96,
+   "projection": 2.68,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.05,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4803773961270037,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
+  },
+  "401873051|3915411|rec|yardage-scale-v2": {
+   "prop": "401873051|3915411|rec",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.96,
+   "projection": 2.68,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.05,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4803773961270037,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
+  },
+  "401873051|3915411|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873051|3915411|rec",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.96,
+   "projection": 2.68,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.25,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5096940803193881,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
+  },
+  "401873051|3915411|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873051|3915411|rec",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.96,
+   "projection": 2.68,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.05,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4803773961270037,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
+  },
+  "401873051|3915411|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873051|3915411|rec",
+   "player": "Ty Johnson",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "BUF",
+   "opp": "MIN",
+   "opponentFactor": 0.96,
+   "projection": 2.68,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.05,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4803773961270037,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1793942772736,
+   "kickoff": 1794273300000,
+   "overrides": []
   }
  },
  "checks": [
@@ -144012,6 +145554,13 @@
    1793935310236,
    630,
    46,
+   6,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1793942772736,
+   636,
+   31,
    6,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
