@@ -170866,6 +170866,1982 @@
    "at": 1794113262622,
    "kickoff": 1794187200000,
    "overrides": []
+  },
+  "401873043|3068267|car|usage-efficiency-v1.4": {
+   "prop": "401873043|3068267|car",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "car",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 4.57,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.73,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.23357782558866746,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.57,
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|car|yardage-scale-v2": {
+   "prop": "401873043|3068267|car",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "car",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 4.57,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.73,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.23357782558866746,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.57,
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|car|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873043|3068267|car",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "car",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 4.57,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.94,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.17373808328891283,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.57,
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|car|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873043|3068267|car",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "car",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 4.57,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.73,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.23357782558866746,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.57,
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|car|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873043|3068267|car",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "car",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 4.57,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.73,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.23357782558866746,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.57,
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|car|pool-share-v2": {
+   "prop": "401873043|3068267|car",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "car",
+   "line": 6.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 4.95,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.6,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.27331540987302727,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.95,
+   "beyondCalibration": true,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|recYds|usage-efficiency-v1.4": {
+   "prop": "401873043|3068267|recYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1.04,
+   "projection": 9.42,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.32,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4811238261781776,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.4,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -3.08,
+    20.38
+   ],
+   "interval80": [
+    -14.55,
+    40.67
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|recYds|yardage-scale-v2": {
+   "prop": "401873043|3068267|recYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1.04,
+   "projection": 9.42,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.32,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4811238261781776,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.4,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -3.08,
+    20.38
+   ],
+   "interval80": [
+    -14.55,
+    40.67
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873043|3068267|recYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1.04,
+   "projection": 9.42,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.32,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4811238261781776,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.4,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -3.08,
+    20.38
+   ],
+   "interval80": [
+    -14.55,
+    40.67
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873043|3068267|recYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1.04,
+   "projection": 9.42,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.11,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5449538304761327,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.4,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -2.05,
+    20.89
+   ],
+   "interval80": [
+    -12.37,
+    31.21
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873043|3068267|recYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "recYds",
+   "line": 7.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1.04,
+   "projection": 9.42,
+   "typicalError": 17,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0,
+   "guardReason": null,
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4811238261781776,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.4,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -3.08,
+    20.38
+   ],
+   "interval80": [
+    -14.55,
+    40.67
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3930066|recYds|usage-efficiency-v1.4": {
+   "prop": "401873043|3930066|recYds",
+   "player": "Van Jefferson",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 0.99,
+   "projection": 16.91,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.5,
+   "guardReason": "Treylon Burks is Out — he was seeing 5.3 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Treylon Burks is Out — he was seeing 5.3 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6149277290911657,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.49,
+   "eligibilityWeight": 0.244,
+   "propEligible": false,
+   "interval50": [
+    4.41,
+    27.87
+   ],
+   "interval80": [
+    -7.06,
+    48.15
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3930066|recYds|yardage-scale-v2": {
+   "prop": "401873043|3930066|recYds",
+   "player": "Van Jefferson",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 0.99,
+   "projection": 16.91,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.28,
+   "guardReason": "Treylon Burks is Out — he was seeing 5.3 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Treylon Burks is Out — he was seeing 5.3 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6102980579502306,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.49,
+   "eligibilityWeight": 0.244,
+   "propEligible": false,
+   "interval50": [
+    4.27,
+    27.96
+   ],
+   "interval80": [
+    -6.08,
+    46.58
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3930066|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873043|3930066|recYds",
+   "player": "Van Jefferson",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 0.99,
+   "projection": 16.91,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.5,
+   "guardReason": "Treylon Burks is Out — he was seeing 5.3 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Treylon Burks is Out — he was seeing 5.3 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6149277290911657,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.49,
+   "eligibilityWeight": 0.244,
+   "propEligible": false,
+   "interval50": [
+    4.41,
+    27.87
+   ],
+   "interval80": [
+    -7.06,
+    48.15
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3930066|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873043|3930066|recYds",
+   "player": "Van Jefferson",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 0.99,
+   "projection": 16.91,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.38,
+   "guardReason": "Treylon Burks is Out — he was seeing 5.3 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Treylon Burks is Out — he was seeing 5.3 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6468540588194845,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.49,
+   "eligibilityWeight": 0.244,
+   "propEligible": false,
+   "interval50": [
+    5.44,
+    28.37
+   ],
+   "interval80": [
+    -4.88,
+    38.69
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3930066|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873043|3930066|recYds",
+   "player": "Van Jefferson",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 10.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 0.99,
+   "projection": 16.91,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.29,
+   "guardReason": "Treylon Burks is Out — he was seeing 5.3 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Treylon Burks is Out — he was seeing 5.3 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6149277290911657,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.49,
+   "eligibilityWeight": 0.244,
+   "propEligible": false,
+   "interval50": [
+    4.41,
+    27.87
+   ],
+   "interval80": [
+    -7.06,
+    48.15
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|4710855|recYds|usage-efficiency-v1.4": {
+   "prop": "401873043|4710855|recYds",
+   "player": "Konata Mumpfield",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "LAR",
+   "opp": "WAS",
+   "opponentFactor": 1.01,
+   "projection": 19.26,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.47,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5930984235297645,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.86,
+   "eligibilityWeight": 0.43,
+   "propEligible": false,
+   "interval50": [
+    6.77,
+    30.23
+   ],
+   "interval80": [
+    -4.71,
+    50.51
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|4710855|recYds|yardage-scale-v2": {
+   "prop": "401873043|4710855|recYds",
+   "player": "Konata Mumpfield",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "LAR",
+   "opp": "WAS",
+   "opponentFactor": 1.01,
+   "projection": 19.26,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.21,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5829403302853416,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.86,
+   "eligibilityWeight": 0.43,
+   "propEligible": false,
+   "interval50": [
+    5.95,
+    30.86
+   ],
+   "interval80": [
+    -3.83,
+    48.8
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|4710855|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873043|4710855|recYds",
+   "player": "Konata Mumpfield",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "LAR",
+   "opp": "WAS",
+   "opponentFactor": 1.01,
+   "projection": 19.26,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.47,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5930984235297645,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.86,
+   "eligibilityWeight": 0.43,
+   "propEligible": false,
+   "interval50": [
+    6.77,
+    30.23
+   ],
+   "interval80": [
+    -4.71,
+    50.51
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|4710855|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873043|4710855|recYds",
+   "player": "Konata Mumpfield",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "LAR",
+   "opp": "WAS",
+   "opponentFactor": 1.01,
+   "projection": 19.26,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.34,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6326790510092404,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.86,
+   "eligibilityWeight": 0.43,
+   "propEligible": false,
+   "interval50": [
+    7.8,
+    30.73
+   ],
+   "interval80": [
+    -2.52,
+    41.05
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|4710855|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873043|4710855|recYds",
+   "player": "Konata Mumpfield",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "LAR",
+   "opp": "WAS",
+   "opponentFactor": 1.01,
+   "projection": 19.26,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.24,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5930984235297645,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.86,
+   "eligibilityWeight": 0.43,
+   "propEligible": false,
+   "interval50": [
+    6.77,
+    30.23
+   ],
+   "interval80": [
+    -4.71,
+    50.51
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|rec|usage-efficiency-v1.4": {
+   "prop": "401873043|3068267|rec",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1.02,
+   "projection": 1.15,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.48,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3152477693710155,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|rec|yardage-scale-v2": {
+   "prop": "401873043|3068267|rec",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1.02,
+   "projection": 1.15,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.48,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3152477693710155,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873043|3068267|rec",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1.02,
+   "projection": 1.15,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.35,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3625412723629309,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873043|3068267|rec",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1.02,
+   "projection": 1.15,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.48,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3152477693710155,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873043|3068267|rec",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1.02,
+   "projection": 1.15,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.48,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3152477693710155,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3930066|rec|usage-efficiency-v1.4": {
+   "prop": "401873043|3930066|rec",
+   "player": "Van Jefferson",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 0.98,
+   "projection": 1.17,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.46,
+   "guardReason": "Treylon Burks is Out — he was seeing 5.3 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Treylon Burks is Out — he was seeing 5.3 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3242808185890842,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3930066|rec|yardage-scale-v2": {
+   "prop": "401873043|3930066|rec",
+   "player": "Van Jefferson",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 0.98,
+   "projection": 1.17,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.46,
+   "guardReason": "Treylon Burks is Out — he was seeing 5.3 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Treylon Burks is Out — he was seeing 5.3 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3242808185890842,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3930066|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873043|3930066|rec",
+   "player": "Van Jefferson",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 0.98,
+   "projection": 1.17,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.34,
+   "guardReason": "Treylon Burks is Out — he was seeing 5.3 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Treylon Burks is Out — he was seeing 5.3 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3675152618003976,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3930066|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873043|3930066|rec",
+   "player": "Van Jefferson",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 0.98,
+   "projection": 1.17,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.46,
+   "guardReason": "Treylon Burks is Out — he was seeing 5.3 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Treylon Burks is Out — he was seeing 5.3 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3242808185890842,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3930066|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873043|3930066|rec",
+   "player": "Van Jefferson",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 0.98,
+   "projection": 1.17,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.46,
+   "guardReason": "Treylon Burks is Out — he was seeing 5.3 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Treylon Burks is Out — he was seeing 5.3 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3242808185890842,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|4710855|rec|usage-efficiency-v1.4": {
+   "prop": "401873043|4710855|rec",
+   "player": "Konata Mumpfield",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "LAR",
+   "opp": "WAS",
+   "opponentFactor": 1.01,
+   "projection": 1.17,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.46,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3241450149891789,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|4710855|rec|yardage-scale-v2": {
+   "prop": "401873043|4710855|rec",
+   "player": "Konata Mumpfield",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "LAR",
+   "opp": "WAS",
+   "opponentFactor": 1.01,
+   "projection": 1.17,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.46,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3241450149891789,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|4710855|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873043|4710855|rec",
+   "player": "Konata Mumpfield",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "LAR",
+   "opp": "WAS",
+   "opponentFactor": 1.01,
+   "projection": 1.17,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.34,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.36744026688134324,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|4710855|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873043|4710855|rec",
+   "player": "Konata Mumpfield",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "LAR",
+   "opp": "WAS",
+   "opponentFactor": 1.01,
+   "projection": 1.17,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.46,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3241450149891789,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|4710855|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873043|4710855|rec",
+   "player": "Konata Mumpfield",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "LAR",
+   "opp": "WAS",
+   "opponentFactor": 1.01,
+   "projection": 1.17,
+   "typicalError": 1.3,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.46,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3241450149891789,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401873043|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 34.87,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.09,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|rushRecYds|yardage-scale-v2": {
+   "prop": "401873043|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 34.87,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.09,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873043|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 34.87,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.09,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873043|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 34.87,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.09,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
+  },
+  "401873043|3068267|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873043|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 36.5,
+   "asOf": {
+    "season": 2026,
+    "week": 9
+   },
+   "team": "WAS",
+   "opp": "LAR",
+   "opponentFactor": 1,
+   "projection": 34.87,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.09,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794142303739,
+   "kickoff": 1794160800000,
+   "overrides": []
   }
  },
  "checks": [
@@ -171035,6 +173011,13 @@
    757,
    71,
    20,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1794142303739,
+   766,
+   41,
+   21,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
  ],
