@@ -17678,6 +17678,1841 @@
    "at": 1794273251761,
    "kickoff": 1794532500000,
    "overrides": []
+  },
+  "401873052|3068267|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401873052|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 37.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1,
+   "projection": 34.87,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.14,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873052|3068267|rushRecYds|yardage-scale-v2": {
+   "prop": "401873052|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 37.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1,
+   "projection": 34.87,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.14,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873052|3068267|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873052|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 37.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1,
+   "projection": 34.87,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.14,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873052|3068267|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873052|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 37.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1,
+   "projection": 34.87,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.14,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873052|3068267|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873052|3068267|rushRecYds",
+   "player": "Austin Ekeler",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 37.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "WAS",
+   "opp": "NYG",
+   "opponentFactor": 1,
+   "projection": 34.87,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.14,
+   "guardReason": "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Jeremy McNichols is Injured Reserve — he was seeing 5.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873052|4040761|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401873052|4040761|rushRecYds",
+   "player": "Devin Singletary",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 40.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NYG",
+   "opp": "WAS",
+   "opponentFactor": 1,
+   "projection": 41.74,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.07,
+   "guardReason": "Cam Skattebo is Out — he was seeing 17.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Cam Skattebo is Out — he was seeing 17.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873052|4040761|rushRecYds|yardage-scale-v2": {
+   "prop": "401873052|4040761|rushRecYds",
+   "player": "Devin Singletary",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 40.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NYG",
+   "opp": "WAS",
+   "opponentFactor": 1,
+   "projection": 41.74,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.07,
+   "guardReason": "Cam Skattebo is Out — he was seeing 17.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Cam Skattebo is Out — he was seeing 17.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873052|4040761|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873052|4040761|rushRecYds",
+   "player": "Devin Singletary",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 40.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NYG",
+   "opp": "WAS",
+   "opponentFactor": 1,
+   "projection": 41.74,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.07,
+   "guardReason": "Cam Skattebo is Out — he was seeing 17.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Cam Skattebo is Out — he was seeing 17.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873052|4040761|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873052|4040761|rushRecYds",
+   "player": "Devin Singletary",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 40.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NYG",
+   "opp": "WAS",
+   "opponentFactor": 1,
+   "projection": 41.74,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.07,
+   "guardReason": "Cam Skattebo is Out — he was seeing 17.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Cam Skattebo is Out — he was seeing 17.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873052|4040761|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873052|4040761|rushRecYds",
+   "player": "Devin Singletary",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 40.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NYG",
+   "opp": "WAS",
+   "opponentFactor": 1,
+   "projection": 41.74,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.07,
+   "guardReason": "Cam Skattebo is Out — he was seeing 17.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Cam Skattebo is Out — he was seeing 17.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873052|4696981|rushRecYds|usage-efficiency-v1.4": {
+   "prop": "401873052|4696981|rushRecYds",
+   "player": "Cam Skattebo",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 61.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NYG",
+   "opp": "WAS",
+   "opponentFactor": 1,
+   "projection": 92.96,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.66,
+   "guardReason": "Tyrone Tracy Jr. is IR — he was seeing 6.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Tyrone Tracy Jr. is IR — he was seeing 6.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873052|4696981|rushRecYds|yardage-scale-v2": {
+   "prop": "401873052|4696981|rushRecYds",
+   "player": "Cam Skattebo",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 61.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NYG",
+   "opp": "WAS",
+   "opponentFactor": 1,
+   "projection": 92.96,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.66,
+   "guardReason": "Tyrone Tracy Jr. is IR — he was seeing 6.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Tyrone Tracy Jr. is IR — he was seeing 6.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873052|4696981|rushRecYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873052|4696981|rushRecYds",
+   "player": "Cam Skattebo",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 61.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NYG",
+   "opp": "WAS",
+   "opponentFactor": 1,
+   "projection": 92.96,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.66,
+   "guardReason": "Tyrone Tracy Jr. is IR — he was seeing 6.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Tyrone Tracy Jr. is IR — he was seeing 6.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873052|4696981|rushRecYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873052|4696981|rushRecYds",
+   "player": "Cam Skattebo",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 61.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NYG",
+   "opp": "WAS",
+   "opponentFactor": 1,
+   "projection": 92.96,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.66,
+   "guardReason": "Tyrone Tracy Jr. is IR — he was seeing 6.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Tyrone Tracy Jr. is IR — he was seeing 6.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873052|4696981|rushRecYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873052|4696981|rushRecYds",
+   "player": "Cam Skattebo",
+   "pos": "RB",
+   "stat": "rushRecYds",
+   "line": 61.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NYG",
+   "opp": "WAS",
+   "opponentFactor": 1,
+   "projection": 92.96,
+   "typicalError": 19,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.66,
+   "guardReason": "Tyrone Tracy Jr. is IR — he was seeing 6.0 car a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Tyrone Tracy Jr. is IR — he was seeing 6.0 car a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794532500000,
+   "overrides": []
+  },
+  "401873053|4431431|car|usage-efficiency-v1.4": {
+   "prop": "401873053|4431431|car",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "car",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NE",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 5.4,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "unexplained",
+   "gapSd": 1.86,
+   "guardReason": "The market disagrees sharply and nothing in the data explains why — more likely a gap in our data than an edge.",
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.03115444918725807,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.4,
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4431431|car|yardage-scale-v2": {
+   "prop": "401873053|4431431|car",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "car",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NE",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 5.4,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "unexplained",
+   "gapSd": 1.86,
+   "guardReason": "The market disagrees sharply and nothing in the data explains why — more likely a gap in our data than an edge.",
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.03115444918725807,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.4,
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4431431|car|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873053|4431431|car",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "car",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NE",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 5.4,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "unexplained",
+   "gapSd": 1.92,
+   "guardReason": "The market disagrees sharply and nothing in the data explains why — more likely a gap in our data than an edge.",
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.027673519095711363,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.4,
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4431431|car|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873053|4431431|car",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "car",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NE",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 5.4,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "unexplained",
+   "gapSd": 1.86,
+   "guardReason": "The market disagrees sharply and nothing in the data explains why — more likely a gap in our data than an edge.",
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.03115444918725807,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.4,
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4431431|car|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873053|4431431|car",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "car",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NE",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 5.4,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "unexplained",
+   "gapSd": 1.86,
+   "guardReason": "The market disagrees sharply and nothing in the data explains why — more likely a gap in our data than an edge.",
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.03115444918725807,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.4,
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4431431|car|pool-share-v2": {
+   "prop": "401873053|4431431|car",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "car",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NE",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 5.66,
+   "typicalError": 1.9,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "unexplained",
+   "gapSd": 1.77,
+   "guardReason": "The market disagrees sharply and nothing in the data explains why — more likely a gap in our data than an edge.",
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.038134941872046246,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.66,
+   "beyondCalibration": true,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|3046779|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873053|3046779|rushYds",
+   "player": "Jared Goff",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "DET",
+   "opp": "NE",
+   "opponentFactor": 0.94,
+   "projection": 6.32,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.75,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7080714574613822,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.02,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    -1.45,
+    10.89
+   ],
+   "interval80": [
+    -13.6,
+    30.04
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|3046779|rushYds|yardage-scale-v2": {
+   "prop": "401873053|3046779|rushYds",
+   "player": "Jared Goff",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "DET",
+   "opp": "NE",
+   "opponentFactor": 0.94,
+   "projection": 6.32,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.32,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.625364121175501,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.02,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    -1.45,
+    12.04
+   ],
+   "interval80": [
+    -4.81,
+    23.33
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|3046779|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873053|3046779|rushYds",
+   "player": "Jared Goff",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "DET",
+   "opp": "NE",
+   "opponentFactor": 0.94,
+   "projection": 6.32,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.75,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7080714574613822,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.02,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    -1.45,
+    10.89
+   ],
+   "interval80": [
+    -13.6,
+    30.04
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|3046779|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873053|3046779|rushYds",
+   "player": "Jared Goff",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "DET",
+   "opp": "NE",
+   "opponentFactor": 0.94,
+   "projection": 6.32,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.51,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6950318731243683,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.02,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    -1.37,
+    14.01
+   ],
+   "interval80": [
+    -8.29,
+    20.93
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|3046779|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873053|3046779|rushYds",
+   "player": "Jared Goff",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "DET",
+   "opp": "NE",
+   "opponentFactor": 0.94,
+   "projection": 6.32,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.55,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7080714574613822,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.02,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    -1.45,
+    10.89
+   ],
+   "interval80": [
+    -13.6,
+    30.04
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4431431|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873053|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 54.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NE",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 23.88,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.44,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.07562243170423089,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    16.12,
+    28.45
+   ],
+   "interval80": [
+    3.97,
+    47.61
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4431431|rushYds|yardage-scale-v2": {
+   "prop": "401873053|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 54.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NE",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 23.88,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.31,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.0946010234065029,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    7.21,
+    35.35
+   ],
+   "interval80": [
+    -1.02,
+    53.93
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4431431|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873053|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 54.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NE",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 23.88,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.44,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.07562243170423089,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    16.12,
+    28.45
+   ],
+   "interval80": [
+    3.97,
+    47.61
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4431431|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873053|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 54.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NE",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 23.88,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "unexplained",
+   "gapSd": 2.69,
+   "guardReason": "The market disagrees sharply and nothing in the data explains why — more likely a gap in our data than an edge.",
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.003618944093874532,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    16.19,
+    31.57
+   ],
+   "interval80": [
+    9.27,
+    38.49
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4431431|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873053|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 54.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NE",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 23.88,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.44,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.07562243170423089,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    16.12,
+    28.45
+   ],
+   "interval80": [
+    3.97,
+    47.61
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4431431|rushYds|pool-share-v2": {
+   "prop": "401873053|4431431|rushYds",
+   "player": "Corey Kiner",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 54.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "NE",
+   "opp": "DET",
+   "opponentFactor": 0.96,
+   "projection": 25.03,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.41,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.07903038550369956,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 5.61,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    17.26,
+    29.6
+   ],
+   "interval80": [
+    5.11,
+    48.75
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4912274|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873053|4912274|rushYds",
+   "player": "Sione Vaki",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "DET",
+   "opp": "NE",
+   "opponentFactor": 1,
+   "projection": 18.73,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.72,
+   "guardReason": "11 carries last game, 2.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 2.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6975560050285852,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.33,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    10.96,
+    23.3
+   ],
+   "interval80": [
+    -1.19,
+    42.45
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4912274|rushYds|yardage-scale-v2": {
+   "prop": "401873053|4912274|rushYds",
+   "player": "Sione Vaki",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "DET",
+   "opp": "NE",
+   "opponentFactor": 1,
+   "projection": 18.73,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.06,
+   "guardReason": "11 carries last game, 2.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 2.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.522547914157189,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.33,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    3.92,
+    28.91
+   ],
+   "interval80": [
+    -3.39,
+    45.41
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4912274|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873053|4912274|rushYds",
+   "player": "Sione Vaki",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "DET",
+   "opp": "NE",
+   "opponentFactor": 1,
+   "projection": 18.73,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.72,
+   "guardReason": "11 carries last game, 2.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 2.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6975560050285852,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.33,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    10.96,
+    23.3
+   ],
+   "interval80": [
+    -1.19,
+    42.45
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4912274|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873053|4912274|rushYds",
+   "player": "Sione Vaki",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "DET",
+   "opp": "NE",
+   "opponentFactor": 1,
+   "projection": 18.73,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.46,
+   "guardReason": "11 carries last game, 2.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 2.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6767000515092174,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.33,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    11.04,
+    26.42
+   ],
+   "interval80": [
+    4.12,
+    33.34
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4912274|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873053|4912274|rushYds",
+   "player": "Sione Vaki",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "DET",
+   "opp": "NE",
+   "opponentFactor": 1,
+   "projection": 18.73,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.52,
+   "guardReason": "11 carries last game, 2.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 2.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6975560050285852,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.33,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    10.96,
+    23.3
+   ],
+   "interval80": [
+    -1.19,
+    42.45
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
+  },
+  "401873053|4912274|rushYds|pool-share-v2": {
+   "prop": "401873053|4912274|rushYds",
+   "player": "Sione Vaki",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 13.5,
+   "asOf": {
+    "season": 2026,
+    "week": 10
+   },
+   "team": "DET",
+   "opp": "NE",
+   "opponentFactor": 1,
+   "projection": 18.27,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.69,
+   "guardReason": "11 carries last game, 2.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "11 carries last game, 2.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6877616622741398,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.33,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    10.5,
+    22.84
+   ],
+   "interval80": [
+    -1.65,
+    41.99
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "pool-share-v2",
+   "shadow": true,
+   "commit": "b4b671c",
+   "at": 1794320802970,
+   "kickoff": 1794753000000,
+   "overrides": []
   }
  },
  "checks": [
@@ -17727,6 +19562,13 @@
    1794293642615,
    74,
    0,
+   0,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1794320802970,
+   81,
+   38,
    0,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
