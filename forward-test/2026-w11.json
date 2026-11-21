@@ -138030,6 +138030,4766 @@
    "at": 1795270750521,
    "kickoff": 1795396800000,
    "overrides": []
+  },
+  "401873073|4431353|recYds|usage-efficiency-v1.4": {
+   "prop": "401873073|4431353|recYds",
+   "player": "Xavier Restrepo",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 14.24,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.44,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5616255697240848,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.92,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    1.75,
+    25.21
+   ],
+   "interval80": [
+    -9.73,
+    45.49
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|4431353|recYds|yardage-scale-v2": {
+   "prop": "401873073|4431353|recYds",
+   "player": "Xavier Restrepo",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 14.24,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.44,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5616255697240848,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.92,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    1.75,
+    25.21
+   ],
+   "interval80": [
+    -9.73,
+    45.49
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|4431353|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873073|4431353|recYds",
+   "player": "Xavier Restrepo",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 14.24,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.44,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5616255697240848,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.92,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    1.75,
+    25.21
+   ],
+   "interval80": [
+    -9.73,
+    45.49
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|4431353|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873073|4431353|recYds",
+   "player": "Xavier Restrepo",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 14.24,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.28,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6098491375102708,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.92,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    2.78,
+    25.71
+   ],
+   "interval80": [
+    -7.55,
+    36.03
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|4431353|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873073|4431353|recYds",
+   "player": "Xavier Restrepo",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 9.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 14.24,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.16,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5616255697240848,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.92,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    1.75,
+    25.21
+   ],
+   "interval80": [
+    -9.73,
+    45.49
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|4431353|rec|usage-efficiency-v1.4": {
+   "prop": "401873073|4431353|rec",
+   "player": "Xavier Restrepo",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.64,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.07,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.47235955326585044,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|4431353|rec|yardage-scale-v2": {
+   "prop": "401873073|4431353|rec",
+   "player": "Xavier Restrepo",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.64,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.07,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.47235955326585044,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|4431353|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873073|4431353|rec",
+   "player": "Xavier Restrepo",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.64,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.23,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4950126429402357,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|4431353|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873073|4431353|rec",
+   "player": "Xavier Restrepo",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.64,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.07,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.47235955326585044,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|4431353|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873073|4431353|rec",
+   "player": "Xavier Restrepo",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.64,
+   "typicalError": 1.3,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.07,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.47235955326585044,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873072|5220680|recYds|usage-efficiency-v1.4": {
+   "prop": "401873072|5220680|recYds",
+   "player": "Ted Hurst III",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TB",
+   "opp": "DET",
+   "opponentFactor": 1.04,
+   "projection": 17.63,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.72,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7430328614762287,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.52,
+   "eligibilityWeight": 0.261,
+   "propEligible": false,
+   "interval50": [
+    5.13,
+    28.59
+   ],
+   "interval80": [
+    -6.34,
+    48.87
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873072|5220680|recYds|yardage-scale-v2": {
+   "prop": "401873072|5220680|recYds",
+   "player": "Ted Hurst III",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TB",
+   "opp": "DET",
+   "opponentFactor": 1.04,
+   "projection": 17.63,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.64,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7374486639566944,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.52,
+   "eligibilityWeight": 0.261,
+   "propEligible": false,
+   "interval50": [
+    4.95,
+    28.71
+   ],
+   "interval80": [
+    -5.33,
+    47.25
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873072|5220680|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873072|5220680|recYds",
+   "player": "Ted Hurst III",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TB",
+   "opp": "DET",
+   "opponentFactor": 1.04,
+   "projection": 17.63,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.72,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7430328614762287,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.52,
+   "eligibilityWeight": 0.261,
+   "propEligible": false,
+   "interval50": [
+    5.13,
+    28.59
+   ],
+   "interval80": [
+    -6.34,
+    48.87
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873072|5220680|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873072|5220680|recYds",
+   "player": "Ted Hurst III",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TB",
+   "opp": "DET",
+   "opponentFactor": 1.04,
+   "projection": 17.63,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.71,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.762201511429325,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.52,
+   "eligibilityWeight": 0.261,
+   "propEligible": false,
+   "interval50": [
+    6.16,
+    29.09
+   ],
+   "interval80": [
+    -4.16,
+    39.42
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873072|5220680|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873072|5220680|recYds",
+   "player": "Ted Hurst III",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 5.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TB",
+   "opp": "DET",
+   "opponentFactor": 1.04,
+   "projection": 17.63,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.65,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7430328614762287,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.52,
+   "eligibilityWeight": 0.261,
+   "propEligible": false,
+   "interval50": [
+    5.13,
+    28.59
+   ],
+   "interval80": [
+    -6.34,
+    48.87
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873072|5220680|rec|usage-efficiency-v1.4": {
+   "prop": "401873072|5220680|rec",
+   "player": "Ted Hurst III",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TB",
+   "opp": "DET",
+   "opponentFactor": 1.03,
+   "projection": 1,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.29,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.613409635336449,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873072|5220680|rec|yardage-scale-v2": {
+   "prop": "401873072|5220680|rec",
+   "player": "Ted Hurst III",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TB",
+   "opp": "DET",
+   "opponentFactor": 1.03,
+   "projection": 1,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.29,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.613409635336449,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873072|5220680|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873072|5220680|rec",
+   "player": "Ted Hurst III",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TB",
+   "opp": "DET",
+   "opponentFactor": 1.03,
+   "projection": 1,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.42,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6111260021926758,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873072|5220680|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873072|5220680|rec",
+   "player": "Ted Hurst III",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TB",
+   "opp": "DET",
+   "opponentFactor": 1.03,
+   "projection": 1,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.29,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.613409635336449,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873072|5220680|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873072|5220680|rec",
+   "player": "Ted Hurst III",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TB",
+   "opp": "DET",
+   "opponentFactor": 1.03,
+   "projection": 1,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.29,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.613409635336449,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passYds|usage-efficiency-v1.4": {
+   "prop": "401873067|11394|passYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passYds",
+   "line": 163.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 0.99,
+   "projection": 106.6,
+   "typicalError": 51.5,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.1,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passYds|yardage-scale-v2": {
+   "prop": "401873067|11394|passYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passYds",
+   "line": 163.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 0.99,
+   "projection": 106.6,
+   "typicalError": 51.5,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.1,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873067|11394|passYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passYds",
+   "line": 163.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 0.99,
+   "projection": 106.6,
+   "typicalError": 51.5,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.1,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873067|11394|passYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passYds",
+   "line": 163.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 0.99,
+   "projection": 106.6,
+   "typicalError": 51.5,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.1,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873067|11394|passYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passYds",
+   "line": 163.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 0.99,
+   "projection": 106.6,
+   "typicalError": 51.5,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.1,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|cmp|usage-efficiency-v1.4": {
+   "prop": "401873067|11394|cmp",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "cmp",
+   "line": 16.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 9.98,
+   "typicalError": 3.6,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.81,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|cmp|yardage-scale-v2": {
+   "prop": "401873067|11394|cmp",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "cmp",
+   "line": 16.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 9.98,
+   "typicalError": 3.6,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.81,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|cmp|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873067|11394|cmp",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "cmp",
+   "line": 16.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 9.98,
+   "typicalError": 3.6,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.81,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|cmp|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873067|11394|cmp",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "cmp",
+   "line": 16.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 9.98,
+   "typicalError": 3.6,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.81,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|cmp|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873067|11394|cmp",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "cmp",
+   "line": 16.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 9.98,
+   "typicalError": 3.6,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 1.81,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passTd|usage-efficiency-v1.4": {
+   "prop": "401873067|11394|passTd",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passTd",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 0.33,
+   "typicalError": 0.8,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.21,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passTd|yardage-scale-v2": {
+   "prop": "401873067|11394|passTd",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passTd",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 0.33,
+   "typicalError": 0.8,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.21,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passTd|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873067|11394|passTd",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passTd",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 0.33,
+   "typicalError": 0.8,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.21,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passTd|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873067|11394|passTd",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passTd",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 0.33,
+   "typicalError": 0.8,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.21,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passTd|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873067|11394|passTd",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passTd",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 0.33,
+   "typicalError": 0.8,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.21,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873067|11394|rushYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 14.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1.04,
+   "projection": 17.33,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.58,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6278801918424894,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.93,
+   "eligibilityWeight": 0.079,
+   "propEligible": false,
+   "interval50": [
+    9.56,
+    21.9
+   ],
+   "interval80": [
+    -2.59,
+    41.05
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|rushYds|yardage-scale-v2": {
+   "prop": "401873067|11394|rushYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 14.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1.04,
+   "projection": 17.33,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.29,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6132664501729315,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.93,
+   "eligibilityWeight": 0.079,
+   "propEligible": false,
+   "interval50": [
+    9.29,
+    22.19
+   ],
+   "interval80": [
+    -2.28,
+    41.11
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873067|11394|rushYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 14.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1.04,
+   "projection": 17.33,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.58,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6278801918424894,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.93,
+   "eligibilityWeight": 0.079,
+   "propEligible": false,
+   "interval50": [
+    9.56,
+    21.9
+   ],
+   "interval80": [
+    -2.59,
+    41.05
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873067|11394|rushYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 14.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1.04,
+   "projection": 17.33,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.25,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.5978757013584619,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.93,
+   "eligibilityWeight": 0.079,
+   "propEligible": false,
+   "interval50": [
+    9.64,
+    25.01
+   ],
+   "interval80": [
+    2.72,
+    31.94
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873067|11394|rushYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 14.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1.04,
+   "projection": 17.33,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.33,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6278801918424894,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.93,
+   "eligibilityWeight": 0.079,
+   "propEligible": false,
+   "interval50": [
+    9.56,
+    21.9
+   ],
+   "interval80": [
+    -2.59,
+    41.05
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|int|usage-efficiency-v1.4": {
+   "prop": "401873067|11394|int",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "int",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 0.56,
+   "typicalError": 0.6,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.1,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|int|yardage-scale-v2": {
+   "prop": "401873067|11394|int",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "int",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 0.56,
+   "typicalError": 0.6,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.1,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|int|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873067|11394|int",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "int",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 0.56,
+   "typicalError": 0.6,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.1,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|int|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873067|11394|int",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "int",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 0.56,
+   "typicalError": 0.6,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.1,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|int|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873067|11394|int",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "int",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 0.56,
+   "typicalError": 0.6,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.1,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|att|usage-efficiency-v1.4": {
+   "prop": "401873067|11394|att",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "att",
+   "line": 30.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 15.8,
+   "typicalError": 5,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 2.94,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|att|yardage-scale-v2": {
+   "prop": "401873067|11394|att",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "att",
+   "line": 30.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 15.8,
+   "typicalError": 5,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 2.94,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|att|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873067|11394|att",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "att",
+   "line": 30.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 15.8,
+   "typicalError": 5,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 2.94,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|att|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873067|11394|att",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "att",
+   "line": 30.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 15.8,
+   "typicalError": 5,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 2.94,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|att|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873067|11394|att",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "att",
+   "line": 30.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 15.8,
+   "typicalError": 5,
+   "lean": null,
+   "tone": "withheld",
+   "label": "No lean — role change",
+   "capped": false,
+   "abstain": true,
+   "guardCode": "role-change",
+   "gapSd": 2.94,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passRushYds|usage-efficiency-v1.4": {
+   "prop": "401873067|11394|passRushYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passRushYds",
+   "line": 182.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 133.62,
+   "typicalError": 55,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.89,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passRushYds|yardage-scale-v2": {
+   "prop": "401873067|11394|passRushYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passRushYds",
+   "line": 182.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 133.62,
+   "typicalError": 55,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.89,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passRushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873067|11394|passRushYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passRushYds",
+   "line": 182.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 133.62,
+   "typicalError": 55,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.89,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passRushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873067|11394|passRushYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passRushYds",
+   "line": 182.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 133.62,
+   "typicalError": 55,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.89,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873067|11394|passRushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873067|11394|passRushYds",
+   "player": "Josh Johnson",
+   "pos": "QB",
+   "stat": "passRushYds",
+   "line": 182.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "ARI",
+   "opp": "KC",
+   "opponentFactor": 1,
+   "projection": 133.62,
+   "typicalError": 55,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Slight lean under",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.89,
+   "guardReason": "22 pass attempts last game, 11.3 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "22 pass attempts last game, 11.3 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": null,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|8439|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873076|8439|rushYds",
+   "player": "Aaron Rodgers",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1.04,
+   "projection": 5.34,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.69,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6896453741048765,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.45,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    -2.42,
+    9.91
+   ],
+   "interval80": [
+    -14.57,
+    29.07
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|8439|rushYds|yardage-scale-v2": {
+   "prop": "401873076|8439|rushYds",
+   "player": "Aaron Rodgers",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1.04,
+   "projection": 5.34,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.3,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6187391287087066,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.45,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    -1.3,
+    10.23
+   ],
+   "interval80": [
+    -4.16,
+    19.88
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|8439|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873076|8439|rushYds",
+   "player": "Aaron Rodgers",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1.04,
+   "projection": 5.34,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.69,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6896453741048765,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.45,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    -2.42,
+    9.91
+   ],
+   "interval80": [
+    -14.57,
+    29.07
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|8439|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873076|8439|rushYds",
+   "player": "Aaron Rodgers",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1.04,
+   "projection": 5.34,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.42,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6644937079725446,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.45,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    -2.35,
+    13.03
+   ],
+   "interval80": [
+    -9.27,
+    19.95
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|8439|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873076|8439|rushYds",
+   "player": "Aaron Rodgers",
+   "pos": "QB",
+   "stat": "rushYds",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1.04,
+   "projection": 5.34,
+   "typicalError": 11.4,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.49,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6896453741048765,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.45,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    -2.42,
+    9.91
+   ],
+   "interval80": [
+    -14.57,
+    29.07
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|4431492|recYds|usage-efficiency-v1.4": {
+   "prop": "401873076|4431492|recYds",
+   "player": "Roman Wilson",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1,
+   "projection": 31.64,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.75,
+   "guardReason": "1 targets last game, 6.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 targets last game, 6.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.760031147548716,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.27,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    19.15,
+    42.61
+   ],
+   "interval80": [
+    7.67,
+    62.89
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|4431492|recYds|yardage-scale-v2": {
+   "prop": "401873076|4431492|recYds",
+   "player": "Roman Wilson",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1,
+   "projection": 31.64,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.38,
+   "guardReason": "1 targets last game, 6.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 targets last game, 6.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6496656444659686,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.27,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    12.57,
+    48.13
+   ],
+   "interval80": [
+    2.61,
+    67.78
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|4431492|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873076|4431492|recYds",
+   "player": "Roman Wilson",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1,
+   "projection": 31.64,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.75,
+   "guardReason": "1 targets last game, 6.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 targets last game, 6.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.760031147548716,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.27,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    19.15,
+    42.61
+   ],
+   "interval80": [
+    7.67,
+    62.89
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|4431492|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873076|4431492|recYds",
+   "player": "Roman Wilson",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1,
+   "projection": 31.64,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.77,
+   "guardReason": "1 targets last game, 6.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 targets last game, 6.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7802766618987202,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.27,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    20.18,
+    43.11
+   ],
+   "interval80": [
+    9.86,
+    53.43
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|4431492|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873076|4431492|recYds",
+   "player": "Roman Wilson",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 18.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1,
+   "projection": 31.64,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.71,
+   "guardReason": "1 targets last game, 6.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 targets last game, 6.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.760031147548716,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 4.27,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    19.15,
+    42.61
+   ],
+   "interval80": [
+    7.67,
+    62.89
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|4431492|rec|usage-efficiency-v1.4": {
+   "prop": "401873076|4431492|rec",
+   "player": "Roman Wilson",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1,
+   "projection": 2.27,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.33,
+   "guardReason": "1 targets last game, 6.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 targets last game, 6.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6298155578319626,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|4431492|rec|yardage-scale-v2": {
+   "prop": "401873076|4431492|rec",
+   "player": "Roman Wilson",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1,
+   "projection": 2.27,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.33,
+   "guardReason": "1 targets last game, 6.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 targets last game, 6.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6298155578319626,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|4431492|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873076|4431492|rec",
+   "player": "Roman Wilson",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1,
+   "projection": 2.27,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.58,
+   "guardReason": "1 targets last game, 6.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 targets last game, 6.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6866716395089354,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|4431492|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873076|4431492|rec",
+   "player": "Roman Wilson",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1,
+   "projection": 2.27,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.33,
+   "guardReason": "1 targets last game, 6.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 targets last game, 6.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6298155578319626,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873076|4431492|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873076|4431492|rec",
+   "player": "Roman Wilson",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 1.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "PIT",
+   "opp": "PHI",
+   "opponentFactor": 1,
+   "projection": 2.27,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.33,
+   "guardReason": "1 targets last game, 6.0 a game before it",
+   "flags": [
+    "usage"
+   ],
+   "flagReasons": [
+    "1 targets last game, 6.0 a game before it"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6298155578319626,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873077|15818|recYds|usage-efficiency-v1.4": {
+   "prop": "401873077|15818|recYds",
+   "player": "Keenan Allen",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 23.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 51.71,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.21,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9320722840035267,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 7.14,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    39.21,
+    62.67
+   ],
+   "interval80": [
+    27.74,
+    82.95
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|15818|recYds|yardage-scale-v2": {
+   "prop": "401873077|15818|recYds",
+   "player": "Keenan Allen",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 23.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 51.71,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.71,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7617739660550623,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 7.14,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    24.15,
+    75.52
+   ],
+   "interval80": [
+    9.75,
+    103.91
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|15818|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873077|15818|recYds",
+   "player": "Keenan Allen",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 23.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 51.71,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.21,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9320722840035267,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 7.14,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    39.21,
+    62.67
+   ],
+   "interval80": [
+    27.74,
+    82.95
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|15818|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873077|15818|recYds",
+   "player": "Keenan Allen",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 23.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 51.71,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": "unexplained",
+   "gapSd": 1.66,
+   "guardReason": "The market disagrees sharply and nothing in the data explains why — more likely a gap in our data than an edge.",
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9514642035129712,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 7.14,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    40.24,
+    63.17
+   ],
+   "interval80": [
+    29.92,
+    73.49
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|15818|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873077|15818|recYds",
+   "player": "Keenan Allen",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 23.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 51.71,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.49,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9320722840035267,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 7.14,
+   "eligibilityWeight": 1,
+   "propEligible": true,
+   "interval50": [
+    39.21,
+    62.67
+   ],
+   "interval80": [
+    27.74,
+    82.95
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|4431466|recYds|usage-efficiency-v1.4": {
+   "prop": "401873077|4431466|recYds",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 33.31,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.12,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9061403224498561,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.26,
+   "eligibilityWeight": 0.631,
+   "propEligible": false,
+   "interval50": [
+    20.81,
+    44.27
+   ],
+   "interval80": [
+    9.34,
+    64.55
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|4431466|recYds|yardage-scale-v2": {
+   "prop": "401873077|4431466|recYds",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 33.31,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.33,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9080271718974444,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.26,
+   "eligibilityWeight": 0.631,
+   "propEligible": false,
+   "interval50": [
+    18.74,
+    45.95
+   ],
+   "interval80": [
+    9.31,
+    63.69
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|4431466|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873077|4431466|recYds",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 33.31,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.12,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9061403224498561,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.26,
+   "eligibilityWeight": 0.631,
+   "propEligible": false,
+   "interval50": [
+    20.81,
+    44.27
+   ],
+   "interval80": [
+    9.34,
+    64.55
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|4431466|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873077|4431466|recYds",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 33.31,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.46,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9277342728344857,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.26,
+   "eligibilityWeight": 0.631,
+   "propEligible": false,
+   "interval50": [
+    21.84,
+    44.77
+   ],
+   "interval80": [
+    11.52,
+    55.09
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|4431466|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873077|4431466|recYds",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 33.31,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.32,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9061403224498561,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 3.26,
+   "eligibilityWeight": 0.631,
+   "propEligible": false,
+   "interval50": [
+    20.81,
+    44.27
+   ],
+   "interval80": [
+    9.34,
+    64.55
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|15818|rec|usage-efficiency-v1.4": {
+   "prop": "401873077|15818|rec",
+   "player": "Keenan Allen",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 5.02,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.91,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8183273315995743,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|15818|rec|yardage-scale-v2": {
+   "prop": "401873077|15818|rec",
+   "player": "Keenan Allen",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 5.02,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.91,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8183273315995743,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|15818|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873077|15818|rec",
+   "player": "Keenan Allen",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 5.02,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.33,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.9395282123557208,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|15818|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873077|15818|rec",
+   "player": "Keenan Allen",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 5.02,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.91,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8183273315995743,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|15818|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873077|15818|rec",
+   "player": "Keenan Allen",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 2.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 5.02,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.91,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.8183273315995743,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|4431466|rec|usage-efficiency-v1.4": {
+   "prop": "401873077|4431466|rec",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 2.43,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.2,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.88468986069121,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|4431466|rec|yardage-scale-v2": {
+   "prop": "401873077|4431466|rec",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 2.43,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.2,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.88468986069121,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|4431466|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873077|4431466|rec",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 2.43,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.1,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.898031400019287,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|4431466|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873077|4431466|rec",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 2.43,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.2,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.88468986069121,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873077|4431466|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873077|4431466|rec",
+   "player": "Jordan Watkins",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "SF",
+   "opp": "MIN",
+   "opponentFactor": 1,
+   "projection": 2.43,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 1.2,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.88468986069121,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795396800000,
+   "overrides": []
+  },
+  "401873078|4690923|recYds|usage-efficiency-v1.4": {
+   "prop": "401873078|4690923|recYds",
+   "player": "Ben Sinnott",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "WAS",
+   "opp": "CIN",
+   "opponentFactor": 1.11,
+   "projection": 13.57,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.64,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7014074579435423,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.73,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    1.08,
+    24.54
+   ],
+   "interval80": [
+    -10.4,
+    44.82
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795482900000,
+   "overrides": []
+  },
+  "401873078|4690923|recYds|yardage-scale-v2": {
+   "prop": "401873078|4690923|recYds",
+   "player": "Ben Sinnott",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "WAS",
+   "opp": "CIN",
+   "opponentFactor": 1.11,
+   "projection": 13.57,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.64,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7014074579435423,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.73,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    1.08,
+    24.54
+   ],
+   "interval80": [
+    -10.4,
+    44.82
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795482900000,
+   "overrides": []
+  },
+  "401873078|4690923|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873078|4690923|recYds",
+   "player": "Ben Sinnott",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "WAS",
+   "opp": "CIN",
+   "opponentFactor": 1.11,
+   "projection": 13.57,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.64,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7014074579435423,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.73,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    1.08,
+    24.54
+   ],
+   "interval80": [
+    -10.4,
+    44.82
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795482900000,
+   "overrides": []
+  },
+  "401873078|4690923|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873078|4690923|recYds",
+   "player": "Ben Sinnott",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "WAS",
+   "opp": "CIN",
+   "opponentFactor": 1.11,
+   "projection": 13.57,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.59,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7231963166205393,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.73,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    2.1,
+    25.04
+   ],
+   "interval80": [
+    -8.22,
+    35.36
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795482900000,
+   "overrides": []
+  },
+  "401873078|4690923|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873078|4690923|recYds",
+   "player": "Ben Sinnott",
+   "pos": "TE",
+   "stat": "recYds",
+   "line": 3.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "WAS",
+   "opp": "CIN",
+   "opponentFactor": 1.11,
+   "projection": 13.57,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.53,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7014074579435423,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.73,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    1.08,
+    24.54
+   ],
+   "interval80": [
+    -10.4,
+    44.82
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795482900000,
+   "overrides": []
+  },
+  "401873078|4690923|rec|usage-efficiency-v1.4": {
+   "prop": "401873078|4690923|rec",
+   "player": "Ben Sinnott",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "WAS",
+   "opp": "CIN",
+   "opponentFactor": 1.07,
+   "projection": 1.59,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7706853446482279,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795482900000,
+   "overrides": []
+  },
+  "401873078|4690923|rec|yardage-scale-v2": {
+   "prop": "401873078|4690923|rec",
+   "player": "Ben Sinnott",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "WAS",
+   "opp": "CIN",
+   "opponentFactor": 1.07,
+   "projection": 1.59,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7706853446482279,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795482900000,
+   "overrides": []
+  },
+  "401873078|4690923|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873078|4690923|rec",
+   "player": "Ben Sinnott",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "WAS",
+   "opp": "CIN",
+   "opponentFactor": 1.07,
+   "projection": 1.59,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7621516231744659,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795482900000,
+   "overrides": []
+  },
+  "401873078|4690923|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873078|4690923|rec",
+   "player": "Ben Sinnott",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "WAS",
+   "opp": "CIN",
+   "opponentFactor": 1.07,
+   "projection": 1.59,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7706853446482279,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795482900000,
+   "overrides": []
+  },
+  "401873078|4690923|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873078|4690923|rec",
+   "player": "Ben Sinnott",
+   "pos": "TE",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "WAS",
+   "opp": "CIN",
+   "opponentFactor": 1.07,
+   "projection": 1.59,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Lean over",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.74,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7706853446482279,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795301413629,
+   "kickoff": 1795482900000,
+   "overrides": []
   }
  },
  "checks": [
@@ -138170,6 +142930,13 @@
    1795270750521,
    619,
    15,
+   32,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1795301413629,
+   639,
+   100,
    32,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
