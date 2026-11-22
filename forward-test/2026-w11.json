@@ -147019,6 +147019,511 @@
    "at": 1795325183313,
    "kickoff": 1795482900000,
    "overrides": []
+  },
+  "401873073|3925357|recYds|usage-efficiency-v1.4": {
+   "prop": "401873073|3925357|recYds",
+   "player": "Calvin Ridley",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 18.56,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.64,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7011546708565163,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.53,
+   "eligibilityWeight": 0.265,
+   "propEligible": false,
+   "interval50": [
+    6.06,
+    29.52
+   ],
+   "interval80": [
+    -5.41,
+    49.8
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795356599956,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|3925357|recYds|yardage-scale-v2": {
+   "prop": "401873073|3925357|recYds",
+   "player": "Calvin Ridley",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 18.56,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.51,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6933660221105766,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.53,
+   "eligibilityWeight": 0.265,
+   "propEligible": false,
+   "interval50": [
+    5.86,
+    29.65
+   ],
+   "interval80": [
+    -4.4,
+    48.17
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795356599956,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|3925357|recYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873073|3925357|recYds",
+   "player": "Calvin Ridley",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 18.56,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.64,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7011546708565163,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.53,
+   "eligibilityWeight": 0.265,
+   "propEligible": false,
+   "interval50": [
+    6.06,
+    29.52
+   ],
+   "interval80": [
+    -5.41,
+    49.8
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795356599956,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|3925357|recYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873073|3925357|recYds",
+   "player": "Calvin Ridley",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 18.56,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.59,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7229339357202054,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.53,
+   "eligibilityWeight": 0.265,
+   "propEligible": false,
+   "interval50": [
+    7.09,
+    30.02
+   ],
+   "interval80": [
+    -3.23,
+    40.34
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795356599956,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|3925357|recYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873073|3925357|recYds",
+   "player": "Calvin Ridley",
+   "pos": "WR",
+   "stat": "recYds",
+   "line": 8.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.03,
+   "projection": 18.56,
+   "typicalError": 17,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.53,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.7011546708565163,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 2.53,
+   "eligibilityWeight": 0.265,
+   "propEligible": false,
+   "interval50": [
+    6.06,
+    29.52
+   ],
+   "interval80": [
+    -5.41,
+    49.8
+   ],
+   "beyondCalibration": true,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795356599956,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|3925357|rec|usage-efficiency-v1.4": {
+   "prop": "401873073|3925357|rec",
+   "player": "Calvin Ridley",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.09,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.37,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6452353514484199,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "60a0945",
+   "at": 1795356599956,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|3925357|rec|yardage-scale-v2": {
+   "prop": "401873073|3925357|rec",
+   "player": "Calvin Ridley",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.09,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.37,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6452353514484199,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795356599956,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|3925357|rec|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873073|3925357|rec",
+   "player": "Calvin Ridley",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.09,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.48,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6421765403768852,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795356599956,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|3925357|rec|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873073|3925357|rec",
+   "player": "Calvin Ridley",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.09,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.37,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6452353514484199,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795356599956,
+   "kickoff": 1795370400000,
+   "overrides": []
+  },
+  "401873073|3925357|rec|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873073|3925357|rec",
+   "player": "Calvin Ridley",
+   "pos": "WR",
+   "stat": "rec",
+   "line": 0.5,
+   "asOf": {
+    "season": 2026,
+    "week": 11
+   },
+   "team": "TEN",
+   "opp": "DAL",
+   "opponentFactor": 1.02,
+   "projection": 1.09,
+   "typicalError": 1.3,
+   "lean": "over",
+   "tone": "lean",
+   "label": "Slight lean over",
+   "capped": true,
+   "abstain": false,
+   "guardCode": "role-capped",
+   "gapSd": 0.37,
+   "guardReason": "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game",
+   "flags": [
+    "teammate"
+   ],
+   "flagReasons": [
+    "Wan'Dale Robinson is Injured Reserve — he was seeing 5.7 tgt a game"
+   ],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.6452353514484199,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "60a0945",
+   "at": 1795356599956,
+   "kickoff": 1795370400000,
+   "overrides": []
   }
  },
  "checks": [
@@ -147173,6 +147678,13 @@
    1795325183313,
    658,
    92,
+   33,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1795356599956,
+   660,
+   10,
    33,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
