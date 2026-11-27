@@ -176044,6 +176044,266 @@
    "at": 1795726783693,
    "kickoff": 1796001600000,
    "overrides": []
+  },
+  "401873083|4362748|rushYds|usage-efficiency-v1.4": {
+   "prop": "401873083|4362748|rushYds",
+   "player": "Tyler Badie",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 12
+   },
+   "team": "DEN",
+   "opp": "PIT",
+   "opponentFactor": 0.98,
+   "projection": 4.37,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.45,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3266724642896415,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.13,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -3.39,
+    8.94
+   ],
+   "interval80": [
+    -15.54,
+    28.09
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4",
+   "shadow": false,
+   "commit": "8a550aa",
+   "at": 1795755334551,
+   "kickoff": 1795809600000,
+   "overrides": []
+  },
+  "401873083|4362748|rushYds|yardage-scale-v2": {
+   "prop": "401873083|4362748|rushYds",
+   "player": "Tyler Badie",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 12
+   },
+   "team": "DEN",
+   "opp": "PIT",
+   "opponentFactor": 0.98,
+   "projection": 4.37,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.45,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3266724642896415,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.13,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -3.39,
+    8.94
+   ],
+   "interval80": [
+    -15.54,
+    28.09
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "yardage-scale-v2",
+   "shadow": true,
+   "commit": "8a550aa",
+   "at": 1795755334551,
+   "kickoff": 1795809600000,
+   "overrides": []
+  },
+  "401873083|4362748|rushYds|usage-efficiency-v1.4-continuous-counts": {
+   "prop": "401873083|4362748|rushYds",
+   "player": "Tyler Badie",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 12
+   },
+   "team": "DEN",
+   "opp": "PIT",
+   "opponentFactor": 0.98,
+   "projection": 4.37,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.45,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3266724642896415,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.13,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -3.39,
+    8.94
+   ],
+   "interval80": [
+    -15.54,
+    28.09
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-continuous-counts",
+   "shadow": true,
+   "commit": "8a550aa",
+   "at": 1795755334551,
+   "kickoff": 1795809600000,
+   "overrides": []
+  },
+  "401873083|4362748|rushYds|usage-efficiency-v1.4-normal-yardage": {
+   "prop": "401873083|4362748|rushYds",
+   "player": "Tyler Badie",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 12
+   },
+   "team": "DEN",
+   "opp": "PIT",
+   "opponentFactor": 0.98,
+   "projection": 4.37,
+   "typicalError": 11.4,
+   "lean": null,
+   "tone": "flat",
+   "label": "Too close to call",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.01,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.4954865887083738,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.13,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -3.32,
+    12.06
+   ],
+   "interval80": [
+    -10.24,
+    18.98
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-normal-yardage",
+   "shadow": true,
+   "commit": "8a550aa",
+   "at": 1795755334551,
+   "kickoff": 1795809600000,
+   "overrides": []
+  },
+  "401873083|4362748|rushYds|usage-efficiency-v1.4-signed-tail": {
+   "prop": "401873083|4362748|rushYds",
+   "player": "Tyler Badie",
+   "pos": "RB",
+   "stat": "rushYds",
+   "line": 4.5,
+   "asOf": {
+    "season": 2026,
+    "week": 12
+   },
+   "team": "DEN",
+   "opp": "PIT",
+   "opponentFactor": 0.98,
+   "projection": 4.37,
+   "typicalError": 11.4,
+   "lean": "under",
+   "tone": "lean",
+   "label": "Lean under",
+   "capped": false,
+   "abstain": false,
+   "guardCode": null,
+   "gapSd": 0.45,
+   "guardReason": null,
+   "flags": [],
+   "flagReasons": [],
+   "flagsCaptured": [
+    "usage",
+    "teammate"
+   ],
+   "availabilityDegraded": false,
+   "pOver": 0.3266724642896415,
+   "calibrated": true,
+   "displayPolicy": "no-leans-2026-09-22",
+   "volume": 1.13,
+   "eligibilityWeight": 0,
+   "propEligible": false,
+   "interval50": [
+    -3.39,
+    8.94
+   ],
+   "interval80": [
+    -15.54,
+    28.09
+   ],
+   "beyondCalibration": false,
+   "modelVersion": "usage-efficiency-v1.4-signed-tail",
+   "shadow": true,
+   "commit": "8a550aa",
+   "at": 1795755334551,
+   "kickoff": 1795809600000,
+   "overrides": []
   }
  },
  "checks": [
@@ -176129,6 +176389,13 @@
    772,
    75,
    24,
+   "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
+  ],
+  [
+   1795755334551,
+   774,
+   5,
+   23,
    "usage-efficiency-v1.4+yardage-scale-v2+usage-efficiency-v1.4-continuous-counts+usage-efficiency-v1.4-normal-yardage+usage-efficiency-v1.4-signed-tail+pool-share-v2"
   ]
  ],
